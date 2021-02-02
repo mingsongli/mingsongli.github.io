@@ -12,12 +12,11 @@ title: Users' Guide & Examples
                 <p><h5> or: Acycle's "Help" menu - "Manual" </h5></p>
                 <p><h5> or:    /doc/AC_Users_Guide.pdf  (MatLab version)</h5></p>
             </div>
-    </section>
     <section id = "examples">
         <div class ="divider"></div>
         <div class = "container">
         <div class ="heading">
-                <h3>Most Used Tools</h3>
+                <h3>GUIs</h3>
         </div>
         <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
             <ol class="carousel-indicators">
