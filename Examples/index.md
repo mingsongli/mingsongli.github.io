@@ -11,7 +11,7 @@ title: Publications
                 <div class="heading">
                         <h3>Acycle menu</h3>
                 </div>
-                <img src="https://github.com/mingsongli/acycleFig/blob/master/acycle-demo-gif/1.-acycle-menuscutslow.gif" alt ="Acycle menu">
+                <img src="images/1.-acycle-menuscutslow.gif" alt ="Acycle menu">
                 <h5> Acycle menu</h5>
             </div>
         </div>
@@ -23,7 +23,7 @@ title: Publications
                 <div class="heading">
                         <h3>Acycle insolation toolbox</h3>
                 </div>
-                <img src="https://github.com/mingsongli/acycleFig/blob/master/acycle-demo-gif/2.acycle-insolationS.gif" alt ="Acycle menu">
+                <img src="images/2.acycle-insolationS.gif" alt ="Acycle menu">
                 <h5> Acycle insolation toolbox</h5>
                 <h5><a href ="https://github.com/mingsongli/acycle/wiki/4.5-Basic-Series#insolation"> Read More</a></h5>
             </div>
