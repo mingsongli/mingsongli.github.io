@@ -4,9 +4,100 @@ title: Publications
 --- 
 
 <section>
-	<p>[5] <span id="bold"> Boris Louis </span>, Rafael Camacho, Roger Bresolí-Obach, Sergey Abakumov, Johannes Vandaele, Tetsuhiro Kudo, Hiroshi Masuhara, Ivan G. Scheblykin, Johan Hofkens and Susana Rocha. <span id ="italic"> Fast-tracking of single emitters in large volumes with nanometer precision</span>, Optics Express, 2020.</p>
-	<p>[4] Johannes Vandaele, <span id="bold"> Boris Louis </span>, Kaizheng Liu, Rafael Camacho, Paul H. Kouwer and Susana Rocha. <span id ="italic">Structural characterization of fibrous synthetic hydrogels using fluorescence microscopy</span>, Soft Matter, 17, 2020.</p>
-	<p>[3] Aboma Merdasa, Alexander Kiligaridis, Carolin Rehermann, Mojtaba Abdi-Jalebi, Jonas Stöber, <span id ="bold">Boris Louis</span>, Marina Gerhard, Samuel D. Stranks, Eva L. Unger, Ivan G. Scheblykin, <span id ="italic">Impact of Excess Lead Iodide on the Recombination Kinetics in Metal Halide Perovskites</span>, ACS Energy Letters, 4, 6, 1370-1378, 2019.</p>
-	<p>[2] Marina Gerhard, <span id="bold">Boris Louis</span>, Rafael Camacho, Aboma Merdasa, Jun Li, Alexander Kiligaridis,Alexander Dobrovolsky, Johan Hofkens, Ivan G. Scheblykin. <span id = "italic">Microscopic insight into non-radiative decay in perovskite semiconductors from temperature dependent luminescence blinking</span>, Nature Communications, 2019</p>
-	<p>[1] <span id="bold">Boris Louis</span>, Stéphane Caubergh, Per-Olof Larsson, Yuxi Tian, Ivan G. Scheblykin, <span id= "italic">Light and Oxygen induce chain-scission of conjugated polymers in solution</span>, Physical Chemistry Chemical Physics, 3, 2018.</p>
+
+![](https://github.com/mingsongli/acycleFig/blob/master/acycle-demo-gif/1.-acycle-menuscutslow.gif)
+
+_Acycle menu_
+
+![](https://github.com/mingsongli/acycleFig/blob/master/acycle-demo-gif/2.acycle-insolationS.gif)
+
+_Acycle insolation toolbox_
+
+[Read More](https://github.com/mingsongli/acycle/wiki/4.5-Basic-Series#insolation)
+
+![](https://github.com/mingsongli/acycleFig/blob/master/chapter4/Insol-t-1-100ka-day-80-264-lat-50-80-meandaily-La04.gif)
+
+_Mean insolation map from March 21 to Sept. 23 for the past 100 kyr (1-100) at 50-80°N using the Laskar et al. (2004) solutions. The calculate uses a solar constant of 1365 w/m^2._
+
+[Read More](https://github.com/mingsongli/acycle/wiki/4.5-Basic-Series#insolation)
+
+![](https://github.com/mingsongli/acycleFig/blob/master/chapter6/6.2.la04-evofft.result.png)
+
+_Evolutionary FFT of the astronomical solution._
+
+[Read More](https://github.com/mingsongli/acycle/wiki/Examples#example-2-la2004-astronomical-solution-etp)
+
+![](https://github.com/mingsongli/acycleFig/blob/master/chapter6/6.3.wayao.spectral.result.png)
+
+_2π multi-taper method power spectrum of the gamma ray series is shown with `20%` median-smoothed spectrum, background AR(1) model, and 90%, 95%, 99%,  and 99.9% confidence levels._
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide1.jpeg)
+
+_Examples #1 Curve fitting | detrending | smoothing_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide2.jpeg)
+
+_Examples #2 Power spectral analysis_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide3.jpeg)
+
+_Examples #3 Evolutionary power spectral analysis and Wavelet analysis_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide4.jpeg)
+
+_Examples #4 COCO of sedimentation rate evaluation_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide5.jpeg)
+
+_Examples #5 eCOCO of sedimentation rate evaluation_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide6.jpeg)
+
+_Examples #6 Filtering_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide7.jpeg)
+
+_Examples #7 Tuning_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide8.jpeg)
+
+_Examples #8 DYNOT sedimentary noise model_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide9.jpeg)
+
+_Examples #9 Smoothed bootstrap_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide10.jpeg)
+
+_Examples #10 Coherence and phase_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide11.jpeg)
+
+_Examples #11 Plot Pro_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide12.jpeg)
+
+_Examples #12 Image profile_
+
+
+![](https://github.com/mingsongli/acycleFig/blob/master/MainFunctions/Slide13.jpeg)
+
+_Examples #13 Plot Digitizer_
+
+
+[Read More](https://github.com/mingsongli/acycle/blob/master/doc/AC_Users_Guide.pdf) and [example](https://github.com/mingsongli/acycle/wiki/Examples#example-3-carnian-cyclostratigraphy)
+
+---
+
 </section>
