@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Manuals & Examples
+title: Users' Guide & Examples
 --- 
 <section id = "project">
     <section id = "guide">
@@ -17,6 +17,7 @@ title: Manuals & Examples
         <div class ="divider"></div>
         <div class = "container">
         <div class ="heading">
+                <h3>Most Used Tools</h3>
         </div>
         <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
             <ol class="carousel-indicators">
