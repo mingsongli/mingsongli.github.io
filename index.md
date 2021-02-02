@@ -72,6 +72,48 @@ title:
 				</div>
 			</div>
 		</section>
+        <!--About Acycle-->
+            <section id = "about">
+                <div class ="divider"></div>
+                <div class ="heading">
+                    <h2>About Acycle</h2>
+                </div>
+                                <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
+                                    <ol class="carousel-indicators">
+                                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                                    </ol>
+                                    <div class="carousel-inner" role="listbox">
+                                        <div class="carousel-item active">
+                                            <img src="/images/AcycleVisitors.png" alt= "Users">
+                                            <div class="carousel-caption">
+                                                <h3>Users</h3>
+                                            </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="/images/Fig.1-GUI.png" alt= "GUI">
+                                    <div class="carousel-caption">
+                                    <h3> GUI </h3>
+                                    </div>
+                                </div>    
+                                <div class="carousel-item">
+                                    <img src="/images/6.2.la04-evofft.result.png" alt= "EvoFFT">
+                                    <div class="carousel-caption">
+                                    <h3> EvoFFT </h3>
+                                    </div>
+                                </div>        
+                                <div class="carousel-item">
+                                    <img src="/images/6.3.wayao.spectral.result.png" alt= "Spectrum">
+                                    <div class="carousel-caption">
+                                    <h3>Spectrum</h3>
+                                    </div>
+                                </div>
+                                <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
+                                <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
+                                </div>
+                </section>
                         <!--What they say-->
                         <section id = "theysay">
                             <div class ="divider"></div>
@@ -119,165 +161,6 @@ title:
                                 <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right"></span></a>
                             </div>
                         </section>
-			<!--History-->
-		<section id ="history">
-			<div class="container">
-				<div class="white-divider"></div>
-				<div class ="heading">
-					<h2> History </h2>
-				</div>
-				<ul class="timeline">
-					<li>
-						<div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-						<div class="timeline-panel-container-inverted">
-							<div class ="timeline-panel">
-								<div class="timeline-heading">
-                                                            <h3>Acycle v2.2 </h3>
-										<h4>MatLab RUNTIME 2019a</h4>
-										<p class="text-muted"><small class="fa fa-clock-o"></small> June 6, 2020 </p>
-								</div>
-								<div class="timeline-body">
-									<ul>
-										<li>
-                                                                                    <p>1. Power spectral analysis: For MTM, periodogram, and Lomb methods: Add the power-law model and bending power-law model.</p>
-											<p>2. Add curve fitting method for robust AR1 confidence level estimation.</p>
-										</li>
-										<li>
-                                                                                    <p> 3. Add a new tool: Basic Series -> Length-of-day & day-of-year.
-											</p>
-										</li>
-									</ul>
-								</div>
-							</div>
-						 </div>
-					</li>
-                                     <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-                                         <div class="timeline-panel-container">
-                                             <div class ="timeline-panel">
-                                                 <div class="timeline-heading">
-                                                                             <h3>Acycle v2.1 </h3>
-                                                         <h4>MatLab RUNTIME 2019a</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Feb. 23, 2020</p>
-                                                 </div>
-                                                 <div class="timeline-body">
-                                                     <ul>
-                                                         <li>
-                                                         <p>1. Update Spectral Moments section. </p>
-                                                         <p>2. Include f-test and amplitude spectrum.</p>
-                                                         </li>
-                                                     </ul>
-                                                 </div>
-                                             </div>
-                                          </div>
-                                     </li>
-                                     <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-                                         <div class="timeline-panel-container-inverted">
-                                             <div class ="timeline-panel">
-                                                 <div class="timeline-heading">
-                                                                             <h3>Acycle v2.0 </h3>
-                                                         <h4>MatLab RUNTIME 2019a</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Sept 2, 2019</p>
-                                                 </div>
-                                                 <div class="timeline-body">
-                                                     <ul>
-                                                         <li>
-                                                         <p>1. Completely redesign the GUI for the COCO and eCOCO</p>
-                                                         <p>2. Add the "Spectral Moments" tool.</p>
-                                                         </li>
-                                                     </ul>
-                                                 </div>
-                                             </div>
-                                          </div>
-                                     </li>
-                                     <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-                                         <div class="timeline-panel-container">
-                                             <div class ="timeline-panel">
-                                                 <div class="timeline-heading">
-                                                 <h3>Acycle v1.3 </h3>
-                                                         <h4>MatLab RUNTIME 2015b</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Aug 6, 2019</p>
-                                                 </div>
-                                                 <div class="timeline-body">
-                                                     <ul>
-                                                         <li>
-                                                         <p>1. Update the Spectral Analysis toolbox.</p>
-                                                         <p>2. Automatic update.</p>
-                                                         </li>
-                                                     </ul>
-                                                 </div>
-                                             </div>
-                                          </div>
-                                     </li>
-                                     <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-                                         <div class="timeline-panel-container-inverted">
-                                             <div class ="timeline-panel">
-                                                 <div class="timeline-heading">
-                                                 <h3>Acycle v1.2 </h3>
-                                                         <h4>MatLab RUNTIME 2015b</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>May 20, 2019</p>
-                                                 </div>
-                                                 <div class="timeline-body">
-                                                     <ul>
-                                                         <li>
-                                                         <p>1. Signal/Noise generator.</p>
-                                                         <p>2. Evolutionary spectral analysis: add one option for zero-padding top and bottom of series.</p>
-                                                         <p>3. COCO: detect test limits of sedimentation rate automatically.</p>
-                                                         </li>
-                                                     </ul>
-                                                 </div>
-                                             </div>
-                                          </div>
-                                     </li>
-                                     <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-                                         <div class="timeline-panel-container">
-                                             <div class ="timeline-panel">
-                                                 <div class="timeline-heading">
-                                                 <h3>Acycle v1.1 </h3>
-                                                         <h4>MatLab RUNTIME 2015b</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>April 6, 2019</p>
-                                                 </div>
-                                                 <div class="timeline-body">
-                                                     <ul>
-                                                         <li>
-                                                         <p>1. eCOCO: save optimal sed. rate as a text file.</p>
-                                                         <p>2. Mini-robot GUI.</p>
-                                                         </li>
-                                                     </ul>
-                                                 </div>
-                                             </div>
-                                          </div>
-                                     </li>
-					<li>
-						<div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-						<div class="timeline-panel-container-inverted">
-							<div class ="timeline-panel">
-								<div class="timeline-heading">
-                                                            <h3> Acycle 1.0</h3>
-									<h4>MatLab RUNTIME 2015b</h4>
-									<p class="text-muted"><small class="fa fa-clock-o"></small> Mar. 8, 2019 </p>
-								</div>
-								<div class="timeline-body">
-									<ul>
-										<li>
-                                        <p>1. Acycle paper has been accepted: </p>
-											<p>Mingsong Li, Linda Hinnov, Lee Kump. 2019. Acycle: Time-series analysis software for paleoclimate projects and education, Computers & Geosciences, 127: 12-22</p>
-										</li>
-										<li>
-                                        <p> 2. Refine GUIs of Detrending, Spectral Analysis, Evolutionary Spectral Analysis, Filtering, etc.</p>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</section>
 		<!--Authors-->
 		<section id ="authors">
 			<div class="heading">
@@ -410,6 +293,165 @@ title:
                                 </div>
 			</div>
 		</section>
+            <!--History-->
+        <section id ="history">
+            <div class="container">
+                <div class="white-divider"></div>
+                <div class ="heading">
+                    <h2> History </h2>
+                </div>
+                <ul class="timeline">
+                    <li>
+                        <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                        <div class="timeline-panel-container-inverted">
+                            <div class ="timeline-panel">
+                                <div class="timeline-heading">
+                                                            <h3>Acycle v2.2 </h3>
+                                        <h4>MatLab RUNTIME 2019a</h4>
+                                        <p class="text-muted"><small class="fa fa-clock-o"></small> June 6, 2020 </p>
+                                </div>
+                                <div class="timeline-body">
+                                    <ul>
+                                        <li>
+                                                                                    <p>1. Power spectral analysis: For MTM, periodogram, and Lomb methods: Add the power-law model and bending power-law model.</p>
+                                            <p>2. Add curve fitting method for robust AR1 confidence level estimation.</p>
+                                        </li>
+                                        <li>
+                                                                                    <p> 3. Add a new tool: Basic Series -> Length-of-day & day-of-year.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                         </div>
+                    </li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                                             <h3>Acycle v2.1 </h3>
+                                                         <h4>MatLab RUNTIME 2019a</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Feb. 23, 2020</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. Update Spectral Moments section. </p>
+                                                         <p>2. Include f-test and amplitude spectrum.</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container-inverted">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                                             <h3>Acycle v2.0 </h3>
+                                                         <h4>MatLab RUNTIME 2019a</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Sept 2, 2019</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. Completely redesign the GUI for the COCO and eCOCO</p>
+                                                         <p>2. Add the "Spectral Moments" tool.</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                 <h3>Acycle v1.3 </h3>
+                                                         <h4>MatLab RUNTIME 2015b</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Aug 6, 2019</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. Update the Spectral Analysis toolbox.</p>
+                                                         <p>2. Automatic update.</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container-inverted">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                 <h3>Acycle v1.2 </h3>
+                                                         <h4>MatLab RUNTIME 2015b</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>May 20, 2019</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. Signal/Noise generator.</p>
+                                                         <p>2. Evolutionary spectral analysis: add one option for zero-padding top and bottom of series.</p>
+                                                         <p>3. COCO: detect test limits of sedimentation rate automatically.</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                 <h3>Acycle v1.1 </h3>
+                                                         <h4>MatLab RUNTIME 2015b</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>April 6, 2019</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. eCOCO: save optimal sed. rate as a text file.</p>
+                                                         <p>2. Mini-robot GUI.</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+                    <li>
+                        <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                        <div class="timeline-panel-container-inverted">
+                            <div class ="timeline-panel">
+                                <div class="timeline-heading">
+                                                            <h3> Acycle 1.0</h3>
+                                    <h4>MatLab RUNTIME 2015b</h4>
+                                    <p class="text-muted"><small class="fa fa-clock-o"></small> Mar. 8, 2019 </p>
+                                </div>
+                                <div class="timeline-body">
+                                    <ul>
+                                        <li>
+                                        <p>1. Acycle paper has been accepted: </p>
+                                            <p>Mingsong Li, Linda Hinnov, Lee Kump. 2019. Acycle: Time-series analysis software for paleoclimate projects and education, Computers & Geosciences, 127: 12-22</p>
+                                        </li>
+                                        <li>
+                                        <p> 2. Refine GUIs of Detrending, Spectral Analysis, Evolutionary Spectral Analysis, Filtering, etc.</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
 		<footer class="text-center">
 			<a href="#about">
 				<span class="fa fa-arrow-up"></span>

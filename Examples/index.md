@@ -14,6 +14,9 @@ title: Examples
 		<li data-target="#myCarousel" data-slide-to="5"></li>
 		<li data-target="#myCarousel" data-slide-to="6"></li>
 		<li data-target="#myCarousel" data-slide-to="7"></li>
+                <li data-target="#myCarousel" data-slide-to="8"></li>
+                <li data-target="#myCarousel" data-slide-to="9"></li>
+                <li data-target="#myCarousel" data-slide-to="10"></li>
 	</ol>
 	<div class="carousel-inner" role="listbox">
 		<div class="carousel-item active">
@@ -22,12 +25,6 @@ title: Examples
 				<h3>Users</h3>
 			</div>
 </div>
-<div class="carousel-item">
-	<img src="/images/Fig.1-GUI.png" alt= "GUI">
-	<div class="carousel-caption">
-	<h3>GUI</h3>
-	</div>
-</div>	
 <div class="carousel-item">
 	<img src="/images/Slide1.jpeg" alt= "Smoothing">
 	<div class="carousel-caption">
@@ -98,7 +95,7 @@ title: Examples
 
 <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
 <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
-</div>			
+</div>
 
 <section id = "project">
     <section id = "Setup">
