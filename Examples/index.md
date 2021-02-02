@@ -41,7 +41,7 @@ title: Users' Guide & Examples
     <section id = "examples">
     <div class ="divider"></div>
     <div class ="heading">
-        <h3>Acycle tools</h3>
+        <h3>More Tools</h3>
     </div>
     <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -76,4 +76,3 @@ title: Users' Guide & Examples
     <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
     <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
     </div> 
-</section>
