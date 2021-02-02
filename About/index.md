@@ -1,0 +1,327 @@
+---
+layout: page
+title:
+---
+<body data-spy="scroll" data-target="#myNavBar" data-offset="100">
+		<!--PROFILE PICTURE-->
+		<section id="about" class="container-fluid">
+			<div class="col-xs-6 col-md-12 profile-picture">
+				<img src="images/default_icon_256.png" alt= "Acycle logo" class="rounded">
+				<div class="heading">
+                <p> </p>
+					<h1> ACYCLE </h1>
+					<h3>time-series analysis software <br>
+					    for paleoclimate research and education <br>  open source
+					    <br> graphical user interface (GUI) </h3>
+					<a href="docs/Li-et-al-2019-Acycle-software.pdf" class="button1"> Download Acycle Paper </a>
+				</div>	
+			</div>
+		</section>	
+		<!--MOST USED TOOLS-->
+		<section id="skills">
+			<div class ="divider"></div>
+			<div class="heading">
+				<h2>MOST USED TOOLS</h2>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="progress">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style ="width:65%">
+								<h5>Spectral Analysis 65%</h5>
+							</div>
+						</div>
+						<div class="progress">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:43%">
+								<h5>Evolutionary Spectral Analysis 43%</h5>
+							</div>
+						</div>
+						<div class="progress">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:39%">
+								<h5>Smoothing | Detrending 39%</h5>
+							</div>
+						</div>
+					<div class="progress">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:39%">
+								<h5>Astronomical solutions 39%</h5>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="progress">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style ="width:35%">
+								<h5>Correlation Coefficient 35%</h5>
+							</div>
+						</div>
+						<div class="progress">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style ="width:26%">
+								<h5>Wavelet 26%</h5>
+							</div>
+						</div>
+						<div class="progress">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:22%">
+								<h5>Insolation 22%</h5>
+							</div>
+						</div>
+						<div class="progress">
+							<div class ="progress-bar" role = "progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style ="width:13%">
+								<h5>Sedimentary Noise Model 13%</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+                        <!--What they say-->
+                        <section id = "theysay">
+                            <div class ="divider"></div>
+                            <div class ="heading">
+                                <h2>What they say</h2>
+                            </div>
+                            <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                                                      <li data-target="#myCarousel" data-slide-to="3"></li>
+                                                      <li data-target="#myCarousel" data-slide-to="4"></li>
+                                                      <li data-target="#myCarousel" data-slide-to="5"></li>
+                                </ol>
+                                <div class="carousel-inner" role="listbox">
+                                    <div class="carousel-item active">
+                                        <h3>Dr. J. Fred Read (Virginia Tech, USA)</h3>
+                                        <h4>"I am writing to express my appreciation for all the hard work and thought that has gone into the development of the Acycle software program. It is truly an amazing contribution to the geosciences community. As someone who has spent much of the last 50 years trying to understand cyclic carbonates on shallow platforms, and having been involved with my students in some of the early work on stratigraphic modelling of the effects of Milankovitch forcing of carbonate platform stratigraphy, I was blown away by the power of the Acycle software. In the old days we used in house programs from our geophysicist Cahit Coruh, and recently I have used Analyseries, kSpectra and Timefrq43, moving from Dos to Windows to Mac, jumping from one to the other to get the job done. Acycle has done away with the need for this, and I have been impressed with how very user friendly the program is – an indication of the tremendous effort and thought that has gone into putting this together. You should all feel very proud of this contribution. It opens up much needed access to these powerful tools for a wide audience in the sedimentary geology and paleoclimate community. Thanks again for all your efforts. A really marvellous job."</h4>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <h3>Dr. James Ogg (Purdue University, USA)</h3>
+                                        <h4>"Acycle software enables us to quickly analyze the potential of new outcrops and boreholes, and then to determine the sedimentation rates and elapsed time. His Acycle software will become the standard tool for time-scale applications by all international workers."</h4>
+                                    </div>
+                                    <div class="carousel-item">
+                                        <h3>Dr. Paul E. Olsen (Columbia University, USA)</h3>
+                                        <h4>"Not only is this software powerful and effective, it is also simple to use and therefore benefits researchers and at all levels within the paleoclimatology community, from novices to experts."</h4>
+                                    </div>
+                                                <div class="carousel-item">
+                                                    <h3>Dr. Frits Hilgen (Utrecht University, Netherlands)</h3>
+                                                    <h4>"I used it this academic year for the first time in my MSc course on Astronomical climate forcing and time scales as replacement of the outdated Analyseries program. The main advantages of Acycle is that it is very user friendly, has a lot of different options for the statistical analysis of paleoclimate records and in addition first-rate plotting options. For instance you can directly see the trend that you aim to remove and then decide whether you want to continue with it. It is further also very good to see the fast and almost continuous improvement of Acycle, including the processing of reported bugs. And, not unimportantly, also my students were very enthusiastic about Acycle and I now use it now for my own research as well!"</h4>
+                                                </div>
+                                                <div class="carousel-item">
+                                                    <h3>Dr. Nicolas R. Thibault (University of Copenhagen, Denmark)</h3>
+                                                    <h4>"I’ve been playing a lot with the excellent Acycle package for Matlab that Mingsong developed. Congratulations, this is a very nice interface that simplifies a lot our work and makes it truly faster to analyse a time-series."</h4>
+                                                </div>
+                                                <div class="carousel-item">
+                                                    <h3>Dr. Xu Yao (Lanzhou University, China)</h3>
+                                                    <h4>"I am working on cyclostratigraphy and paleoclimate study of ancient strata and rocks (270 million years ago) with assistance from Acycle software. I also introduced this software to my colleagues whose research areas are paleoclimate implications of Quaternary loess (several thousand years ago). My colleagues have given me really good feedbacks about Acycle software."</h4>
+                                                </div>
+                                </div>
+                                <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left"></span></a>
+                                <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right"></span></a>
+                            </div>
+                        </section>
+			<!--History-->
+		<section id ="history">
+			<div class="container">
+				<div class="white-divider"></div>
+				<div class ="heading">
+					<h2> History </h2>
+				</div>
+				<ul class="timeline">
+					<li>
+						<div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+						<div class="timeline-panel-container">
+							<div class ="timeline-panel">
+								<div class="timeline-heading">
+                                                            <h3>Acycle v2.2 </h3>
+										<h4>MatLab RUNTIME 2019a</h4>
+										<p class="text-muted"><small class="fa fa-clock-o"></small> June 6, 2020 </p>
+								</div>
+								<div class="timeline-body">
+									<ul>
+										<li>
+                                                                                    <p>1. Power spectral analysis: For MTM, periodogram, and Lomb methods: Add the power-law model and bending power-law model.</p>
+											<p>2. Add curve fitting method for robust AR1 confidence level estimation.</p>
+										</li>
+										<li>
+                                                                                    <p> 3. Add a new tool: Basic Series -> Length-of-day & day-of-year.
+											</p>
+                                            <p> ...
+                                            </p>
+										</li>
+									</ul>
+								</div>
+							</div>
+						 </div>
+					</li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                                             <h3>Acycle v2.1 </h3>
+                                                         <h4>MatLab RUNTIME 2019a</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Feb. 23, 2020</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. Update Spectral Moments section. </p>
+                                                         <p>2. Include f-test and amplitude spectrum.</p>
+                                                         <p> ...</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                                             <h3>Acycle v2.0 </h3>
+                                                         <h4>MatLab RUNTIME 2019a</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Sept 2, 2019</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. Completely redesign the GUI for the COCO and eCOCO</p>
+                                                         <p>2. Add the "Spectral Moments" tool.</p>
+                                                         <p> ...</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                 <h3>Acycle v1.3 </h3>
+                                                         <h4>MatLab RUNTIME 2015b</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Aug 6, 2019</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. Update the Spectral Analysis toolbox.</p>
+                                                         <p>2. Automatic update.</p>
+                                                         <p> ...</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                 <h3>Acycle v1.2 </h3>
+                                                         <h4>MatLab RUNTIME 2015b</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>May 20, 2019</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. Signal/Noise generator.</p>
+                                                         <p>2. Evolutionary spectral analysis: add one option for zero-padding top and bottom of series.</p>
+                                                         <p>3. COCO: detect test limits of sedimentation rate automatically.</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+                                     <li>
+                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class="timeline-panel-container">
+                                             <div class ="timeline-panel">
+                                                 <div class="timeline-heading">
+                                                 <h3>Acycle v1.1 </h3>
+                                                         <h4>MatLab RUNTIME 2015b</h4>
+                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>April 6, 2019</p>
+                                                 </div>
+                                                 <div class="timeline-body">
+                                                     <ul>
+                                                         <li>
+                                                         <p>1. eCOCO: save optimal sed. rate as a text file.</p>
+                                                         <p>2. Mini-robot GUI.</p>
+                                                         <p>...</p>
+                                                         </li>
+                                                     </ul>
+                                                 </div>
+                                             </div>
+                                          </div>
+                                     </li>
+					<li>
+						<div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+						<div class="timeline-panel-container-inverted">
+							<div class ="timeline-panel">
+								<div class="timeline-heading">
+                                                            <h3> Acycle 1.0</h3>
+									<h4>MatLab RUNTIME 2015b</h4>
+									<p class="text-muted"><small class="fa fa-clock-o"></small> Mar. 8, 2019 </p>
+								</div>
+								<div class="timeline-body">
+									<ul>
+										<li>
+                                        <p>1. Acycle paper has been accepted: </p>
+											<p>Mingsong Li, Linda Hinnov, Lee Kump. 2019. Acycle: Time-series analysis software for paleoclimate projects and education, Computers & Geosciences, 127: 12-22</p>
+										</li>
+										<li>
+                                        <p> 2. Refine GUIs of Detrending, Spectral Analysis, Evolutionary Spectral Analysis, Filtering, etc.</p>
+                                        <p> ... </p>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</section>
+		<!--Authors-->
+		<section id ="authors">
+			<div class="heading">
+				<div class="divider">
+				</div>
+				<h2>Authors</h2>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="education-block">
+							<h5></h5>
+							<span class="fa fa-user-circle-o"></span>
+							<h3> Mingsong Li</h3>
+							<h4>Peking University (was Penn State)</h4>
+							<div class="Sdivider"></div>
+							<p> Author and manager</p>
+							<p>msli {at} pku.edu.cn; limingsonglms {at} gmail.com</p>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="education-block">
+							<h5> </h5>
+							<span class="fa fa-user-o"></span>
+							<h3> Linda Hinnov</h3>
+							<h4>George Mason University</h4>
+							<div class="Sdivider"></div>
+							<p> lhinnov {at} gmu.edu</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer class="text-center">
+			<a href="#about">
+				<span class="fa fa-arrow-up"></span>
+			</a>
+			<!--<h5>
+				© Copyright Mingsong Li
+			</h5>-->
+		</footer>
+</body>
