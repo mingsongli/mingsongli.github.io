@@ -17,61 +17,6 @@ title:
 				</div>	
 			</div>
 		</section>	
-		<!--MOST USED TOOLS-->
-		<section id="skills">
-			<div class ="divider"></div>
-			<div class="heading">
-				<h2>MOST USED TOOLS</h2>
-			</div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6">
-						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style ="width:65%">
-								<h5>Spectral Analysis 65%</h5>
-							</div>
-						</div>
-						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:43%">
-								<h5>Evolutionary Spectral Analysis 43%</h5>
-							</div>
-						</div>
-						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:39%">
-								<h5>Smoothing | Detrending 39%</h5>
-							</div>
-						</div>
-					<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:39%">
-								<h5>Astronomical solutions 39%</h5>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6">
-						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style ="width:35%">
-								<h5>Correlation Coefficient 35%</h5>
-							</div>
-						</div>
-						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style ="width:26%">
-								<h5>Wavelet 26%</h5>
-							</div>
-						</div>
-						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:22%">
-								<h5>Insolation 22%</h5>
-							</div>
-						</div>
-						<div class="progress">
-							<div class ="progress-bar" role = "progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style ="width:13%">
-								<h5>Sedimentary Noise Model 13%</h5>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
         <!--About Acycle-->
             <section id = "about">
                 <div class ="divider"></div>
@@ -113,6 +58,61 @@ title:
                                 <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
                                 <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
                                 </div>
+                                <!--MOST USED TOOLS-->
+                                <section id="skills">
+                                    <div class ="divider"></div>
+                                    <div class="heading">
+                                        <h2>MOST USED TOOLS</h2>
+                                    </div>
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="progress">
+                                                    <div class ="progress-bar" role = "progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style ="width:65%">
+                                                        <h5>Spectral Analysis 65%</h5>
+                                                    </div>
+                                                </div>
+                                                <div class="progress">
+                                                    <div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:43%">
+                                                        <h5>Evolutionary Spectral Analysis 43%</h5>
+                                                    </div>
+                                                </div>
+                                                <div class="progress">
+                                                    <div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:39%">
+                                                        <h5>Smoothing | Detrending 39%</h5>
+                                                    </div>
+                                                </div>
+                                            <div class="progress">
+                                                    <div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:39%">
+                                                        <h5>Astronomical solutions 39%</h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="progress">
+                                                    <div class ="progress-bar" role = "progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style ="width:35%">
+                                                        <h5>Correlation Coefficient 35%</h5>
+                                                    </div>
+                                                </div>
+                                                <div class="progress">
+                                                    <div class ="progress-bar" role = "progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style ="width:26%">
+                                                        <h5>Wavelet 26%</h5>
+                                                    </div>
+                                                </div>
+                                                <div class="progress">
+                                                    <div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:22%">
+                                                        <h5>Insolation 22%</h5>
+                                                    </div>
+                                                </div>
+                                                <div class="progress">
+                                                    <div class ="progress-bar" role = "progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style ="width:13%">
+                                                        <h5>Sedimentary Noise Model 13%</h5>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
                         <!--What they say-->
                         <section id = "theysay">
                             <div class ="divider"></div>
