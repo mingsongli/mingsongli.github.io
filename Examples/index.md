@@ -30,7 +30,7 @@ title: Users' Guide & Examples
         <div class = "container">
             <div id = "imaging">
                 <div class="heading">
-                        <h3>Acycle insolation gif </h3>
+                        <h3>Insolation map</h3>
                 </div>
                 <img src="images/Insol-t-1-100ka-day-80-264-lat-50-80-meandaily-La04.gif" alt ="insol gif">
                 <h5 > Insolation </h5>
@@ -38,7 +38,9 @@ title: Users' Guide & Examples
             </div>
         </div>
     </section>
+    <div class ="divider"></div>
     <div class ="heading">
+        <h3>Acycle tools</h3>
     </div>
     <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -55,7 +57,7 @@ title: Users' Guide & Examples
                 </div>
     </div>
     <div class="carousel-item">
-        <img src="/images/Slide2.jpeg" alt= "Slide12">
+        <img src="/images/Slide2.jpeg" alt= "Slide2">
         <div class="carousel-caption">
         <h3>Microscopy</h3>
         </div>
