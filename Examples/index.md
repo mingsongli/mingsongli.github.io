@@ -3,17 +3,33 @@ layout: page
 title: Publications
 --- 
 
-<section>
+<section id = "project">
+    <section id = "gui">
+        <div class ="divider"></div>
+        <div class = "container">
+            <div id = "imaging">
+                <div class="heading">
+                        <h3>Acycle menu</h3>
+                </div>
+                <img src="https://github.com/mingsongli/acycleFig/blob/master/acycle-demo-gif/1.-acycle-menuscutslow.gif" alt ="Acycle menu">
+                <h5> Acycle menu</h5>
+            </div>
+        </div>
+    </section>
+    <section id = "insolation">
+        <div class ="divider"></div>
+        <div class = "container">
+            <div id = "imaging">
+                <div class="heading">
+                        <h3>Acycle insolation toolbox</h3>
+                </div>
+                <img src="https://github.com/mingsongli/acycleFig/blob/master/acycle-demo-gif/2.acycle-insolationS.gif" alt ="Acycle menu">
+                <h5> Acycle insolation toolbox</h5>
+                <h5><a href ="https://github.com/mingsongli/acycle/wiki/4.5-Basic-Series#insolation"> Read More</a></h5>
+            </div>
+        </div>
+    </section>
 
-![](https://github.com/mingsongli/acycleFig/blob/master/acycle-demo-gif/1.-acycle-menuscutslow.gif)
-
-_Acycle menu_
-
-![](https://github.com/mingsongli/acycleFig/blob/master/acycle-demo-gif/2.acycle-insolationS.gif)
-
-_Acycle insolation toolbox_
-
-[Read More](https://github.com/mingsongli/acycle/wiki/4.5-Basic-Series#insolation)
 
 ![](https://github.com/mingsongli/acycleFig/blob/master/chapter4/Insol-t-1-100ka-day-80-264-lat-50-80-meandaily-La04.gif)
 
