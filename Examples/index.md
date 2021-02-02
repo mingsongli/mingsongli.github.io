@@ -13,13 +13,13 @@ title: Examples
 	</ol>
 	<div class="carousel-inner" role="listbox">
 		<div class="carousel-item active">
-			<img src="/images/Slide1.jpeg" alt= "Optics">
+			<img src="/images/Slide1.jpeg" alt= "1">
 			<div class="carousel-caption">
 				<h3>Optics</h3>
 			</div>
 </div>
 <div class="carousel-item">
-	<img src="/images/Slide2.jpeg" alt= "MicroscopyImage">
+	<img src="/images/Slide2.jpeg" alt= "2">
 	<div class="carousel-caption">
 	<h3>Microscopy</h3>
 	</div>
