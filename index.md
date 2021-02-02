@@ -17,47 +17,6 @@ title:
 				</div>	
 			</div>
 		</section>	
-        <!--About Acycle-->
-            <section id = "about">
-                <div class ="divider"></div>
-                <div class ="heading">
-                    <h2>About Acycle</h2>
-                </div>
-                                <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
-                                    <ol class="carousel-indicators">
-                                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                                        <li data-target="#myCarousel" data-slide-to="1"></li>
-                                        <li data-target="#myCarousel" data-slide-to="2"></li>
-                                        <li data-target="#myCarousel" data-slide-to="3"></li>
-                                    </ol>
-                                    <div class="carousel-inner" role="listbox">
-                                        <div class="carousel-item active">
-                                            <img src="/images/AcycleVisitors.png" alt= "Users">
-                                            <div class="carousel-caption">
-                                                <h3>Users</h3>
-                                            </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="/images/Fig.1-GUI.png" alt= "GUI">
-                                    <div class="carousel-caption">
-                                    <h3> GUI </h3>
-                                    </div>
-                                </div>    
-                                <div class="carousel-item">
-                                    <img src="/images/6.2.la04-evofft.result.png" alt= "EvoFFT">
-                                    <div class="carousel-caption">
-                                    <h3> EvoFFT </h3>
-                                    </div>
-                                </div>        
-                                <div class="carousel-item">
-                                    <img src="/images/6.3.wayao.spectral.result.png" alt= "Spectrum">
-                                    <div class="carousel-caption">
-                                    <h3>Spectrum</h3>
-                                    </div>
-                                </div>
-                                <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
-                                <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
-                                </div>
                                 <!--MOST USED TOOLS-->
                                 <section id="skills">
                                     <div class ="divider"></div>
