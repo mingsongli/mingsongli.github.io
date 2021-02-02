@@ -90,7 +90,9 @@ title:
                                 <div class="carousel-inner" role="listbox">
                                     <div class="carousel-item active">
                                         <h3>Dr. J. Fred Read (Virginia Tech, USA)</h3>
-                                        <h4>"I am writing to express my appreciation for all the hard work and thought that has gone into the development of the Acycle software program. It is truly an amazing contribution to the geosciences community. As someone who has spent much of the last 50 years trying to understand cyclic carbonates on shallow platforms, and having been involved with my students in some of the early work on stratigraphic modelling of the effects of Milankovitch forcing of carbonate platform stratigraphy, I was blown away by the power of the Acycle software. In the old days we used in house programs from our geophysicist Cahit Coruh, and recently I have used Analyseries, kSpectra and Timefrq43, moving from Dos to Windows to Mac, jumping from one to the other to get the job done. Acycle has done away with the need for this, and I have been impressed with how very user friendly the program is – an indication of the tremendous effort and thought that has gone into putting this together. You should all feel very proud of this contribution. It opens up much needed access to these powerful tools for a wide audience in the sedimentary geology and paleoclimate community. Thanks again for all your efforts. A really marvellous job."</h4>
+                                        <h4><p>"I am writing to express my appreciation for all the hard work and thought that has gone into the development of the Acycle software program. It is truly an amazing contribution to the geosciences community. As someone who has spent much of the last 50 years trying to understand cyclic carbonates on shallow platforms, and having been involved with my students in some of the early work on stratigraphic modelling of the effects of Milankovitch forcing of carbonate platform stratigraphy, I was blown away by the power of the Acycle software. </p>
+                                        <p>In the old days we used in house programs from our geophysicist Cahit Coruh, and recently I have used Analyseries, kSpectra and Timefrq43, moving from Dos to Windows to Mac, jumping from one to the other to get the job done. Acycle has done away with the need for this, and I have been impressed with how very user friendly the program is – an indication of the tremendous effort and thought that has gone into putting this together. </p>
+                                        <p>You should all feel very proud of this contribution. It opens up much needed access to these powerful tools for a wide audience in the sedimentary geology and paleoclimate community. Thanks again for all your efforts. A really marvellous job."</p></h4>
                                     </div>
                                     <div class="carousel-item">
                                         <h3>Dr. James Ogg (Purdue University, USA)</h3>
@@ -143,8 +145,6 @@ title:
 										<li>
                                                                                     <p> 3. Add a new tool: Basic Series -> Length-of-day & day-of-year.
 											</p>
-                                            <p> ...
-                                            </p>
 										</li>
 									</ul>
 								</div>
@@ -165,7 +165,6 @@ title:
                                                          <li>
                                                          <p>1. Update Spectral Moments section. </p>
                                                          <p>2. Include f-test and amplitude spectrum.</p>
-                                                         <p> ...</p>
                                                          </li>
                                                      </ul>
                                                  </div>
@@ -186,7 +185,6 @@ title:
                                                          <li>
                                                          <p>1. Completely redesign the GUI for the COCO and eCOCO</p>
                                                          <p>2. Add the "Spectral Moments" tool.</p>
-                                                         <p> ...</p>
                                                          </li>
                                                      </ul>
                                                  </div>
@@ -207,7 +205,6 @@ title:
                                                          <li>
                                                          <p>1. Update the Spectral Analysis toolbox.</p>
                                                          <p>2. Automatic update.</p>
-                                                         <p> ...</p>
                                                          </li>
                                                      </ul>
                                                  </div>
@@ -249,7 +246,6 @@ title:
                                                          <li>
                                                          <p>1. eCOCO: save optimal sed. rate as a text file.</p>
                                                          <p>2. Mini-robot GUI.</p>
-                                                         <p>...</p>
                                                          </li>
                                                      </ul>
                                                  </div>
@@ -273,7 +269,6 @@ title:
 										</li>
 										<li>
                                         <p> 2. Refine GUIs of Detrending, Spectral Analysis, Evolutionary Spectral Analysis, Filtering, etc.</p>
-                                        <p> ... </p>
 										</li>
 									</ul>
 								</div>
@@ -316,7 +311,7 @@ title:
 					</div>
 				</div>
                                 <div class="row">
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Jacques Laskar</h3>
@@ -324,7 +319,7 @@ title:
                                             <p>Astronomical Solutions</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Richard Zeebe</h3>
@@ -332,7 +327,7 @@ title:
                                             <p>Astronomical Solutions</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Jonathan Levine</h3>
@@ -340,7 +335,7 @@ title:
                                             <p>Insolation</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Peter Huybers</h3>
@@ -348,7 +343,7 @@ title:
                                             <p>Insolation</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Stephen Meyers</h3>
@@ -356,7 +351,7 @@ title:
                                             <p>TimeOpt/eTimeOpt</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Matthias Sinnesael</h3>
@@ -364,7 +359,7 @@ title:
                                             <p>Spectral Moments</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Nicolas Thibault</h3>
@@ -372,7 +367,7 @@ title:
                                             <p>Dynamic Filtering</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Giovanni Rizzi</h3>
@@ -380,7 +375,7 @@ title:
                                             <p>Dynamic Filtering</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Christopher Torrence</h3>
@@ -388,7 +383,7 @@ title:
                                             <p>Wavelet</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Gilbert Compo</h3>
@@ -396,7 +391,7 @@ title:
                                             <p>Wavelet</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-3">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Jeffrey Park</h3>
@@ -404,7 +399,7 @@ title:
                                             <p>Multitaper Adaptive Weighting, Harmonic F-Test</p>
                                         </div>
                                     </div>
-                                <div class="col-sm-6">
+                                <div class="col-sm-3">
                                     <div class="education-block">
                                         <span class="fa fa-user-o"></span>
                                         <h3>Eric Ruggieri</h3>
