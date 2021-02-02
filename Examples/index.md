@@ -49,28 +49,27 @@ title: Users' Guide & Examples
         </ol>
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <img src="/images/Slide1.jpeg" alt= "Optics">
+                <img src="/images/Slide1.jpeg" alt= "Slide1">
                 <div class="carousel-caption">
                     <h3>Optics</h3>
                 </div>
     </div>
     <div class="carousel-item">
-        <img src="/images/Slide2.jpeg" alt= "MicroscopyImage">
+        <img src="/images/Slide2.jpeg" alt= "Slide12">
         <div class="carousel-caption">
         <h3>Microscopy</h3>
         </div>
     </div>        
     <div class="carousel-item">
-        <img src="/images/Slide3.jpeg" alt= "Fluorescence Microscopy Image">
+        <img src="/images/Slide3.jpeg" alt= "Slide3">
         <div class="carousel-caption">
         <h3>Fluorescence Microscopy</h3>
         </div>
     </div>
     <div class="carousel-item">
-        <img src="/images/Proc&Vis.gif" alt= "TrackingMovie">
+        <img src="/images/Slide4.jpeg" alt= "Slide4">
         </div>
     </div>
     <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
     <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
     </div> 
-</section>
