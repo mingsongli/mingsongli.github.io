@@ -20,7 +20,7 @@ email: "limingsonglms@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Mingsong Li | Peking University
 
-#baseurl: "http://faculty.pku.edu.cn/li/en" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://acycle.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 #twitter_username: jekyllrb
