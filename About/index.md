@@ -311,7 +311,7 @@ title:
 					</div>
 				</div>
                                 <div class="row">
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Jacques Laskar</h3>
@@ -319,7 +319,7 @@ title:
                                             <p>Astronomical Solutions</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Richard Zeebe</h3>
@@ -327,7 +327,7 @@ title:
                                             <p>Astronomical Solutions</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Jonathan Levine</h3>
@@ -335,7 +335,7 @@ title:
                                             <p>Insolation</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Peter Huybers</h3>
@@ -343,7 +343,7 @@ title:
                                             <p>Insolation</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Stephen Meyers</h3>
@@ -351,7 +351,7 @@ title:
                                             <p>TimeOpt/eTimeOpt</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Matthias Sinnesael</h3>
@@ -359,7 +359,7 @@ title:
                                             <p>Spectral Moments</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Nicolas Thibault</h3>
@@ -367,7 +367,7 @@ title:
                                             <p>Dynamic Filtering</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Giovanni Rizzi</h3>
@@ -375,7 +375,7 @@ title:
                                             <p>Dynamic Filtering</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Christopher Torrence</h3>
@@ -383,7 +383,7 @@ title:
                                             <p>Wavelet</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Gilbert Compo</h3>
@@ -391,7 +391,7 @@ title:
                                             <p>Wavelet</p>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3">
+                                    <div class="col-sm-6">
                                         <div class="education-block">
                                             <span class="fa fa-user-o"></span>
                                             <h3>Jeffrey Park</h3>
@@ -399,7 +399,7 @@ title:
                                             <p>Multitaper Adaptive Weighting, Harmonic F-Test</p>
                                         </div>
                                     </div>
-                                <div class="col-sm-3">
+                                <div class="col-sm-6">
                                     <div class="education-block">
                                         <span class="fa fa-user-o"></span>
                                         <h3>Eric Ruggieri</h3>
