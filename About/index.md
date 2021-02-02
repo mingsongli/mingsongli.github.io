@@ -297,10 +297,11 @@ title:
 							<h5></h5>
 							<span class="fa fa-user-circle-o"></span>
 							<h3> Mingsong Li</h3>
-							<h4>Peking University (was Penn State)</h4>
+							<h4>Peking University</h4>
 							<div class="Sdivider"></div>
 							<p> Author and manager</p>
-							<p>msli {at} pku.edu.cn; limingsonglms {at} gmail.com</p>
+							<p>msli {at} pku.edu.cn</p>
+                                                     <p><a href ="http://faculty.pku.edu.cn/li/en"> Homepage </a> </p>
 						</div>
 					</div>
 					<div class="col-sm-6">
@@ -310,7 +311,9 @@ title:
 							<h3> Linda Hinnov</h3>
 							<h4>George Mason University</h4>
 							<div class="Sdivider"></div>
+                                                    <p> Co-author</p>
 							<p> lhinnov {at} gmu.edu</p>
+                                                    <p><a href ="http://mason.gmu.edu/~lhinnov/"> Homepage </a> </p>
 						</div>
 					</div>
 				</div>
