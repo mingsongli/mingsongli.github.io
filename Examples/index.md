@@ -1,32 +1,73 @@
 ---
 layout: page
-title: Examples
+title: Home
 --- 
-<section id = "project">
-    <section id = "Setup">
-        <div class ="divider"></div>
-        <div class = "container">
-            <div id = "imaging">
-                <div class="heading">
-                        <h3>Acycle insolation toolbox</h3>
-                </div>
-                <img src="images/2.acycle-insolationS.gif" alt ="Insolation">
-                <h5> Acycle insolation toolbox</h5>
-                <p> insolation calculation</p>
-            </div>
-        </div>
-    </section>
-    <section id = "inso">
-        <div class ="divider"></div>
-        <div class = "container">
-            <div id = "imaging">
-                <div class="heading">
-                        <h3>Acycle insolation gif </h3>
-                </div>
-                <img src="images/Insol-t-1-100ka-day-80-264-lat-50-80-meandaily-La04.gif" alt ="insol gif">
-                <h5 > Insolation </h5>
-                <p>Mean insolation map from March 21 to Sept. 23 for the past 100 kyr (1-100) at 50-80°N using the Laskar et al. (2004) solutions. The calculate uses a solar constant of 1365 w/m^2</p>
-            </div>
-        </div>
-    </section>
-</section>
+<div class ="heading">
+</div>
+<div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
+	<ol class="carousel-indicators">
+		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+		<li data-target="#myCarousel" data-slide-to="3"></li>
+		<li data-target="#myCarousel" data-slide-to="4"></li>
+		<li data-target="#myCarousel" data-slide-to="5"></li>
+		<li data-target="#myCarousel" data-slide-to="6"></li>
+		<li data-target="#myCarousel" data-slide-to="7"></li>
+	</ol>
+	<div class="carousel-inner" role="listbox">
+		<div class="carousel-item active">
+			<img src="/images/AcycleVisitors.png" alt= "Users">
+			<div class="carousel-caption">
+				<h3>Users</h3>
+			</div>
+</div>
+<div class="carousel-item">
+	<img src="/images/Fig.1-GUI.png" alt= "GUI">
+	<div class="carousel-caption">
+	<h3>GUI</h3>
+	</div>
+</div>	
+<div class="carousel-item">
+	<img src="/images/Slide1.jpeg" alt= "Smoothing">
+	<div class="carousel-caption">
+	<h3> Smoothing </h3>
+	</div>
+</div>	
+<div class="carousel-item">
+	<img src="/images/Slide2.jpeg" alt= "Power Spectral Analysis">
+	<div class="carousel-caption">
+	<h3> Power Spectral Analysis </h3>
+	</div>
+</div>		
+<div class="carousel-item">
+	<img src="/images/Slide3.jpeg" alt= "Evolutionary FFT">
+	<div class="carousel-caption">
+	<h3>Evolutionary FFT</h3>
+	</div>
+</div>
+
+<div class="carousel-item">
+	<img src="/images/Slide5.jpeg" alt= "eCOCO">
+	<div class="carousel-caption">
+	<h3>eCOCO</h3>
+	</div>
+</div>
+
+<div class="carousel-item">
+	<img src="/images/Slide6.jpeg" alt= "Filtering">
+	<div class="carousel-caption">
+	<h3>Filtering</h3>
+	</div>
+</div>
+
+<div class="carousel-item">
+	<img src="/images/Slide12.jpeg" alt= "Image">
+	<div class="carousel-caption">
+	<h3>Image</h3>
+	</div>
+</div>
+
+<a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
+<a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
+</div>			
