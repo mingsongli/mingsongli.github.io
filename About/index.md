@@ -288,13 +288,12 @@ title:
 			<div class="heading">
 				<div class="divider">
 				</div>
-				<h2>Authors</h2>
+				<h2>Authors & Contributors</h2>
 			</div>
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6">
 						<div class="education-block">
-							<h5></h5>
 							<span class="fa fa-user-circle-o"></span>
 							<h3> Mingsong Li</h3>
 							<h4>Peking University</h4>
@@ -306,7 +305,6 @@ title:
 					</div>
 					<div class="col-sm-6">
 						<div class="education-block">
-							<h5> </h5>
 							<span class="fa fa-user-o"></span>
 							<h3> Linda Hinnov</h3>
 							<h4>George Mason University</h4>
@@ -317,6 +315,104 @@ title:
 						</div>
 					</div>
 				</div>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Jacques Laskar</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Astronomical Solutions</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Richard Zeebe</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Astronomical Solutions</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Jonathan Levine</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Insolation</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Peter Huybers</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Insolation</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Stephen Meyers</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>TimeOpt/eTimeOpt</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Matthias Sinnesael</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Spectral Moments</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Nicolas Thibault</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Dynamic Filtering</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Giovanni Rizzi</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Dynamic Filtering</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Christopher Torrence</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Wavelet</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Gilbert Compo</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Wavelet</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="education-block">
+                                            <span class="fa fa-user-o"></span>
+                                            <h3>Jeffrey Park</h3>
+                                            <div class="Sdivider"></div>
+                                            <p>Multitaper Adaptive Weighting, Harmonic F-Test</p>
+                                        </div>
+                                    </div>
+                                <div class="col-sm-6">
+                                    <div class="education-block">
+                                        <span class="fa fa-user-o"></span>
+                                        <h3>Eric Ruggieri</h3>
+                                        <div class="Sdivider"></div>
+                                        <p>Bayesian Change Point</p>
+                                    </div>
+                                </div>
+                                </div>
 			</div>
 		</section>
 		<footer class="text-center">
