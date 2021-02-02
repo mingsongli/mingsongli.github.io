@@ -11,6 +11,9 @@ title: Home
 		<li data-target="#myCarousel" data-slide-to="2"></li>
 		<li data-target="#myCarousel" data-slide-to="3"></li>
 		<li data-target="#myCarousel" data-slide-to="4"></li>
+		<li data-target="#myCarousel" data-slide-to="5"></li>
+		<li data-target="#myCarousel" data-slide-to="6"></li>
+		<li data-target="#myCarousel" data-slide-to="7"></li>
 	</ol>
 	<div class="carousel-inner" role="listbox">
 		<div class="carousel-item active">
@@ -23,6 +26,12 @@ title: Home
 	<img src="/images/Fig.1-GUI.png" alt= "GUI">
 	<div class="carousel-caption">
 	<h3>GUI</h3>
+	</div>
+</div>	
+<div class="carousel-item">
+	<img src="/images/Slide1.jpeg" alt= "Smoothing">
+	<div class="carousel-caption">
+	<h3> Smoothing </h3>
 	</div>
 </div>	
 <div class="carousel-item">
@@ -39,11 +48,26 @@ title: Home
 </div>
 
 <div class="carousel-item">
-	<img src="/images/Slide5.jpeg" alt= "Evolutionary COCO">
+	<img src="/images/Slide5.jpeg" alt= "eCOCO">
 	<div class="carousel-caption">
-	<h3>Evolutionary COCO</h3>
+	<h3>eCOCO</h3>
 	</div>
 </div>
+
+<div class="carousel-item">
+	<img src="/images/Slide6.jpeg" alt= "Filtering">
+	<div class="carousel-caption">
+	<h3>Filtering</h3>
+	</div>
+</div>
+
+<div class="carousel-item">
+	<img src="/images/Slide12.jpeg" alt= "Image">
+	<div class="carousel-caption">
+	<h3>Image</h3>
+	</div>
+</div>
+
 <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
 <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
 </div>			
