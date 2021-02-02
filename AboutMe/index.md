@@ -6,7 +6,7 @@ title:
 		<!--PROFILE PICTURE-->
 		<section id="about" class="container-fluid">
 			<div class="col-xs-6 col-md-12 profile-picture">
-				<img src="images/me.jpg" alt= "Boris" class="rounded-circle">
+				<img src="images/default_icon_256.png" alt= "Acycle logo" class="rounded">
 				<div class="heading">
 					<h1> ACYCLE </h1>
 					<h3>time-series analysis software |<br>
@@ -27,44 +27,44 @@ title:
 					<div class="col-md-6">
 						<div class="progress">
 							<div class ="progress-bar" role = "progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style ="width:65%">
-								<h5>Spectral Analysis</h5>
+								<h5>Spectral Analysis 65%</h5>
 							</div>
 						</div>
 						<div class="progress">
 							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:43%">
-								<h5>Evolutionary Spectral Analysis</h5>
+								<h5>Evolutionary Spectral Analysis 43%</h5>
 							</div>
 						</div>
 						<div class="progress">
 							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:39%">
-								<h5>Smoothing | Detrending</h5>
+								<h5>Smoothing | Detrending 39%</h5>
 							</div>
 						</div>
 					<div class="progress">
 							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:39%">
-								<h5>Astronomical solutions </h5>
+								<h5>Astronomical solutions 39%</h5>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-6">
 						<div class="progress">
 							<div class ="progress-bar" role = "progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style ="width:35%">
-								<h5>Correlation Coefficient</h5>
+								<h5>Correlation Coefficient 35%</h5>
 							</div>
 						</div>
 						<div class="progress">
 							<div class ="progress-bar" role = "progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style ="width:26%">
-								<h5>Wavelet</h5>
+								<h5>Wavelet 26%</h5>
 							</div>
 						</div>
 						<div class="progress">
 							<div class ="progress-bar" role = "progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style ="width:22%">
-								<h5>Insolation</h5>
+								<h5>Insolation 22%</h5>
 							</div>
 						</div>
 						<div class="progress">
 							<div class ="progress-bar" role = "progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style ="width:13%">
-								<h5>Sedimentary Noise Model</h5>
+								<h5>Sedimentary Noise Model 13%</h5>
 							</div>
 						</div>
 					</div>
@@ -117,11 +117,12 @@ title:
 								<div class="timeline-body">
 									<ul>
 										<li>
-											<p>Acycle paper has been accepted</p>
-											<p>Mingsong Li, Linda Hinnov, Lee Kump. 2019. Acycle: Time-series analysis software for paleoclimate projects and education, Computers & Geosciences, https://doi.org/10.1016/j.cageo.2019.02.011</p>
+                                        <p>1. Acycle paper has been accepted: </p>
+											<p>Mingsong Li, Linda Hinnov, Lee Kump. 2019. Acycle: Time-series analysis software for paleoclimate projects and education, Computers & Geosciences, 127: 12-22</p>
 										</li>
 										<li>
-                                        <p> Refine GUIs of Detrending, Spectral Analysis, Evolutionary Spectral Analysis, Filtering, etc.</p>
+                                        <p> 2. Refine GUIs of Detrending, Spectral Analysis, Evolutionary Spectral Analysis, Filtering, etc.</p>
+                                        <p> ... </p>
 										</li>
 									</ul>
 								</div>
@@ -143,6 +144,8 @@ title:
 					<li data-target="#myCarousel" data-slide-to="1"></li>
 					<li data-target="#myCarousel" data-slide-to="2"></li>
                                       <li data-target="#myCarousel" data-slide-to="3"></li>
+                                      <li data-target="#myCarousel" data-slide-to="4"></li>
+                                      <li data-target="#myCarousel" data-slide-to="5"></li>
 				</ol>
 				<div class="carousel-inner" role="listbox">
 					<div class="carousel-item active">
@@ -161,6 +164,14 @@ title:
                                     <h3>Dr. Frits Hilgen (Utrecht University, Netherlands)</h3>
                                     <h4>"I used it this academic year for the first time in my MSc course on Astronomical climate forcing and time scales as replacement of the outdated Analyseries program. The main advantages of Acycle is that it is very user friendly, has a lot of different options for the statistical analysis of paleoclimate records and in addition first-rate plotting options. For instance you can directly see the trend that you aim to remove and then decide whether you want to continue with it. It is further also very good to see the fast and almost continuous improvement of Acycle, including the processing of reported bugs. And, not unimportantly, also my students were very enthusiastic about Acycle and I now use it now for my own research as well!"</h4>
                                 </div>
+                                <div class="carousel-item">
+                                    <h3>Dr. Nicolas R. Thibault (University of Copenhagen, Denmark)</h3>
+                                    <h4>"I’ve been playing a lot with the excellent Acycle package for Matlab that Mingsong developed. Congratulations, this is a very nice interface that simplifies a lot our work and makes it truly faster to analyse a time-series."</h4>
+                                </div>
+                                <div class="carousel-item">
+                                    <h3>Dr. Xu Yao (Lanzhou University, China)</h3>
+                                    <h4>"I am working on cyclostratigraphy and paleoclimate study of ancient strata and rocks (270 million years ago) with assistance from Acycle software. I also introduced this software to my colleagues whose research areas are paleoclimate implications of Quaternary loess (several thousand years ago). My colleagues have given me really good feedbacks about Acycle software."</h4>
+                                </div>
 				</div>
 				<a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left"></span></a>
 				<a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right"></span></a>
@@ -177,7 +188,7 @@ title:
 				<div class="row">
 					<div class="col-sm-6">
 						<div class="education-block">
-							<h5>2014 - 2021</h5>
+							<h5></h5>
 							<span class="fa fa-user-circle-o"></span>
 							<h3> Mingsong Li</h3>
 							<h4>Peking University (was Penn State)</h4>
