@@ -70,17 +70,17 @@ Facts for stand-alone versions of Acycle:
 
 ### Examples
 
-
+TO DO
 
 ### What they say
 
 #### Dr. J. Fred Read (Virginia Tech, USA)
 
-I am writing to express my appreciation for all the hard work and thought that has gone into the development of the Acycle software program. It is truly an amazing contribution to the geosciences community. As someone who has spent much of the last 50 years trying to understand cyclic carbonates on shallow platforms, and having been involved with my students in some of the early work on stratigraphic modelling of the effects of Milankovitch forcing of carbonate platform stratigraphy, I was blown away by the power of the Acycle software.
+"I am writing to express my appreciation for all the hard work and thought that has gone into the development of the Acycle software program. It is truly an amazing contribution to the geosciences community. As someone who has spent much of the last 50 years trying to understand cyclic carbonates on shallow platforms, and having been involved with my students in some of the early work on stratigraphic modelling of the effects of Milankovitch forcing of carbonate platform stratigraphy, I was blown away by the power of the Acycle software.
 
 In the old days we used in house programs from our geophysicist Cahit Coruh, and recently I have used Analyseries, kSpectra and Timefrq43, moving from Dos to Windows to Mac, jumping from one to the other to get the job done. Acycle has done away with the need for this, and I have been impressed with how very user friendly the program is – an indication of the tremendous effort and thought that has gone into putting this together.
 
-You should all feel very proud of this contribution. It opens up much needed access to these powerful tools for a wide audience in the sedimentary geology and paleoclimate community. Thanks again for all your efforts. A really marvellous job.
+You should all feel very proud of this contribution. It opens up much needed access to these powerful tools for a wide audience in the sedimentary geology and paleoclimate community. Thanks again for all your efforts. A really marvellous job."
 
 #### Dr. James Ogg (Purdue University, USA)
 
@@ -158,5 +158,5 @@ New version of Acycle
 
 Manual
 
-### Citation, Contact, and Ackowledgement
+### Citation, Contact, and Acknowledgement
 
