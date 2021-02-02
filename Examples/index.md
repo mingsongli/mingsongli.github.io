@@ -38,6 +38,7 @@ title: Users' Guide & Examples
             </div>
         </div>
     </section>
+    <section id = "examples">
     <div class ="divider"></div>
     <div class ="heading">
         <h3>Acycle tools</h3>
