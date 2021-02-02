@@ -127,7 +127,7 @@ title:
 				<ul class="timeline">
 					<li>
 						<div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-						<div class="timeline-panel-container">
+						<div class="timeline-panel-container-inverted">
 							<div class ="timeline-panel">
 								<div class="timeline-heading">
                                                             <h3>Acycle v2.2 </h3>
@@ -174,7 +174,7 @@ title:
                                      </li>
                                      <li>
                                          <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-                                         <div class="timeline-panel-container">
+                                         <div class="timeline-panel-container-inverted">
                                              <div class ="timeline-panel">
                                                  <div class="timeline-heading">
                                                                              <h3>Acycle v2.0 </h3>
@@ -216,7 +216,7 @@ title:
                                      </li>
                                      <li>
                                          <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-                                         <div class="timeline-panel-container">
+                                         <div class="timeline-panel-container-inverted">
                                              <div class ="timeline-panel">
                                                  <div class="timeline-heading">
                                                  <h3>Acycle v1.2 </h3>
