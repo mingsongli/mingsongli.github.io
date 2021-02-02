@@ -2,19 +2,31 @@
 layout: page
 title: Examples
 --- 
-
 <section id = "project">
-    <section id = "gui">
+    <section id = "Setup">
         <div class ="divider"></div>
         <div class = "container">
             <div id = "imaging">
                 <div class="heading">
-                        <h3>Acycle menu</h3>
+                        <h3>Multiplane imaging</h3>
                 </div>
-                <p><img src="images/1.-acycle-menuscutslow.gif" alt ="Acycle menu"> </p>
-                </div>
+                <img src="images/1.-acycle-menuscutslow.gif" alt ="Multiplane setup schematic">
+                <h5> Acycle menu</h5>
+                <p>... </p>
+            </div>
         </div>
     </section>
+            <section id = "gui">
+                <div class ="divider"></div>
+                <div class = "container">
+                    <div id = "imaging">
+                        <div class="heading">
+                                <h3>Acycle menu</h3>
+                        </div>
+                        <p><img src="images/1.-acycle-menuscutslow.gif" alt ="Acycle menu"> </p>
+                        </div>
+                </div>
+            </section>
     <p></p>
     <section id = "insolation">
         <div class ="divider"></div>
