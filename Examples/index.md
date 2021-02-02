@@ -69,7 +69,6 @@ title: Examples
     <p></p>
     <section id = "Tools">
         <div class ="divider"></div>
-        <div class = "container">
             <div id = "imaging">
                 <div class="heading">
                         <p><h3>Most Used Tools</h3></p>
@@ -114,6 +113,5 @@ title: Examples
                 <p><h5> Examples #13 Plot Digitizer</h5></p>
                 <p></p>
             </div>
-        </div>
     </section>
 </section>
