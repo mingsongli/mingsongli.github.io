@@ -32,11 +32,11 @@ title: About
 				<div class="row">
 					<div class="col-sm-12">
 						<div class="education-block">
-							<img src="images/msli-200x200.jpg"/>
+							<img src="images/msli-200x200.jpg" class="rounded-circle">
 							<h3> <a href ="http://faculty.pku.edu.cn/li/en"> Mingsong Li </a> </h3> 
 							<h4><a href ="http://english.pku.edu.cn/"> Peking University </a></h4>
 							<div class="Sdivider"></div>
-							<p>msli {at} pku.edu.cn ; limingsonglms {at} gmail.com</p>
+							<h5>msli {at} pku.edu.cn ; limingsonglms {at} gmail.com</h5>
                                                      <h6><a href ="http://faculty.pku.edu.cn/li/en"> <img src="https://img.icons8.com/android/24/000000/home.png" height="32" width="32"></a><a href ="https://scholar.google.com/citations?user=NYUXDW0AAAAJ&hl=en&inst=4855597776033322861"> <img src="images/google-scholar-icon-1.jpg" height="32" width="32"></a><a href ="https://www.researchgate.net/profile/Mingsong_Li"> <img src="images/RG.jpeg" height="32" width="32"></a><a href ="https://github.com/mingsongli/"> <img src="images/github-icon-for-resume-14.jpg" height="32" width="32"></a><a href ="https://www.linkedin.com/in/mingsongli/"> <img src="images/LinkedIn-icon.png" height="32" width="32"></a> </h6>
 						</div>
 					</div>
