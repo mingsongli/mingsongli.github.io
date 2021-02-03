@@ -30,7 +30,7 @@ title: About
 			</div>
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-8">
+					<div class="col-sm-12">
 						<div class="education-block">
 							<img src="images/msli-200x200.jpg"/>
 							<h3> <a href ="http://faculty.pku.edu.cn/li/en"> Mingsong Li </a> </h3> 
