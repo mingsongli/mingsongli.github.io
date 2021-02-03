@@ -6,7 +6,7 @@ title: About
 		<!--PROFILE PICTURE-->
 		<section id="about" class="container-fluid">
 			<div class="col-xs-6 col-md-12 profile-picture">
-				<img src="images/default_icon_256.png" alt= "Acycle logo" class="rounded">
+				<img src="images/default_icon_128.png" alt= "Acycle logo" class="rounded">
 				<div class="heading">
                 <p> </p>
 					<h1> ACYCLE </h1>
