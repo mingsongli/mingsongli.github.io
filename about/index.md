@@ -10,13 +10,13 @@ title: About
 				<div class="heading">
                 <p> </p>
 					<h1> ACYCLE </h1>
-                    <h5><p>Time series analysis plays a fundamental role in the natural sciences. In growing important geoscience application, recognition and interpretation of climate signals in proxy records can be time consuming and subjective. </p>
+                    <p>Time series analysis plays a fundamental role in the natural sciences. In growing important geoscience application, recognition and interpretation of climate signals in proxy records can be time consuming and subjective. </p>
                     <p>Three reasons motivated the development of the Acycle time series analysis program: </p>
-                    <p>(1) There is a need to broaden and encourage the experience of time series analysis in the geosciences, especially in paleoclimatology and cyclostratigraphy. </p>
-                    <p>(2) There is a need to speed the process for the time-series analysis steps, which can be very time-consuming. </p>
-                    <p>(3) There is a need to provide objective methods for the analysis of paleoclimate signals as reproducibility becomes a major challenge. </p>
+                    <p>    (1) There is a need to broaden and encourage the experience of time series analysis in the geosciences, especially in paleoclimatology and cyclostratigraphy. </p>
+                    <p>    (2) There is a need to speed the process for the time-series analysis steps, which can be very time-consuming. </p>
+                    <p>    (3) There is a need to provide objective methods for the analysis of paleoclimate signals as reproducibility becomes a major challenge. </p>
                     <p>We acknowledge our inspiring freeware predecessors: Analyseries (Paillard et al., 1996), Anand, and Astrochron (Meyers, 2014).
-</p></h5>
+</p>
 				</div>	
 			</div>
 		</section>	
