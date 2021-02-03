@@ -156,7 +156,9 @@ title: About
             <div class="heading">
                 <div class="divider">
                 </div>
+                <div style="text-align: center;">
                 <p><img src="https://img.icons8.com/ios/50/000000/multicultural-people.png"/></p>
+                </div>
                 <h2>Acknowledgments</h2>
             </div>
             <div class="container">
