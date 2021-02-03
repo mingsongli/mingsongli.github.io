@@ -55,27 +55,27 @@ title: About
                                 <div class="row">
                                             <h3>Jacques Laskar </h3>
                                             <p>Astronomical Solutions  </p>
-                                            <h3>Richard Zeebe </h3>
+                                            <h3>|  Richard Zeebe </h3>
                                             <p>Astronomical Solutions  </p>
-                                            <h3>Jonathan Levine </h3>
+                                            <h3>|  Jonathan Levine </h3>
                                             <p>Insolation  </p>
-                                            <h3>Peter Huybers </h3>
+                                            <h3>|  Peter Huybers </h3>
                                             <p>Insolation  </p>
-                                            <h3>Stephen Meyers </h3>
+                                            <h3>|  Stephen Meyers </h3>
                                             <p>TimeOpt/eTimeOpt  </p>
-                                            <h3>Matthias Sinnesael </h3>
+                                            <h3>|  Matthias Sinnesael </h3>
                                             <p>Spectral Moments  </p>
-                                            <h3>Nicolas Thibault </h3>
+                                            <h3>|  Nicolas Thibault </h3>
                                             <p>Dynamic Filtering  </p>
-                                            <h3>Giovanni Rizzi </h3>
+                                            <h3>|  Giovanni Rizzi </h3>
                                             <p>Dynamic Filtering  </p>
-                                            <h3>Christopher Torrence </h3>
+                                            <h3>|  Christopher Torrence </h3>
                                             <p>Wavelet  </p>
-                                            <h3>Gilbert Compo </h3>
+                                            <h3>|  Gilbert Compo </h3>
                                             <p>Wavelet  </p>
-                                            <h3>Jeffrey Park </h3>
+                                            <h3>|  Jeffrey Park </h3>
                                             <p>Multitaper Adaptive Weighting, Harmonic F-Test  </p>
-                                        <h3>Eric Ruggieri </h3>
+                                        <h3>|  Eric Ruggieri </h3>
                                         <p>Bayesian Change Point  </p>
                                 </div>
 			</div>
