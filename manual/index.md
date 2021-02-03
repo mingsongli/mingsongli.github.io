@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Users' Guide
+title: Manuals
 --- 
 <section id = "project">
     <section id = "guide">
