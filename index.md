@@ -72,6 +72,15 @@ title:
                                         </div>
                                     </div>
                                 </section>
+                                <section id = "figures">
+                                    <div class ="divider"></div>
+                                    <div class="col-xs-6 col-md-12 profile-picture">
+                                    <img src="images/AcycleVisitors.png" alt= "users" class="rounded"></div>
+                                    <div class="col-xs-6 col-md-6 profile-picture">
+                                    <img src="images/6.2.la04-evofft.result.png" alt= "la04" class="rounded"></div>
+                                    <div class="col-xs-6 col-md-6 profile-picture">
+                                    <img src="images/6.3.wayao.spectral.result.png" alt= "Spectrum" class="rounded"></div>
+                                </section>
                         <!--What they say-->
                         <section id = "theysay">
                             <div class ="divider"></div>
@@ -83,9 +92,9 @@ title:
                                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                                     <li data-target="#myCarousel" data-slide-to="1"></li>
                                     <li data-target="#myCarousel" data-slide-to="2"></li>
-                                                      <li data-target="#myCarousel" data-slide-to="3"></li>
-                                                      <li data-target="#myCarousel" data-slide-to="4"></li>
-                                                      <li data-target="#myCarousel" data-slide-to="5"></li>
+                                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                                    <li data-target="#myCarousel" data-slide-to="4"></li>
+                                    <li data-target="#myCarousel" data-slide-to="5"></li>
                                 </ol>
                                 <div class="carousel-inner" role="listbox">
                                     <div class="carousel-item active">
@@ -97,6 +106,7 @@ title:
                                     <div class="carousel-item">
                                         <h3>Dr. James Ogg (Purdue University, USA)</h3>
                                         <h4><p>"Acycle software enables us to quickly analyze the potential of new outcrops and boreholes, and then to determine the sedimentation rates and elapsed time. His Acycle software will become the standard tool for time-scale applications by all international workers."</p>
+                                        <br />
                                         <br />
                                         <br />
                                         <br />
