@@ -8,7 +8,6 @@ title:
 			<div class="col-xs-6 col-md-12 profile-picture">
 				<img src="images/default_icon_256.png" alt= "Acycle logo" class="rounded">
 				<div class="heading">
-                <p> </p>
 					<h1> ACYCLE </h1>
 					<h3>time-series analysis software <br>
 					    for paleoclimate research and education <br>  open source
@@ -74,12 +73,11 @@ title:
                                 </section>
                                 <section id = "figures">
                                     <div class ="divider"></div>
+                                    <div class="heading">
+                                        <h2>Global Visitors</h2>
+                                    </div>
                                     <div class="col-xs-6 col-md-12 profile-picture">
                                     <img src="images/AcycleVisitors.png" alt= "users" class="rounded"></div>
-                                    <div class="col-xs-6 col-md-6 profile-picture">
-                                    <img src="images/6.2.la04-evofft.result.png" alt= "la04" class="rounded"></div>
-                                    <div class="col-xs-6 col-md-6 profile-picture">
-                                    <img src="images/6.3.wayao.spectral.result.png" alt= "Spectrum" class="rounded"></div>
                                 </section>
                         <!--What they say-->
                         <section id = "theysay">
