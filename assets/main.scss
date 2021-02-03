@@ -454,17 +454,20 @@ section .heading h2
 
 .carousel-indicators .active
 {
-	background-color: #444;
+	background-color: #070806;
 }
 
 #myCarousel .carousel-item
 {
 	padding:40px 30px ;
+    color: #070806;
+    font-size:20px;
+    font-weight: normal;
 }
 
 #myCarousel .carousel-item h4
 {
-	color: #777;
+	color: #070806;
 	font-style: italic;
 	font-size:20px;
 	font-weight: normal;
