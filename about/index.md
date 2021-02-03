@@ -30,30 +30,22 @@ title: About
 			</div>
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-6">
+					<div class="col-sm-8">
 						<div class="education-block">
-							<img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
-							<h3> Mingsong Li</h3>
-							<h4>Peking University</h4>
+							<img src="images/msli-200x200.jpg"/>
+							<h3> <a href ="http://faculty.pku.edu.cn/li/en"> Mingsong Li </a> </h3> 
+							<h4><a href ="http://english.pku.edu.cn/"> Peking University </a></h4>
 							<div class="Sdivider"></div>
-							<p> Author and manager</p>
-							<p>msli {at} pku.edu.cn</p>
-                                                     <p><a href ="http://faculty.pku.edu.cn/li/en"> Homepage </a> </p>
+							<p>msli {at} pku.edu.cn ; limingsonglms {at} gmail.com</p>
+                                                     <p><a href ="http://faculty.pku.edu.cn/li/en"> <img src="https://img.icons8.com/android/24/000000/home.png" height="32" width="32"></a><a href ="https://scholar.google.com/citations?user=NYUXDW0AAAAJ&hl=en&inst=4855597776033322861"> <img src="images/google-scholar-icon-1.jpg" height="32" width="32"></a><a href ="https://www.researchgate.net/profile/Mingsong_Li"> <img src="images/RG.jpeg" height="32" width="32"></a><a href ="https://github.com/mingsongli/"> <img src="images/github-icon-for-resume-14.jpg" height="32" width="32"></a><a href ="https://www.linkedin.com/in/mingsongli/"> <img src="images/LinkedIn-icon.png" height="32" width="32"></a> </p>
 						</div>
 					</div>
-					<div class="col-sm-6">
-						<div class="education-block">
-							<img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
-							<h3> Linda Hinnov</h3>
-							<h4>George Mason University</h4>
-							<div class="Sdivider"></div>
-                                                    <p> Co-author</p>
-							<p> lhinnov {at} gmu.edu</p>
-						</div>
-					</div>
-				</div>
                                 <div class="row">
-                                            <h3>Jacques Laskar </h3>
+                                            <h3>Linda Hinnov</h3>
+                                            <p>co-author</p>
+                                            <h3>|  Lee Kump</h3>
+                                            <p>co-author</p>
+                                            <h3>|  Jacques Laskar </h3>
                                             <p>Astronomical Solutions  </p>
                                             <h3>|  Richard Zeebe </h3>
                                             <p>Astronomical Solutions  </p>
