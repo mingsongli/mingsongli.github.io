@@ -105,7 +105,7 @@ title:
                                         <p></p>
                                         <p></p>
                                         <p></p>
-                                        <p></p>
+                                        <p>.</p>
                                         </h4>
                                     </div>
                                     <div class="carousel-item">
@@ -119,7 +119,7 @@ title:
                                                                                <p></p>
                                                                                <p></p>
                                                                                <p></p>
-                                                                               <p></p>
+                                                                               <p>.</p>
                                     </div>
                                                 <div class="carousel-item">
                                                     <h3>Dr. Frits Hilgen (Utrecht University, Netherlands)</h3>
@@ -134,7 +134,7 @@ title:
                                                     <p></p>
                                                     <p></p>
                                                     <p></p>
-                                                    <p></p>
+                                                    <p>.</p>
                                                     </h4>
                                                 </div>
                                                 <div class="carousel-item">
@@ -144,7 +144,7 @@ title:
                                                     <p></p>
                                                     <p></p>
                                                     <p></p>
-                                                    <p></p></h4>
+                                                    <p>.</p></h4>
                                                 </div>
                                 </div>
                                 <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left"></span></a>
