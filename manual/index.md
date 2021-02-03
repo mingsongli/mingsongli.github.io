@@ -13,7 +13,6 @@ title: Manuals
                 <p><h5> or: Acycle's "Help" menu - "Manual" </h5></p>
                 <p><h5> or:    /doc/Acycle_Users_Guide.pdf  (MatLab version)</h5></p>
         </div>
-        </div>
     </section>
     <section id = "guide">
             <div class ="divider"></div>
