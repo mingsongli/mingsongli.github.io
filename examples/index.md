@@ -5,15 +5,16 @@ title: Examples
 <section id ="standalone">
  <div class ="divider"></div>
  <div class ="heading">
-<h4>Read <a href ="https://github.com/mingsongli/acycle/blob/master/doc/AC_Users_Guide.pdf">Users' Guide</a> for more examples</h4>
-</div>
+ </div>
+<p>Read <a href ="https://github.com/mingsongli/acycle/blob/master/doc/AC_Users_Guide.pdf">Users' Guide</a> for more examples</p>
+
 </section>
 <section id = "Setup">
     <div class ="divider"></div>
     <div class = "container">
         <div id = "imaging">
             <div class="heading">
-                    <h3>Acycle insolation toolbox</h3>
+                    <h3>Insolation toolbox</h3>
             </div>
             <img src="/images/2.acycle-insolationS.gif" alt ="Insolation">
             <h5> Acycle insolation toolbox</h5>
@@ -37,7 +38,8 @@ title: Examples
 <section id ="examples">
  <div class ="divider"></div>
 <div class = "container">
-        <div class ="heading">
+        <div class="heading">
+                <h3>Most Used Tools</h3>
         </div>
         <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
             <ol class="carousel-indicators">
