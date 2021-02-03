@@ -19,8 +19,10 @@ title: Manuals
                     <div class="heading">
                        <h3>Contents</h3>
                        </div>
-                       <object data="/docs/Acycle_Users_Guide_contents.pdf" type="application/pdf" width="140%" height="300%">
-                         <p>Alternative text - include a link <a href="/docs/Acycle_Users_Guide_contents.pdf">Contents</a></p>
+                       <object data="/docs/Acycle_Users_Guide_contents.pdf" type="application/pdf" width="1400" height="1400">
+                         <p>It appears you don't have a PDF plugin for this browser.
+                         No biggie... you can <a href="/docs/Acycle_Users_Guide_contents.pdf">click here to
+                         download the PDF file.</a></p>
                        </object>
     </section>
 </section>
