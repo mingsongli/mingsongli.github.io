@@ -111,11 +111,13 @@ title:
                                         <br />
                                         <br />
                                         <br />
+                                        <br />
                                         </h4>
                                     </div>
                                     <div class="carousel-item">
                                         <h3>Dr. Paul E. Olsen (Columbia University, USA)</h3>
                                         <h4><p>"Not only is this software powerful and effective, it is also simple to use and therefore benefits researchers and at all levels within the paleoclimatology community, from novices to experts."</p></h4>
+                                        <br />
                                         <br />
                                         <br />
                                         <br />
@@ -145,12 +147,12 @@ title:
                                                     <br />
                                                     <br />
                                                     <br />
-                                                    <br />
                                                     </h4>
                                                 </div>
                                                 <div class="carousel-item">
                                                     <h3>Dr. Nicolas R. Thibault (University of Copenhagen, Denmark)</h3>
                                                     <h4><p>"I’ve been playing a lot with the excellent Acycle package for Matlab that Mingsong developed. Congratulations, this is a very nice interface that simplifies a lot our work and makes it truly faster to analyse a time-series."</p>
+                                                    <br />
                                                     <br />
                                                     <br />
                                                     <br />
