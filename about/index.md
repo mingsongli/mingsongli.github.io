@@ -24,7 +24,7 @@ title: About
 				<div class="row">
 					<div class="col-sm-6">
 						<div class="education-block">
-							<span class="fa fa-user-circle-o"></span>
+							<img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
 							<h3> Mingsong Li</h3>
 							<h4>Peking University</h4>
 							<div class="Sdivider"></div>
@@ -35,7 +35,7 @@ title: About
 					</div>
 					<div class="col-sm-6">
 						<div class="education-block">
-							<span class="fa fa-user-o"></span>
+							<img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
 							<h3> Linda Hinnov</h3>
 							<h4>George Mason University</h4>
 							<div class="Sdivider"></div>
@@ -48,7 +48,7 @@ title: About
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Jacques Laskar</h3>
                                             <div class="Sdivider"></div>
                                             <p>Astronomical Solutions</p>
@@ -56,7 +56,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Richard Zeebe</h3>
                                             <div class="Sdivider"></div>
                                             <p>Astronomical Solutions</p>
@@ -64,7 +64,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Jonathan Levine</h3>
                                             <div class="Sdivider"></div>
                                             <p>Insolation</p>
@@ -72,7 +72,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Peter Huybers</h3>
                                             <div class="Sdivider"></div>
                                             <p>Insolation</p>
@@ -80,7 +80,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Stephen Meyers</h3>
                                             <div class="Sdivider"></div>
                                             <p>TimeOpt/eTimeOpt</p>
@@ -88,7 +88,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Matthias Sinnesael</h3>
                                             <div class="Sdivider"></div>
                                             <p>Spectral Moments</p>
@@ -96,7 +96,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Nicolas Thibault</h3>
                                             <div class="Sdivider"></div>
                                             <p>Dynamic Filtering</p>
@@ -104,7 +104,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Giovanni Rizzi</h3>
                                             <div class="Sdivider"></div>
                                             <p>Dynamic Filtering</p>
@@ -112,7 +112,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Christopher Torrence</h3>
                                             <div class="Sdivider"></div>
                                             <p>Wavelet</p>
@@ -120,7 +120,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Gilbert Compo</h3>
                                             <div class="Sdivider"></div>
                                             <p>Wavelet</p>
@@ -128,7 +128,7 @@ title: About
                                     </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
-                                            <span class="fa fa-user-o"></span>
+                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Jeffrey Park</h3>
                                             <div class="Sdivider"></div>
                                             <p>Multitaper Adaptive Weighting, Harmonic F-Test</p>
@@ -136,7 +136,7 @@ title: About
                                     </div>
                                 <div class="col-sm-6">
                                     <div class="education-block">
-                                        <span class="fa fa-user-o"></span>
+                                        <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                         <h3>Eric Ruggieri</h3>
                                         <div class="Sdivider"></div>
                                         <p>Bayesian Change Point</p>
@@ -154,13 +154,13 @@ title: About
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class ="timeline-badge"><img src="https://img.icons8.com/fluent-systems-regular/24/000000/software-license.png"/></span></div>
+                        <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                         <div class="timeline-panel-container-inverted">
                             <div class ="timeline-panel">
                                 <div class="timeline-heading">
                                                             <h3>Acycle v2.2 </h3>
                                         <h4>MatLab RUNTIME 2019a</h4>
-                                        <p class="text-muted"><small class="fa fa-clock-o"></small> June 6, 2020 </p>
+                                        <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/> June 6, 2020 </p>
                                 </div>
                                 <div class="timeline-body">
                                     <ul>
@@ -178,13 +178,13 @@ title: About
                          </div>
                     </li>
                                      <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                                          <div class="timeline-panel-container">
                                              <div class ="timeline-panel">
                                                  <div class="timeline-heading">
                                                                              <h3>Acycle v2.1 </h3>
                                                          <h4>MatLab RUNTIME 2019a</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Feb. 23, 2020</p>
+                                                         <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>Feb. 23, 2020</p>
                                                  </div>
                                                  <div class="timeline-body">
                                                      <ul>
@@ -198,13 +198,13 @@ title: About
                                           </div>
                                      </li>
                                      <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                                          <div class="timeline-panel-container-inverted">
                                              <div class ="timeline-panel">
                                                  <div class="timeline-heading">
                                                                              <h3>Acycle v2.0 </h3>
                                                          <h4>MatLab RUNTIME 2019a</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Sept 2, 2019</p>
+                                                         <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>Sept 2, 2019</p>
                                                  </div>
                                                  <div class="timeline-body">
                                                      <ul>
@@ -218,13 +218,13 @@ title: About
                                           </div>
                                      </li>
                                      <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                                          <div class="timeline-panel-container">
                                              <div class ="timeline-panel">
                                                  <div class="timeline-heading">
                                                  <h3>Acycle v1.3 </h3>
                                                          <h4>MatLab RUNTIME 2015b</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>Aug 6, 2019</p>
+                                                         <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>Aug 6, 2019</p>
                                                  </div>
                                                  <div class="timeline-body">
                                                      <ul>
@@ -238,13 +238,13 @@ title: About
                                           </div>
                                      </li>
                                      <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                                          <div class="timeline-panel-container-inverted">
                                              <div class ="timeline-panel">
                                                  <div class="timeline-heading">
                                                  <h3>Acycle v1.2 </h3>
                                                          <h4>MatLab RUNTIME 2015b</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>May 20, 2019</p>
+                                                         <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>May 20, 2019</p>
                                                  </div>
                                                  <div class="timeline-body">
                                                      <ul>
@@ -259,13 +259,13 @@ title: About
                                           </div>
                                      </li>
                                      <li>
-                                         <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                                         <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                                          <div class="timeline-panel-container">
                                              <div class ="timeline-panel">
                                                  <div class="timeline-heading">
                                                  <h3>Acycle v1.1 </h3>
                                                          <h4>MatLab RUNTIME 2015b</h4>
-                                                         <p class="text-muted"><small class="fa fa-clock-o"></small>April 6, 2019</p>
+                                                         <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>April 6, 2019</p>
                                                  </div>
                                                  <div class="timeline-body">
                                                      <ul>
@@ -279,13 +279,13 @@ title: About
                                           </div>
                                      </li>
                     <li>
-                        <div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
+                        <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                         <div class="timeline-panel-container-inverted">
                             <div class ="timeline-panel">
                                 <div class="timeline-heading">
                                                             <h3> Acycle 1.0</h3>
                                     <h4>MatLab RUNTIME 2015b</h4>
-                                    <p class="text-muted"><small class="fa fa-clock-o"></small> Mar. 8, 2019 </p>
+                                    <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/> Mar. 8, 2019 </p>
                                 </div>
                                 <div class="timeline-body">
                                     <ul>
@@ -306,7 +306,7 @@ title: About
         </section>
 		<footer class="text-center">
 			<a href="#about">
-				<span class="fa fa-arrow-up"></span>
+				<img src="https://img.icons8.com/ios-glyphs/30/000000/up--v1.png"/>
 			</a>
 			<!--<h5>
 				© Copyright Mingsong Li
