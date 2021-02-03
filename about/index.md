@@ -151,7 +151,7 @@ title: About
                                 </div>
 			</div>
 		</section>
-        <!--Authors-->
+        <!--Acknowledgments-->
         <section id ="Acknowledgments">
             <div class="heading">
                 <div class="divider">

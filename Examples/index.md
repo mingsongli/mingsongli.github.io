@@ -88,6 +88,5 @@ title: Examples
 <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-left.png"/></a>
 <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-right--v2.png"/></a>
 </div>			
-
-
-Read Users' Guide for more examples
+<br />
+<p>Read <a href ="https://github.com/mingsongli/acycle/blob/master/doc/AC_Users_Guide.pdf">Users' Guide</a> for more examples</p>
