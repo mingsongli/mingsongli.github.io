@@ -7,6 +7,8 @@ title: Manuals
         <div class ="divider"></div>
         <div class = "container">
             <div class="heading">
+            <img src="https://img.icons8.com/ios/50/000000/user-manual.png"/>
+            <br />
                 <h3>Users' Guide</h3>
              </div>
                 <p><h5> <a href ="/docs/Acycle_Users_Guide.pdf"> Here </a> </h5></p>
@@ -17,6 +19,8 @@ title: Manuals
     <section id = "guide">
             <div class ="divider"></div>
                     <div class="heading">
+                    <img src="https://img.icons8.com/metro/26/000000/overview-pages-4.png"/>
+                    <br />
                        <h3>Contents</h3>
                        </div>
                        <object data="/docs/Acycle_Users_Guide_contents.pdf" type="application/pdf" width="800" height="780">

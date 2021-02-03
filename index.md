@@ -13,13 +13,15 @@ title:
 					    for paleoclimate research and education <br>  open source
 					    <br> graphical user interface (GUI) </h3>
 					<a href="docs/Li-et-al-2019-Acycle-software.pdf" class="button1"> Download Acycle Paper </a>
-				</div>	
+				</div>
 			</div>
 		</section>	
                                 <!--MOST USED TOOLS-->
                                 <section id="skills">
                                     <div class ="divider"></div>
                                     <div class="heading">
+                                    <img src="https://img.icons8.com/fluent-systems-regular/24/000000/ranking.png"/>
+                                    <br />
                                         <h2>MOST USED TOOLS</h2>
                                     </div>
                                     <div class="container">
@@ -74,6 +76,8 @@ title:
                                 <section id = "figures">
                                     <div class ="divider"></div>
                                     <div class="heading">
+                                    <img src="https://img.icons8.com/material/24/000000/myspace-squared.png"/>
+                                    <br />
                                         <h2>Global Visitors</h2>
                                     </div>
                                     <div class="col-xs-6 col-md-12 profile-picture">
@@ -86,6 +90,8 @@ title:
                         <section id = "theysay">
                             <div class ="divider"></div>
                             <div class ="heading">
+                            <img src="https://img.icons8.com/ios-glyphs/30/000000/chat.png"/>
+                            <br />
                                 <h2>What they say</h2>
                             </div>
                             <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
