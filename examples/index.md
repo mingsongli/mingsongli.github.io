@@ -127,5 +127,5 @@ title: Examples
  <div class ="heading">
     <h3>More</h3>
  </div>
-<p>Read <a href ="https://github.com/mingsongli/acycle/blob/master/doc/AC_Users_Guide.pdf">Users' Guide</a> for more examples</p>
+<p>Read <a href="/docs/Acycle_Users_Guide.pdf">Users' Guide</a> for more examples</p>
 </section>
