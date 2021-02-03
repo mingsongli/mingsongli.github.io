@@ -279,7 +279,7 @@ title: About
                                           </div>
                                      </li>
                     <li>
-                        <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                        <div class ="timeline-badge"><img src="https://img.icons8.com/fluent-systems-regular/24/000000/software-license.png"/></div>
                         <div class="timeline-panel-container-inverted">
                             <div class ="timeline-panel">
                                 <div class="timeline-heading">
