@@ -148,8 +148,8 @@ title:
                                     </div>
                                                 <div class="carousel-item">
                                                     <h3>Dr. Frits Hilgen (Utrecht University, Netherlands)</h3>
-                                                    <h4><p>"I used it this academic year for the first time in my MSc course on Astronomical climate forcing and time scales as replacement of the outdated Analyseries program. The main advantages of Acycle is that it is very user friendly, has a lot of different options for the statistical analysis of paleoclimate records and in addition first-rate plotting options. For instance you can directly see the trend that you aim to remove and then decide whether you want to continue with it. It is further also very good to see the fast and almost continuous improvement of Acycle, including the processing of reported bugs. And, not unimportantly, also my students were very enthusiastic about Acycle and I now use it now for my own research as well!"</p>
-                                                    <br />
+                                                    <h4><p>"I used it this academic year for the first time in my MSc course on Astronomical climate forcing and time scales as replacement of the outdated Analyseries program. </p>
+                                                    <p>The main advantages of Acycle is that it is very user friendly, has a lot of different options for the statistical analysis of paleoclimate records and in addition first-rate plotting options. For instance you can directly see the trend that you aim to remove and then decide whether you want to continue with it. It is further also very good to see the fast and almost continuous improvement of Acycle, including the processing of reported bugs. And, not unimportantly, also my students were very enthusiastic about Acycle and I now use it now for my own research as well!"</p>
                                                     <br />
                                                     <br />
                                                     <br />
