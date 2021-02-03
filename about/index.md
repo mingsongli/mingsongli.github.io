@@ -22,9 +22,10 @@ title: About
 		</section>	
 		<!--Authors-->
 		<section id ="authors">
-			<div class="heading">
-				<div class="divider">
-				</div>
+				<div class="divider"></div>
+                <div class="heading">
+                <img src="https://img.icons8.com/ios/50/000000/multicultural-people.png"/>
+                <br />
 				<h2>Authors & Contributors</h2>
 			</div>
 			<div class="container">
@@ -66,46 +67,16 @@ title: About
                                             <p>Spectral Moments</p>
                                             <h3>Nicolas Thibault</h3>
                                             <p>Dynamic Filtering</p>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Giovanni Rizzi</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Dynamic Filtering</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Christopher Torrence</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Wavelet</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Gilbert Compo</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Wavelet</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Jeffrey Park</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Multitaper Adaptive Weighting, Harmonic F-Test</p>
-                                        </div>
-                                    </div>
-                                <div class="col-sm-6">
-                                    <div class="education-block">
-                                        <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                         <h3>Eric Ruggieri</h3>
-                                        <div class="Sdivider"></div>
                                         <p>Bayesian Change Point</p>
-                                    </div>
-                                </div>
                                 </div>
 			</div>
 		</section>
