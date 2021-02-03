@@ -97,14 +97,14 @@ title:
                                     <div class="carousel-item">
                                         <h3>Dr. James Ogg (Purdue University, USA)</h3>
                                         <h4><p>"Acycle software enables us to quickly analyze the potential of new outcrops and boreholes, and then to determine the sedimentation rates and elapsed time. His Acycle software will become the standard tool for time-scale applications by all international workers."</p>
+                                        <p> </p>
+                                        <p>  </p>
                                         <p></p>
-                                        <p></p>
-                                        <p></p>
-                                        <p></p>
-                                        <p></p>
-                                        <p></p>
-                                        <p></p>
-                                        <p></p>
+                                        <p>. </p>
+                                        <p> </p>
+                                        <p> </p>
+                                        <p> </p>
+                                        <p> </p>
                                         <p>.</p>
                                         </h4>
                                     </div>
@@ -112,13 +112,13 @@ title:
                                         <h3>Dr. Paul E. Olsen (Columbia University, USA)</h3>
                                         <h4><p>"Not only is this software powerful and effective, it is also simple to use and therefore benefits researchers and at all levels within the paleoclimatology community, from novices to experts."</p></h4>
                                         <p></p>
-                                                                               <p></p>
-                                                                               <p></p>
-                                                                               <p></p>
-                                                                               <p></p>
-                                                                               <p></p>
-                                                                               <p></p>
-                                                                               <p></p>
+                                                                               <p> </p>
+                                                                               <p> </p>
+                                                                               <p> </p>
+                                                                               <p> </p>
+                                                                               <p> </p>
+                                                                               <p> </p>
+                                                                               <p> </p>
                                                                                <p>.</p>
                                     </div>
                                                 <div class="carousel-item">
@@ -128,22 +128,22 @@ title:
                                                 <div class="carousel-item">
                                                     <h3>Dr. Nicolas R. Thibault (University of Copenhagen, Denmark)</h3>
                                                     <h4><p>"I’ve been playing a lot with the excellent Acycle package for Matlab that Mingsong developed. Congratulations, this is a very nice interface that simplifies a lot our work and makes it truly faster to analyse a time-series."</p>
-                                                    <p></p>
-                                                    <p></p>
-                                                    <p></p>
-                                                    <p></p>
-                                                    <p></p>
-                                                    <p></p>
+                                                    <p> </p>
+                                                    <p> </p>
+                                                    <p> </p>
+                                                    <p> </p>
+                                                    <p> </p>
+                                                    <p> </p>
                                                     <p>.</p>
                                                     </h4>
                                                 </div>
                                                 <div class="carousel-item">
                                                     <h3>Dr. Xu Yao (Lanzhou University, China)</h3>
                                                     <h4><p>"I am working on cyclostratigraphy and paleoclimate study of ancient strata and rocks (270 million years ago) with assistance from Acycle software. I also introduced this software to my colleagues whose research areas are paleoclimate implications of Quaternary loess (several thousand years ago). My colleagues have given me really good feedbacks about Acycle software."</p><p></p>
-                                                    <p></p>
-                                                    <p></p>
-                                                    <p></p>
-                                                    <p></p>
+                                                    <p> </p>
+                                                    <p> </p>
+                                                    <p> </p>
+                                                    <p> </p>
                                                     <p>.</p></h4>
                                                 </div>
                                 </div>
