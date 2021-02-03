@@ -5,6 +5,8 @@ title: Downloads
 <section id ="matlab">
         <h2>MatLab version</h2>
         <p> MatLab version can be found on my <a href ="https://github.com/mingsongli/acycle"> Github repository</a>.</p>
+        <p> Or <a href ="https://github.com/mingsongli/acycle/archive/master.zip"> download ZIP</a> directly.</p>
+        
 </section>
 <section id ="standalone">
         <h2>Standalone versions</h2>

@@ -2,13 +2,7 @@
 layout: page
 title: Examples
 --- 
-<section id ="standalone">
- <div class ="divider"></div>
- <div class ="heading">
- </div>
-<p>Read <a href ="https://github.com/mingsongli/acycle/blob/master/doc/AC_Users_Guide.pdf">Users' Guide</a> for more examples</p>
 
-</section>
 <section id = "Setup">
     <div class ="divider"></div>
     <div class = "container">
@@ -61,67 +55,77 @@ title: Examples
                     <div class="carousel-caption d-none d-md-block">
                         <h4>Smoothing</h4>
                     </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Slide2.jpeg" alt= "Power Spectral Analysis">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4> Power Spectral Analysis </h4>
+                    </div>
+                </div>        
+                <div class="carousel-item">
+                    <img src="/images/Slide3.jpeg" alt= "Evolutionary FFT">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4>Evolutionary FFT</h4>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Slide4.jpeg" alt= "COCO">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4>COCO</h4>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Slide5.jpeg" alt= "eCOCO">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4>eCOCO</h4>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Slide6.jpeg" alt= "Filtering">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4>Filtering</h4>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Slide7.jpeg" alt= "Tuning">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4>Tuning</h4>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Slide8.jpeg" alt= "Sedimentary noise model">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4>Sedimentary noise model</h4>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Slide9.jpeg" alt= "Bootstrap smoothing">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4>Bootstrap smoothing</h4>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Slide11.jpeg" alt= "Plot Pro">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4>Plot Pro</h4>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="/images/Slide12.jpeg" alt= "Image">
+                    <div class="carousel-caption d-none d-md-block">
+                    <h4>Image</h4>
+                    </div>
+                </div>
+            <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-left.png"/></a>
+            <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-right--v2.png"/></a>
+            </div>		
         </div>
-        <div class="carousel-item">
-            <img src="/images/Slide2.jpeg" alt= "Power Spectral Analysis">
-            <div class="carousel-caption d-none d-md-block">
-            <h4> Power Spectral Analysis </h4>
-            </div>
-        </div>        
-        <div class="carousel-item">
-            <img src="/images/Slide3.jpeg" alt= "Evolutionary FFT">
-            <div class="carousel-caption d-none d-md-block">
-            <h4>Evolutionary FFT</h4>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img src="/images/Slide4.jpeg" alt= "COCO">
-            <div class="carousel-caption d-none d-md-block">
-            <h4>COCO</h4>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img src="/images/Slide5.jpeg" alt= "eCOCO">
-            <div class="carousel-caption d-none d-md-block">
-            <h4>eCOCO</h4>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img src="/images/Slide6.jpeg" alt= "Filtering">
-            <div class="carousel-caption d-none d-md-block">
-            <h4>Filtering</h4>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img src="/images/Slide7.jpeg" alt= "Tuning">
-            <div class="carousel-caption d-none d-md-block">
-            <h4>Tuning</h4>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img src="/images/Slide8.jpeg" alt= "Sedimentary noise model">
-            <div class="carousel-caption d-none d-md-block">
-            <h4>Sedimentary noise model</h4>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img src="/images/Slide9.jpeg" alt= "Bootstrap smoothing">
-            <div class="carousel-caption d-none d-md-block">
-            <h4>Bootstrap smoothing</h4>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img src="/images/Slide11.jpeg" alt= "Plot Pro">
-            <div class="carousel-caption d-none d-md-block">
-            <h4>Plot Pro</h4>
-            </div>
-        </div>
-        <div class="carousel-item">
-            <img src="/images/Slide12.jpeg" alt= "Image">
-            <div class="carousel-caption d-none d-md-block">
-            <h4>Image</h4>
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-left.png"/></a>
-        <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-right--v2.png"/></a>
-        </div>		
+</div>
+</section>
+<section id ="standalone">
+ <div class ="divider"></div>
+ <div class ="heading">
+    <h3>More</h3>
+ </div>
+<p>Read <a href ="https://github.com/mingsongli/acycle/blob/master/doc/AC_Users_Guide.pdf">Users' Guide</a> for more examples</p>
+</section>
