@@ -97,14 +97,16 @@ title:
                                     <div class="carousel-item">
                                         <h3>Dr. James Ogg (Purdue University, USA)</h3>
                                         <h4><p>"Acycle software enables us to quickly analyze the potential of new outcrops and boreholes, and then to determine the sedimentation rates and elapsed time. His Acycle software will become the standard tool for time-scale applications by all international workers."</p>
-                                        <p> </p>
-                                        <p>  </p>
-                                        <p></p>
-                                        <p>. </p>
-                                        <p> </p>
-                                        <p> </p>
-                                        <p> </p>
-                                        <p> </p>
+                                        <br />
+                                        <br />
+                                        <br />
+                                        <br />
+                                        <br />
+                                        <br />
+                                        <br />
+                                        <br />
+                                        <br />
+                                        <br />
                                         <p>.</p>
                                         </h4>
                                     </div>
