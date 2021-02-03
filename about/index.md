@@ -52,62 +52,20 @@ title: About
 					</div>
 				</div>
                                 <div class="row">
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Jacques Laskar</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Astronomical Solutions</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Richard Zeebe</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Astronomical Solutions</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Jonathan Levine</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Insolation</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Peter Huybers</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Insolation</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Stephen Meyers</h3>
-                                            <div class="Sdivider"></div>
                                             <p>TimeOpt/eTimeOpt</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Matthias Sinnesael</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Spectral Moments</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <div class="education-block">
-                                            <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
                                             <h3>Nicolas Thibault</h3>
-                                            <div class="Sdivider"></div>
                                             <p>Dynamic Filtering</p>
-                                        </div>
-                                    </div>
                                     <div class="col-sm-6">
                                         <div class="education-block">
                                             <img src="https://img.icons8.com/material-sharp/24/000000/user-male-circle.png"/>
