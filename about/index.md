@@ -152,6 +152,22 @@ title: About
                                 </div>
 			</div>
 		</section>
+        <!--Authors-->
+        <section id ="Acknowledgments">
+            <div class="heading">
+                <div class="divider">
+                </div>
+                <p><img src="https://img.icons8.com/ios/50/000000/multicultural-people.png"/></p>
+                <h2>Acknowledgments</h2>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10">
+                    <p>Feng Cheng, Jitao Chen, Anne-Christine Da Silva, Hewei Duan, Zheng Gong, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Kunyuan Ma, Mathieu Martinez, James Ogg, Paul Olsen, Jeffrey Park, J. Fred Read, Chen Shen, Nicolas R. Thibault, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Xu Yao, Tan Zhang, Qiyan Zhang, Yang (Wendy) Zhang, Christian Zeeden</p>
+                    </div>
+                </div>
+            </div>
+        </section>
             <!--History-->
         <section id ="history">
             <div class="container">

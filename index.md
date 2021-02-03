@@ -177,7 +177,6 @@ title:
                                                     <br />
                                                     <br />
                                                     <br />
-                                                    <br />
                                                     </h4>
                                                 </div>
                                                 <div class="carousel-item">
