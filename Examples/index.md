@@ -85,8 +85,8 @@ title: Examples
     <h3>Image</h3>
     </div>
 </div>
-<a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
-<a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
+<a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-left.png"/></a>
+<a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-right--v2.png"/></a>
 </div>			
 
 
