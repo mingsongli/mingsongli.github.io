@@ -17,13 +17,11 @@ title: Manuals
     </section>
     <section id = "guide">
             <div class ="divider"></div>
-            <div class = "container">
                     <div class="heading">
                        <h3>Contents</h3>
+                       </div>
                        <object data="/docs/Acycle_Users_Guide_contents.pdf" type="application/pdf" width="100%" height="100%">
                          <p>Alternative text - include a link <a href="/docs/Acycle_Users_Guide_contents.pdf">Contents</a></p>
                        </object>
-                    </div>
-            </div>
     </section>
 </section>
