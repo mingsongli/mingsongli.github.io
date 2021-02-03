@@ -31,67 +31,67 @@ title: Examples
                 <div class="carousel-item active">
                     <img src="/images/Slide1.jpeg" alt= "Smoothing">
                     <div class="carousel-caption d-none d-md-block">
-                        <h3>Smoothing</h3>
+                        <h4>Smoothing</h4>
                     </div>
         </div>
         <div class="carousel-item">
             <img src="/images/Slide2.jpeg" alt= "Power Spectral Analysis">
             <div class="carousel-caption d-none d-md-block">
-            <h3> Power Spectral Analysis </h3>
+            <h4> Power Spectral Analysis </h4>
             </div>
         </div>        
         <div class="carousel-item">
             <img src="/images/Slide3.jpeg" alt= "Evolutionary FFT">
             <div class="carousel-caption d-none d-md-block">
-            <h3>Evolutionary FFT</h3>
+            <h4>Evolutionary FFT</h4>
             </div>
         </div>
         <div class="carousel-item">
             <img src="/images/Slide4.jpeg" alt= "COCO">
             <div class="carousel-caption d-none d-md-block">
-            <h3>COCO</h3>
+            <h4>COCO</h4>
             </div>
         </div>
         <div class="carousel-item">
             <img src="/images/Slide5.jpeg" alt= "eCOCO">
             <div class="carousel-caption d-none d-md-block">
-            <h3>eCOCO</h3>
+            <h4>eCOCO</h4>
             </div>
         </div>
         <div class="carousel-item">
             <img src="/images/Slide6.jpeg" alt= "Filtering">
             <div class="carousel-caption d-none d-md-block">
-            <h3>Filtering</h3>
+            <h4>Filtering</h4>
             </div>
         </div>
         <div class="carousel-item">
             <img src="/images/Slide7.jpeg" alt= "Tuning">
             <div class="carousel-caption d-none d-md-block">
-            <h3>Tuning</h3>
+            <h4>Tuning</h4>
             </div>
         </div>
         <div class="carousel-item">
             <img src="/images/Slide8.jpeg" alt= "Sedimentary noise model">
             <div class="carousel-caption d-none d-md-block">
-            <h3>Sedimentary noise model</h3>
+            <h4>Sedimentary noise model</h4>
             </div>
         </div>
         <div class="carousel-item">
             <img src="/images/Slide9.jpeg" alt= "Bootstrap smoothing">
             <div class="carousel-caption d-none d-md-block">
-            <h3>Bootstrap smoothing</h3>
+            <h4>Bootstrap smoothing</h4>
             </div>
         </div>
         <div class="carousel-item">
             <img src="/images/Slide11.jpeg" alt= "Plot Pro">
             <div class="carousel-caption d-none d-md-block">
-            <h3>Plot Pro</h3>
+            <h4>Plot Pro</h4>
             </div>
         </div>
         <div class="carousel-item">
             <img src="/images/Slide12.jpeg" alt= "Image">
             <div class="carousel-caption d-none d-md-block">
-            <h3>Image</h3>
+            <h4>Image</h4>
             </div>
         </div>
         <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-left.png"/></a>

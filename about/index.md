@@ -170,7 +170,7 @@ title: About
             </div>
         </section>
             <!--History-->
-        <section id ="history">
+        <section id ="education">
             <div class="container">
                 <div class="divider"></div>
                 <div class ="heading">
