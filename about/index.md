@@ -101,7 +101,7 @@ title: About
                         <div class="row">
                                     <h3>Heising-Simons Foundation</h3>
                                     <p>USA</p>
-                                    <h3>, National Natural Science Foundation of China (NSFC)</h3>
+                                    <h3>, National Natural Science Foundation of China</h3>
                                     <p>China</p>
                                     <h3>, Pennsylvania State University </h3>
                                     <p>USA  </p>
