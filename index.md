@@ -94,11 +94,10 @@ title:
                                         <h2>Cited By</h2>
                                     </div>
                                     <div class="col-xs-6 col-md-12 profile-picture">
-                                    <iframe src="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17133348578794397884&as_sdt=5" width="100%" height="500">
+                                    <iframe src="https://academic.microsoft.com/paper/2919969996/citedby/search?q=Acycle%3A%20Time-series%20analysis%20software%20for%20paleoclimate%20research%20and%20education&qe=RId%253D2919969996&f=&orderBy=0" width="100%" height="500">
                                       <p>Your browser does not support iframes.</p>
                                     </iframe>
-                                    <p>Data source: Google Scholar</p>
-                                    <p>Alternative: <a href="https://academic.microsoft.com/paper/2919969996/citedby/search?q=Acycle%3A%20Time-series%20analysis%20software%20for%20paleoclimate%20research%20and%20education&qe=RId%253D2919969996&f=&orderBy=0"> Microsoft Academic </a></p>
+                                    <p>Data source: icrosoft Academic</p>
                                 </div>
                                 </section>
                         <!--What they say-->
