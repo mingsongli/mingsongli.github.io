@@ -24,7 +24,7 @@ title: Manuals
             </div>
            <object data="/docs/Acycle_Users_Guide_contents.pdf" type="application/pdf" width="800" height="780">
                  <p>It appears you don't have a PDF plugin for this browser.
-                 No biggie... you can <a href="/docs/Acycle_Users_Guide_contents.pdf">click here to
+                 No biggie... you can <a href="/docs/Manual_contents.pdf">click here to
                  download the PDF file.</a></p>
            </object>
 </section>
