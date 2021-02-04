@@ -128,3 +128,11 @@ title: Examples
  </div>
 <p>Read <a href="/docs/Acycle_Users_Guide.pdf">Users' Guide</a> for more examples</p>
 </section>
+<footer class="text-center">
+    <a href="#examples">
+        <img src="https://img.icons8.com/ios-glyphs/30/000000/up--v1.png"/>
+    </a>
+    <!--<h5>
+        © Copyright Mingsong Li
+    </h5>-->
+</footer>

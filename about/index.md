@@ -122,6 +122,25 @@ title: About
                 <h2> History </h2>
                 </div>
                 <ul class="timeline">
+                <li>
+                    <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                    <div class="timeline-panel-container">
+                        <div class ="timeline-panel">
+                            <div class="timeline-heading">
+                            <h3>ACYCLE.org</h3>
+                                    <h4>New official website</h4>
+                                    <p class="text-muted"><img src="https://img.icons8.com/metro/80/000000/domain.png"/>Feb. 4, 2021</p>
+                            </div>
+                            <div class="timeline-body">
+                                <ul>
+                                    <li>
+                                    <p>www.acycle.org</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                     </div>
+                </li>
                     <li>
                         <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                         <div class="timeline-panel-container-inverted">
@@ -134,8 +153,8 @@ title: About
                                 <div class="timeline-body">
                                     <ul>
                                         <li>
-                                                                                    <p>1. Power spectral analysis: For MTM, periodogram, and Lomb methods: Add the power-law model and bending power-law model.</p>
-                                            <p>2. Add curve fitting method for robust AR1 confidence level estimation.</p>
+                                        <p>1. Power spectral analysis: Updated.</p>
+                                            <p>2. Add curve fitting method for robust AR1 confidence level estimations.</p>
                                         </li>
                                         <li>
                                                                                     <p> 3. Add a new tool: Basic Series -> Length-of-day & day-of-year.
