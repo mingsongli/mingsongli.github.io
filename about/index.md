@@ -84,7 +84,7 @@ title: About
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                    <p>Feng Cheng, Jitao Chen, Anne-Christine Da Silva, Hewei Duan, Zheng Gong, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Kunyuan Ma, Mathieu Martinez, James Ogg, Paul Olsen, Jeffrey Park, J. Fred Read, Chen Shen, Nicolas R. Thibault, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Xu Yao, Tan Zhang, Qiyan Zhang, Yang (Wendy) Zhang, Christian Zeeden</p>
+                    <p>Feng Cheng, Jitao Chen, Anne-Christine Da Silva, Hewei Duan, Zheng Gong, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Kunyuan Ma, Mathieu Martinez, James Ogg, Paul Olsen, Jeffrey Park, J. Fred Read, Chen Shen, Nicolas R. Thibault, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Yuzhen Yan, Xu Yao, Tan Zhang, Qiyan Zhang, Yang Zhang, Christian Zeeden</p>
                     </div>
                 </div>
             </div>
