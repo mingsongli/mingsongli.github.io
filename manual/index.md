@@ -31,7 +31,7 @@ title: Manuals
 <section id = "guide">
             <div class ="divider"></div>
             <div class="heading">
-                <img src="https://img.icons8.com/fluent-systems-filled/26/000000/faq.png" height="24" width="24">
+                <img src="https://img.icons8.com/dotty/80/000000/faq.png" height="24" width="24">
                 <br />
                 <h3>FAQs</h3>
                 <p><h5> <a href ="https://github.com/mingsongli/acycle/issues" target="_blank" rel="noopener noreferrer"> Frequently Asked Questions </a> </h5></p>
