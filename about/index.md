@@ -79,7 +79,7 @@ title: About
             <div class="heading">
                 <img src="https://img.icons8.com/ios/50/000000/multicultural-people.png" height="32" width="32">
                 <br />
-                <h2>Acknowledgments</h2>
+                <h2>Thanks</h2>
             </div>
             <div class="container">
                 <div class="row">
@@ -88,6 +88,29 @@ title: About
                     </div>
                 </div>
             </div>
+        </section>
+        <!--Authors-->
+            <section id ="authors">
+                    <div class="divider"></div>
+                                    <div class="heading">
+                                    <img src="https://img.icons8.com/ios-filled/50/000000/handshake-heart.png" height="32" width="32">
+                                    <br />
+                                    <h2>Funding</h2>
+                                    </div>
+                <div class="container">
+                        <div class="row">
+                                    <h3>Heising-Simons Foundation</h3>
+                                    <p>USA</p>
+                                    <h3>, National Natural Science Foundation of China (NSFC)</h3>
+                                    <p>China</p>
+                                    <h3>, Pennsylvania State University </h3>
+                                    <p>USA  </p>
+                                    <h3>, Peking University </h3>
+                                    <p>China  </p>
+                                    <h3>, Peking University </h3>
+                                    <p>USA  </p>
+                        </div>
+                </div>
         </section>
             <!--History-->
         <section id ="education">
