@@ -82,9 +82,8 @@ title:
                                     </div>
                                     <div class="col-xs-6 col-md-12 profile-picture">
                                     <img src="images/AcycleVisitors.png" alt= "users" class="rounded"></div>
-                                    <p>Total: 3,621 unique visitors </p>
+                                    <p>Total: 3,621 unique visitors. <a href="https://analytics.google.com"> Data source </a></p>
                                     <p><img src="https://img.icons8.com/small/16/000000/clock.png" height="32" width="32"> Sept 2018 – Feb 2020</p>
-                                    <p><a href="https://analytics.google.com"> Data source </a></p>
                                 </section>
                                 <section id = "figures">
                                     <div class ="divider"></div>
