@@ -89,7 +89,7 @@ title:
                                 <section id = "figures">
                                     <div class ="divider"></div>
                                     <div class="heading">
-                                    <img src="images/google-scholar-icon-1.jpg" height="32" width="32">
+                                    <img src="https://img.icons8.com/metro/50/000000/magazine.png" height="32" width="32">
                                     <br />
                                         <h2>Cited By</h2>
                                     </div>
@@ -97,7 +97,7 @@ title:
                                     <iframe src="https://academic.microsoft.com/paper/2919969996/citedby/search?q=Acycle%3A%20Time-series%20analysis%20software%20for%20paleoclimate%20research%20and%20education&qe=RId%253D2919969996&f=&orderBy=0" width="100%" height="500">
                                       <p>Your browser does not support iframes.</p>
                                     </iframe>
-                                    <p>Data source: icrosoft Academic</p>
+                                    <p>Data source: Microsoft Academic</p>
                                 </div>
                                 </section>
                         <!--What they say-->
