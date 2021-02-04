@@ -15,7 +15,7 @@ title: About
                     <p>    (1) There is a need to broaden and encourage the experience of time series analysis in the geosciences, especially in paleoclimatology and cyclostratigraphy. </p>
                     <p>    (2) There is a need to speed the process for the time-series analysis steps, which can be very time-consuming. </p>
                     <p>    (3) There is a need to provide objective methods for the analysis of paleoclimate signals as reproducibility becomes a major challenge. </p>
-                    <p>We acknowledge our inspiring freeware predecessors: <a href ="https://doi.org/10.1029/96EO00259">Analyseries</a>, <a href ="https://github.com/mingsongli/arand">Arand</a>, and <a href ="https://CRAN.R-project.org/package=astrochron">Astrochron</a>.
+                    <p>We acknowledge our inspiring freeware predecessors: <a href ="https://doi.org/10.1029/96EO00259" target="_blank" rel="noopener noreferrer">Analyseries</a>, <a href ="https://github.com/mingsongli/arand" target="_blank" rel="noopener noreferrer">Arand</a>, and <a href ="https://CRAN.R-project.org/package=astrochron" target="_blank" rel="noopener noreferrer">Astrochron</a>.
 </p>
 				</div>	
 			</div>
@@ -33,11 +33,11 @@ title: About
 					<div class="col-sm-12">
 						<div class="education-block">
 							<img src="images/msli-200x200.jpg" class="rounded-circle">
-							<h3> <a href ="http://faculty.pku.edu.cn/li/en"> Mingsong Li </a> </h3> 
-							<h4><a href ="http://english.pku.edu.cn/"> Peking University </a></h4>
+							<h3> <a href ="http://faculty.pku.edu.cn/li/en" target="_blank" rel="noopener noreferrer"> Mingsong Li </a> </h3> 
+							<h4><a href ="http://english.pku.edu.cn/" target="_blank" rel="noopener noreferrer"> Peking University </a></h4>
 							<div class="Sdivider"></div>
 							<h5>msli {at} pku.edu.cn ; limingsonglms {at} gmail.com</h5>
-                                                     <h6><a href ="http://faculty.pku.edu.cn/li/en"> <img src="https://img.icons8.com/android/24/000000/home.png" height="32" width="32"></a><a href ="https://scholar.google.com/citations?user=NYUXDW0AAAAJ&hl=en&inst=4855597776033322861"> <img src="/images/google-scholar-icon-1.jpg" height="32" width="32"></a><a href ="https://www.researchgate.net/profile/Mingsong_Li"> <img src="images/RG.jpeg" height="32" width="32"></a><a href ="https://github.com/mingsongli/"> <img src="images/github-icon-for-resume-14.jpg" height="32" width="32"></a><a href ="https://www.linkedin.com/in/mingsongli/"> <img src="images/LinkedIn-icon.png" height="32" width="32"></a> </h6>
+                                                     <h6><a href ="http://faculty.pku.edu.cn/li/en" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/android/24/000000/home.png" height="32" width="32"></a><a href ="https://scholar.google.com/citations?user=NYUXDW0AAAAJ&hl=en&inst=4855597776033322861" target="_blank" rel="noopener noreferrer"> <img src="/images/google-scholar-icon-1.jpg" height="32" width="32"></a><a href ="https://www.researchgate.net/profile/Mingsong_Li" target="_blank" rel="noopener noreferrer"> <img src="images/RG.jpeg" height="32" width="32"></a><a href ="https://github.com/mingsongli/" target="_blank" rel="noopener noreferrer"> <img src="images/github-icon-for-resume-14.jpg" height="32" width="32"></a><a href ="https://www.linkedin.com/in/mingsongli/" target="_blank" rel="noopener noreferrer"> <img src="images/LinkedIn-icon.png" height="32" width="32"></a> </h6>
 						</div>
 					</div>
                                 <div class="row">
