@@ -18,7 +18,7 @@ title: Manuals
 <section id = "guide">
             <div class ="divider"></div>
             <div class="heading">
-                <img src="https://img.icons8.com/metro/26/000000/overview-pages-4.png" height="32" width="32">
+                <img src="https://img.icons8.com/metro/26/000000/overview-pages-4.png" height="24" width="24">
                 <br />
                 <h3>Contents</h3>
             </div>
