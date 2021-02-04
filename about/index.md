@@ -123,13 +123,13 @@ title: About
                 </div>
                 <ul class="timeline">
                 <li>
-                    <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                    <div class ="timeline-badge"><img src="https://img.icons8.com/metro/80/000000/domain.png"/></div>
                     <div class="timeline-panel-container">
                         <div class ="timeline-panel">
                             <div class="timeline-heading">
                             <h3>ACYCLE.org</h3>
                                     <h4>New official website</h4>
-                                    <p class="text-muted"><img src="https://img.icons8.com/metro/80/000000/domain.png"/>Feb. 4, 2021</p>
+                                    <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>Feb. 4, 2021</p>
                             </div>
                             <div class="timeline-body">
                                 <ul>
