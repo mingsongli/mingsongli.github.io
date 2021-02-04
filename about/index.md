@@ -123,7 +123,7 @@ title: About
                 </div>
                 <ul class="timeline">
                 <li>
-                    <div class ="timeline-badge"><img src="https://img.icons8.com/metro/80/000000/domain.png"/></div>
+                    <div class ="timeline-badge"><img src="https://img.icons8.com/material-outlined/24/000000/domain.png"/></div>
                     <div class="timeline-panel-container">
                         <div class ="timeline-panel">
                             <div class="timeline-heading">
