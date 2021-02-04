@@ -86,6 +86,20 @@ title:
                                     <p><img src="https://img.icons8.com/small/16/000000/clock.png" height="32" width="32"> Sept 2018 – Feb 2020</p>
                                     <p><a href="https://analytics.google.com"> Data source </a></p>
                                 </section>
+                                <section id = "figures">
+                                    <div class ="divider"></div>
+                                    <div class="heading">
+                                    <img src="images/google-scholar-icon-1.jpg" height="32" width="32">
+                                    <br />
+                                        <h2>Cited By</h2>
+                                    </div>
+                                    <div class="col-xs-6 col-md-12 profile-picture">
+                                    <iframe src="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17133348578794397884&as_sdt=5" width="100%" height="500">
+                                      <p>Your browser does not support iframes.</p>
+                                    </iframe>
+                                    <p>Data source: Google Scholar</p>
+                                    <p>Alternative: <a href="https://academic.microsoft.com/paper/2919969996/citedby/search?q=Acycle%3A%20Time-series%20analysis%20software%20for%20paleoclimate%20research%20and%20education&qe=RId%253D2919969996&f=&orderBy=0"> Microsoft Academic </a></p>
+                                </section>
                         <!--What they say-->
                         <section id = "theysay">
                             <div class ="divider"></div>
