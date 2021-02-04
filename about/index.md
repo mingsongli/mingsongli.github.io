@@ -33,8 +33,8 @@ title: About
 					<div class="col-sm-12">
 						<div class="education-block">
 							<img src="images/msli-200x200.jpg" class="rounded-circle">
-							<h3> <a href ="http://faculty.pku.edu.cn/li/en" target="_blank" rel="noopener noreferrer"> Mingsong Li </a> </h3> 
-							<h4><a href ="http://english.pku.edu.cn/" target="_blank" rel="noopener noreferrer"> Peking University </a></h4>
+							<h4> <a href ="http://faculty.pku.edu.cn/li/en" target="_blank" rel="noopener noreferrer"> Mingsong Li </a> </h4> 
+							<h5><a href ="http://english.pku.edu.cn/" target="_blank" rel="noopener noreferrer"> Peking University </a></h5>
 							<div class="Sdivider"></div>
 							<h5>msli {at} pku.edu.cn ; limingsonglms {at} gmail.com</h5>
                                                      <h6><a href ="http://faculty.pku.edu.cn/li/en" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/android/24/000000/home.png" height="32" width="32"></a><a href ="https://scholar.google.com/citations?user=NYUXDW0AAAAJ&hl=en&inst=4855597776033322861" target="_blank" rel="noopener noreferrer"> <img src="/images/google-scholar-icon-1.jpg" height="32" width="32"></a><a href ="https://www.researchgate.net/profile/Mingsong_Li" target="_blank" rel="noopener noreferrer"> <img src="images/RG.jpeg" height="32" width="32"></a><a href ="https://github.com/mingsongli/" target="_blank" rel="noopener noreferrer"> <img src="images/github-icon-for-resume-14.jpg" height="32" width="32"></a><a href ="https://www.linkedin.com/in/mingsongli/" target="_blank" rel="noopener noreferrer"> <img src="images/LinkedIn-icon.png" height="32" width="32"></a> </h6>
