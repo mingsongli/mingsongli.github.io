@@ -34,7 +34,7 @@ title: Manuals
                 <img src="https://img.icons8.com/fluent-systems-filled/26/000000/faq.png" height="24" width="24">
                 <br />
                 <h3>FAQs</h3>
-                <p><h5> <a href ="https://github.com/mingsongli/acycle/issues" target="_blank" rel="noopener noreferrer"> Frequent Asked Questions </a> </h5></p>
+                <p><h5> <a href ="https://github.com/mingsongli/acycle/issues" target="_blank" rel="noopener noreferrer"> Frequently Asked Questions </a> </h5></p>
             </div>
             
 </section>
