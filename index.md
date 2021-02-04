@@ -99,6 +99,7 @@ title:
                                     </iframe>
                                     <p>Data source: Google Scholar</p>
                                     <p>Alternative: <a href="https://academic.microsoft.com/paper/2919969996/citedby/search?q=Acycle%3A%20Time-series%20analysis%20software%20for%20paleoclimate%20research%20and%20education&qe=RId%253D2919969996&f=&orderBy=0"> Microsoft Academic </a></p>
+                                </div>
                                 </section>
                         <!--What they say-->
                         <section id = "theysay">
