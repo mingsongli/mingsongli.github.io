@@ -12,7 +12,6 @@ title: Examples
             </div>
             <img src="/images/2.acycle-insolationS.gif" alt ="Insolation">
             <h5> Acycle insolation toolbox</h5>
-            <p> insolation calculation</p>
         </div>
     </div>
 </section>

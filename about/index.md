@@ -15,7 +15,7 @@ title: About
                     <p>    (1) There is a need to broaden and encourage the experience of time series analysis in the geosciences, especially in paleoclimatology and cyclostratigraphy. </p>
                     <p>    (2) There is a need to speed the process for the time-series analysis steps, which can be very time-consuming. </p>
                     <p>    (3) There is a need to provide objective methods for the analysis of paleoclimate signals as reproducibility becomes a major challenge. </p>
-                    <p>We acknowledge our inspiring freeware predecessors: Analyseries (Paillard et al., 1996), Anand, and Astrochron (Meyers, 2014).
+                    <p>We acknowledge our inspiring freeware predecessors: <a href ="https://doi.org/10.1029/96EO00259">Analyseries</a>, <a href ="https://github.com/mingsongli/arand">Arand</a>, and <a href ="https://CRAN.R-project.org/package=astrochron">Astrochron</a>.
 </p>
 				</div>	
 			</div>
@@ -24,10 +24,10 @@ title: About
 		<section id ="authors">
 				<div class="divider"></div>
                                 <div class="heading">
-                                <img src="https://img.icons8.com/dotty/80/000000/manager.png"/>
+                                <img src="https://img.icons8.com/dotty/80/000000/manager.png" height="32" width="32">
                                 <br />
-				<h2>Authors & Contributors</h2>
-			</div>
+				 <h2>Contributors</h2>
+                                </div>
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-12">
@@ -71,12 +71,13 @@ title: About
                                         <p>Bayesian Change Point  </p>
                                 </div>
 			</div>
-		</section>
+            </div>
+    </section>
         <!--Acknowledgments-->
         <section id ="Acknowledgments">
         <div class="divider"></div>
             <div class="heading">
-                <img src="https://img.icons8.com/ios/50/000000/multicultural-people.png"/>
+                <img src="https://img.icons8.com/ios/50/000000/multicultural-people.png" height="32" width="32">
                 <br />
                 <h2>Acknowledgments</h2>
             </div>
@@ -93,7 +94,7 @@ title: About
             <div class="container">
                 <div class="divider"></div>
                 <div class ="heading">
-                <img src="https://img.icons8.com/ios/50/000000/order-history.png"/>
+                <img src="https://img.icons8.com/ios/50/000000/order-history.png" height="32" width="32">
                 <br />
                 <h2> History </h2>
                 </div>
@@ -257,4 +258,3 @@ title: About
 				© Copyright Mingsong Li
 			</h5>-->
 		</footer>
-</body>

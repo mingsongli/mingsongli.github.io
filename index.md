@@ -20,7 +20,7 @@ title:
                                 <section id="skills">
                                     <div class ="divider"></div>
                                     <div class="heading">
-                                    <img src="https://img.icons8.com/fluent-systems-regular/24/000000/ranking.png"/>
+                                    <img src="https://img.icons8.com/fluent-systems-regular/24/000000/ranking.png" height="32" width="32">
                                     <br />
                                         <h2>MOST USED TOOLS</h2>
                                     </div>
@@ -83,14 +83,14 @@ title:
                                     <div class="col-xs-6 col-md-12 profile-picture">
                                     <img src="images/AcycleVisitors.png" alt= "users" class="rounded"></div>
                                     <p>Total: 3,621 unique visitors </p>
-                                    <p><img src="https://img.icons8.com/small/16/000000/clock.png"/> Sept 2018 – Feb 2020</p>
+                                    <p><img src="https://img.icons8.com/small/16/000000/clock.png" height="32" width="32"> Sept 2018 – Feb 2020</p>
                                     <p><a href="https://analytics.google.com"> Data source </a></p>
                                 </section>
                         <!--What they say-->
                         <section id = "theysay">
                             <div class ="divider"></div>
                             <div class ="heading">
-                            <img src="https://img.icons8.com/ios-glyphs/30/000000/chat.png"/>
+                            <img src="https://img.icons8.com/ios-glyphs/30/000000/chat.png" height="32" width="32">
                             <br />
                                 <h2>What they say</h2>
                             </div>
