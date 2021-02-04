@@ -127,14 +127,14 @@ title: About
                     <div class="timeline-panel-container">
                         <div class ="timeline-panel">
                             <div class="timeline-heading">
-                            <h3>ACYCLE.org</h3>
+                            <h3>acycle.org</h3>
                                     <h4>New official website</h4>
                                     <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>Feb. 4, 2021</p>
                             </div>
                             <div class="timeline-body">
                                 <ul>
                                     <li>
-                                    <p>www.acycle.org</p>
+                                    <p>acycle.org</p>
                                     </li>
                                 </ul>
                             </div>
