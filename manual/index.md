@@ -38,6 +38,7 @@ title: Manuals
             </div>
             
 </section>
+<footer class="text-center">
     <a href="#manual">
         <img src="https://img.icons8.com/ios-glyphs/30/000000/up--v1.png"/>
     </a>
