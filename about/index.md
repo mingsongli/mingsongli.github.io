@@ -107,7 +107,7 @@ title: About
                                     <p>USA  </p>
                                     <h3>, Peking University </h3>
                                     <p>China  </p>
-                                    <h3>, Peking University </h3>
+                                    <h3>, George Mason University </h3>
                                     <p>USA  </p>
                         </div>
                 </div>
