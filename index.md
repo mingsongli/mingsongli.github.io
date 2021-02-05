@@ -12,7 +12,6 @@ title:
 					<h3>time-series analysis software <br>
 					    for paleoclimate research and education <br>  open source
 					    <br> graphical user interface (GUI) </h3>
-					<a href="docs/Li-et-al-2019-Acycle-software.pdf" class="button1"> Download Acycle Paper </a>
 				</div>
 			</div>
 		</section>	
@@ -98,6 +97,7 @@ title:
                                     </iframe>
                                     <p>Data source: <a href="https://academic.microsoft.com/paper/2919969996/citedby/search?q=Acycle%3A%20Time-series%20analysis%20software%20for%20paleoclimate%20research%20and%20education&qe=RId%3D2919969996&f=&orderBy=3" target="_blank" rel="noopener noreferrer">Microsoft Academic</a>. Or more citations: <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17133348578794397884" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
                                 </div>
+                                <a href="docs/Li-et-al-2019-Acycle-software.pdf" class="button1"> Download Acycle Paper </a>
                                 </section>
                         <!--What they say-->
                         <section id = "theysay">
