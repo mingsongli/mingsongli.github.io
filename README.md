@@ -5,7 +5,7 @@ Official website for [Acycle](https://acycle.org/) software.
 
 [Acycle](https://acycle.org/) is a time-series analysis software for paleoclimate research and education.
 
-Managed by Dr. [Mingsong Li](http://faculty.pku.edu.cn/li/en) of [Peking University(http://english.pku.edu.cn/).
+Managed by Dr. [Mingsong Li](http://faculty.pku.edu.cn/li/en) of [Peking University](http://english.pku.edu.cn/).
 
 ## Bootstrap 4
 
