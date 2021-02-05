@@ -2,7 +2,7 @@
 <div class="py-5 border-top">
   <div class="container">
 
-    <p class="h5 mb-3">{{ site.title | escape }}</p>
+    <p class="h5 mb-3">{{ site.titlefoot | escape }}</p>
 
     <div class="row">
 
@@ -11,7 +11,7 @@
 
           {%- if site.email -%}
             <li>
-              <a href="mailto:{{ site.email }}">
+              <a href="mailto:{{ site.email }}" target="_blank" >
                 Contact
               </a>
             </li>
