@@ -11,7 +11,8 @@ title: Examples
                     <h3>Insolation toolbox</h3>
             </div>
             <img src="/images/2.acycle-insolationS.gif" alt ="Insolation">
-            <h5> Acycle insolation toolbox</h5>
+            <h5> Insolation toolbox</h5>
+            <p>This GUI generates the mean daily insolation series on March 21 for the 1-1000 Ka at 65°N using the La2004 solution with a solar constant of 1365 w/m^2.</p>
         </div>
     </div>
 </section>
@@ -52,7 +53,7 @@ title: Examples
                 <div class="carousel-item active">
                     <img src="/images/Slide1.jpeg" alt= "Smoothing">
                     <div class="carousel-caption d-none d-md-block">
-                        <h4>Smoothing</h4>
+                        <h4>Smoothing | detrending</h4>
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -64,7 +65,7 @@ title: Examples
                 <div class="carousel-item">
                     <img src="/images/Slide3.jpeg" alt= "Evolutionary FFT">
                     <div class="carousel-caption d-none d-md-block">
-                    <h4>Evolutionary FFT</h4>
+                    <h4>Wavelet & Evolutionary FFT</h4>
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -94,7 +95,7 @@ title: Examples
                 <div class="carousel-item">
                     <img src="/images/Slide8.jpeg" alt= "Sedimentary noise model">
                     <div class="carousel-caption d-none d-md-block">
-                    <h4>Sedimentary noise model</h4>
+                    <h4>Sedimentary noise model (DYNOT)</h4>
                     </div>
                 </div>
                 <div class="carousel-item">
@@ -112,7 +113,7 @@ title: Examples
                 <div class="carousel-item">
                     <img src="/images/Slide12.jpeg" alt= "Image">
                     <div class="carousel-caption d-none d-md-block">
-                    <h4>Image</h4>
+                    <h4>Image profile</h4>
                     </div>
                 </div>
             <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <img src="https://img.icons8.com/fluent-systems-filled/24/000000/chevron-left.png"/></a>
