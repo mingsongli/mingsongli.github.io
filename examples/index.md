@@ -127,5 +127,6 @@ title: Examples
  <div class ="heading">
     <h3>More</h3>
  </div>
+ <p>For beginners: <a href="/docs/123.CalculateWavelength.pdf">How to calculate the dominant wavelengths of a stratigraphic series?</a></p>
 <p>Read <a href="/docs/Acycle_Users_Guide.pdf">Users' Guide</a> for more examples</p>
 </section>
