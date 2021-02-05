@@ -35,4 +35,7 @@ title: Downloads
         <h2>Download Users' Guide</h2>
         <br />
         <p>More information: <a href="https://acycle.org/manual/" target="_blank" rel="noopener noreferrer">Users' Guide</a>.</p>
+        <h2>Download Acycle Paper </h2>
+        <br />
+        <a href="/docs/Li-et-al-2019-Acycle-software.pdf" class="button1"> Li et al., 2019 Computers & Geosciences </a>
 </section>
