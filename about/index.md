@@ -123,6 +123,28 @@ title: About
                 </div>
                 <ul class="timeline">
                     
+                <li>
+                    <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                    <div class="timeline-panel-container">
+                        <div class ="timeline-panel">
+                            <div class="timeline-heading">
+                            <h3>Acycle v2.4</h3>
+                                    <h4>MatLab RUNTIME 2020b</h4>
+                                    <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>Nov. 22, 2021</p>
+                            </div>
+                            <div class="timeline-body">
+                                <ul>
+                                    <li>
+                                    <p>1. Newly designed Wavelet GUI</p>
+                                    <p>2. Wavelet coherence and cross-spectrum</p>
+				  <p>3. Milankovitch Calculator (Waltham, 2015)</p>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                     </div>
+                </li>
                     <li>
                         <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                         <div class="timeline-panel-container-inverted">
