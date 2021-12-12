@@ -65,6 +65,10 @@ title: About
                                             <p>Wavelet  </p>
                                             <h3>, Gilbert Compo </h3>
                                             <p>Wavelet  </p>
+                                            <h3>, Yonggang Liu </h3>
+                                            <p>Wavelet  </p>
+                                            <h3>, Aslak Grinsted </h3>
+                                            <p>WTC, XWT  </p>
                                             <h3>, Jeffrey Park </h3>
                                             <p>Multitaper Adaptive Weighting, Harmonic F-Test  </p>
                                         <h3>, Eric Ruggieri </h3>
@@ -84,7 +88,7 @@ title: About
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                    <p>Feng Cheng, Jitao Chen, Anne-Christine Da Silva, Hewei Duan, Zheng Gong, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Kunyuan Ma, Mathieu Martinez, James Ogg, Paul Olsen, Jeffrey Park, J. Fred Read, Chen Shen, Nicolas R. Thibault, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Yuzhen Yan, Xu Yao, Tan Zhang, Qiyan Zhang, Yang Zhang, Christian Zeeden</p>
+                    <p>Feng Cheng, Jitao Chen, Anne-Christine Da Silva, Jaume Dinarès-Turell, Hewei Duan, Zheng Gong, Zhengtang Guo, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Kunyuan Ma, Mathieu Martinez, James Ogg, Paul Olsen, J. Fred Read, Chen Shen, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Yujing Wu, Deke Xu, Yuzhen Yan, Xu Yao, Tan Zhang, Qiyan Zhang, Haotian Zhang, Xiaoyu Zhang, Yang Zhang, Hanyu Zhu, Christian Zeeden</p>
                     </div>
                 </div>
             </div>
@@ -99,10 +103,10 @@ title: About
                                     </div>
                 <div class="container">
                         <div class="row">
-                                    <h3>Heising-Simons Foundation</h3>
-                                    <p>USA</p>
                                     <h3>, National Natural Science Foundation of China</h3>
                                     <p>China</p>
+                                    <h3>Heising-Simons Foundation</h3>
+                                    <p>USA</p>
                                     <h3>, Pennsylvania State University </h3>
                                     <p>USA  </p>
                                     <h3>, Peking University </h3>
@@ -122,6 +126,32 @@ title: About
                 <h2> History </h2>
                 </div>
                 <ul class="timeline">
+
+
+
+                    <li>
+                        <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                        <div class="timeline-panel-container-inverted">
+                            <div class ="timeline-panel">
+                                <div class="timeline-heading">
+                                                            <h3>Acycle v2.4.1 </h3>
+                                        <h4>MatLab RUNTIME 2020b</h4>
+                                        <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/> Dec. 12, 2021 </p>
+                                </div>
+                                <div class="timeline-body">
+                                    <ul>
+                                        <li>
+                                        <p>1. Interpolation Pro (New!)</p>
+                                            <p>2. Wavelet coherence</p>
+                                            <p>3. Wavelet cross spectrum/p>
+                                            <p>4. Plot - Convert to sound/p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                         </div>
+                    </li>
+
                     
                 <li>
                     <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
@@ -145,6 +175,8 @@ title: About
                         </div>
                      </div>
                 </li>
+
+
                     <li>
                         <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
                         <div class="timeline-panel-container-inverted">
@@ -169,6 +201,8 @@ title: About
                             </div>
                          </div>
                     </li>
+
+
                 <li>
                     <div class ="timeline-badge"><img src="https://img.icons8.com/material-outlined/24/000000/domain.png"/></div>
                     <div class="timeline-panel-container">
