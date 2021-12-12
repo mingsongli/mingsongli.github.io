@@ -103,9 +103,9 @@ title: About
                                     </div>
                 <div class="container">
                         <div class="row">
-                                    <h3>, National Natural Science Foundation of China</h3>
+                                    <h3>National Natural Science Foundation of China</h3>
                                     <p>China</p>
-                                    <h3>Heising-Simons Foundation</h3>
+                                    <h3>, Heising-Simons Foundation</h3>
                                     <p>USA</p>
                                     <h3>, Pennsylvania State University </h3>
                                     <p>USA  </p>
@@ -142,9 +142,9 @@ title: About
                                     <ul>
                                         <li>
                                         <p>1. Interpolation Pro (New!)</p>
-                                            <p>2. Wavelet coherence</p>
-                                            <p>3. Wavelet cross spectrum/p>
-                                            <p>4. Plot - Convert to sound/p>
+                                        <p>2. Wavelet coherence</p>
+                                        <p>3. Wavelet cross spectrum</p>
+                                        <p>4. Plot - Convert to sound</p>
                                         </li>
                                     </ul>
                                 </div>
