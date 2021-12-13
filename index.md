@@ -12,6 +12,9 @@ title:
 					<h3>time-series analysis software <br>
 					    for paleoclimate research and education <br>  open source
 					    <br> graphical user interface (GUI) </h3>
+                         <img src="images/qrcode_for_gh_13cdd2188472_430.jpg" alt= "WeChat" class="rounded" height="200" width="200">     
+                         <h4> WeChat <br> </h4>
+                         <h4>twitter: @MrMoonsli ; facebook: https://www.facebook.com/acyclesoftware <br></h4>          
 				</div>
 			</div>
 		</section>	
