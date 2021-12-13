@@ -15,11 +15,11 @@ title:
 					<h1> ACYCLE </h1>
 					<h3>time-series analysis software <br>
 					    for paleoclimate research and education <br>  open source
-					    <br> graphical user interface (GUI) </h3>
+					    <br> graphical user interface (GUI) <br></h3>
                          <img src="images/qrcode_for_gh_13cdd2188472_430.jpg" alt= "WeChat" class="rounded" height="200" width="200">     
-                         <h4> WeChat <br> </h4>
+                         <h4> WeChat Official Account <br> </h4>
                          <a href="https://twitter.com/MrMoonsli?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MrMoonsli</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                              <div class="fb-page" data-href="https://www.facebook.com/acyclesoftware" data-tabs="timeline" data-width="180" data-height="100" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
+                                      <a href ="https://www.facebook.com/acycle.org"> Acycle Facebook Page</a>
 				</div>
 			</div>
 		</section>	
