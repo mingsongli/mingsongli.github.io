@@ -3,6 +3,10 @@ layout: page
 title:
 ---
 <body data-spy="scroll" data-target="#myNavBar" data-offset="100">
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="IT2manBz"></script>
+
 		<!--PROFILE PICTURE-->
 		<section id="about" class="container-fluid">
 			<div class="col-xs-6 col-md-12 profile-picture">
@@ -15,7 +19,7 @@ title:
                          <img src="images/qrcode_for_gh_13cdd2188472_430.jpg" alt= "WeChat" class="rounded" height="200" width="200">     
                          <h4> WeChat <br> </h4>
                          <a href="https://twitter.com/MrMoonsli?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MrMoonsli</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                              <br>   <a href ="https://www.facebook.com/acyclesoftware" target="_blank" rel="noopener noreferrer"> Acycle's Facebook page</a>
+                              <div class="fb-page" data-href="https://www.facebook.com/acyclesoftware" data-tabs="timeline" data-width="180" data-height="100" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div>
 				</div>
 			</div>
 		</section>	
