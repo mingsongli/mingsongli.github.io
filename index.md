@@ -14,7 +14,8 @@ title:
 					    <br> graphical user interface (GUI) </h3>
                          <img src="images/qrcode_for_gh_13cdd2188472_430.jpg" alt= "WeChat" class="rounded" height="200" width="200">     
                          <h4> WeChat <br> </h4>
-                         <h4>twitter: @MrMoonsli ; facebook: https://www.facebook.com/acyclesoftware <br></h4>          
+                         <a href="https://twitter.com/MrMoonsli?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MrMoonsli</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                              <br>   <a href ="https://www.facebook.com/acyclesoftware" target="_blank" rel="noopener noreferrer"> Acycle's Facebook page</a>
 				</div>
 			</div>
 		</section>	
