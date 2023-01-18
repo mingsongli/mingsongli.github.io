@@ -3,7 +3,6 @@ layout: page
 title:
 ---
 <body data-spy="scroll" data-target="#myNavBar" data-offset="100">
-
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="IT2manBz"></script>
 
@@ -91,20 +90,6 @@ title:
                                     <img src="images/AcycleVisitors.png" alt= "users" class="rounded"></div>
                                     <p>Total: 2,736 unique visitors <a href="https://analytics.google.com" target="_blank" rel="noopener noreferrer"> (data source)</a>.</p>
                                     <p><img src="https://img.icons8.com/small/16/000000/clock.png" height="32" width="32"> Sept 2018 – Jan 2021</p>
-                                </section>
-                                <section id = "figures">
-                                    <div class ="divider"></div>
-                                    <div class="heading">
-                                    <img src="https://img.icons8.com/metro/50/000000/magazine.png" height="32" width="32">
-                                    <br />
-                                        <h2>Cited By</h2>
-                                    </div>
-                                    <div class="col-xs-6 col-md-12 profile-picture">
-                                        <iframe src="https://academic.microsoft.com/paper/2919969996/citedby/search?q=Acycle%3A%20Time-series%20analysis%20software%20for%20paleoclimate%20research%20and%20education&qe=RId%3D2919969996&f=&orderBy=3" width="100%" height="700">
-                                        <p>Your browser does not support iframes.</p>
-                                        </iframe>
-                                        <p>Data source: <a href="https://academic.microsoft.com/paper/2919969996/citedby/search?q=Acycle%3A%20Time-series%20analysis%20software%20for%20paleoclimate%20research%20and%20education&qe=RId%3D2919969996&f=&orderBy=3" target="_blank" rel="noopener noreferrer">Microsoft Academic</a>. Or more citations: <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17133348578794397884" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
-                                </div>
                                 </section>
                         <!--What they say-->
                         <section id = "theysay">
