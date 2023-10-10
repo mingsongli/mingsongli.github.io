@@ -7,9 +7,17 @@ title: Downloads
 <p>The current version of Acycle is v2.7, released 2023-10-10 </p>
 <br />
 <h2>What's new</h2>
-<p>1. NEW Plot Pro</p>
-<p>2. Chinese version 简体中文</p>
-<p>3. Traditonal Chinese version 繁體中文</p>
+<p>1. COCO: Save the correct COCO figure; use the invpretile function to calculate percentiles;</p>
+<p>2. eCOCO: Save data in an Excel file;</p>
+<p>3. Curve Fitting: estimate the optimal span using the Generalized Cross-Validation (GCV) method;</p>
+<p>4. Japanese version is ready (Thank Prof. Masayuki Ikeda);</p>
+<p>5. CENOGRID (Westerhold et al., 2020, Science, doi: 10.1126/science.aba6853);</p>
+<p>6. Dynamic filter: bug-free;</p>
+<p>7. Insolation/astronomical solutions: debug. Start from 0. Thanks, Lucas Lourens!</p>
+<p>8. Undatable: Age-depth modeling in Matlab. Thank Lougheed, B. C. and Obrochta, S. P. for permission.</p>
+<p>9. Prof. Graham Weedon's SWA method included! Thank Graham!</p>
+<p>10. MTM + SWA method (NEW)</p>
+<p>11. Principal Component: language debug</p>
 <br />
 
 </section>
