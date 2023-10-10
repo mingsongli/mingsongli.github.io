@@ -73,6 +73,12 @@ title: About
                                             <p>Multitaper Adaptive Weighting, Harmonic F-Test  </p>
                                         <h3>, Eric Ruggieri </h3>
                                         <p>Bayesian Change Point  </p>
+					<h3>, Graham Weedon </h3>
+                                        <p>SWA  </p>
+					<h3>, Bryan C. Lougheed </h3>
+                                        <p>Undatable  </p>
+					<h3>, Stephen P. Obrochta </h3>
+                                        <p>Undatable  </p>
                                 </div>
 			</div>
             </div>
@@ -88,7 +94,7 @@ title: About
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                    <p>Feng Cheng, Jitao Chen, Anne-Christine Da Silva, Jaume Dinarès-Turell, Hewei Duan, Zheng Gong, Zhengtang Guo, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Kunyuan Ma, Mathieu Martinez, James Ogg, Paul Olsen, J. Fred Read, Chen Shen, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Yujing Wu, Deke Xu, Yuzhen Yan, Xu Yao, Tan Zhang, Qiyan Zhang, Haotian Zhang, Xiaoyu Zhang, Yang Zhang, Hanyu Zhu, Christian Zeeden</p>
+                    <p>Feng Cheng, Anne-Christine Da Silva, Jaume Dinarès-Turell, Hewei Duan, Zheng Gong, Zhengtang Guo, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Lucas Lourens, Kunyuan Ma, Mathieu Martinez, James Ogg, Paul Olsen, Jeffrey Park, J. Fred Read, Chen Shen, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Yujing Wu, Deke Xu, Xu Yao, Qiyan Zhang, Haotian Zhang, Haoxun Zhang, Xiaoyu Zhang, Yang Zhang, Ze Zhang, Hanyu Zhu, Christian Zeeden</p>
                     </div>
                 </div>
             </div>
@@ -103,6 +109,8 @@ title: About
                                     </div>
                 <div class="container">
                         <div class="row">
+                                    <h3>National Key R&D Program of China</h3>
+                                    <p>China</p>
                                     <h3>National Natural Science Foundation of China</h3>
                                     <p>China</p>
                                     <h3>, Heising-Simons Foundation</h3>
@@ -126,6 +134,82 @@ title: About
                 <h2> History </h2>
                 </div>
                 <ul class="timeline">
+
+
+
+                    
+                <li>
+                    <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                    <div class="timeline-panel-container">
+                        <div class ="timeline-panel">
+                            <div class="timeline-heading">
+                            <h3>Acycle v2.7</h3>
+                                    <h4>MatLab RUNTIME 2020b</h4>
+                                    <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>Oct. 10, 2023</p>
+                            </div>
+                            <div class="timeline-body">
+                                <ul>
+                                    <li>
+                                    <p>1. Graham Weedon's SWA method</p>
+                                    <p>2. Undatable </p>
+				    <p>3. Japanese and other language versions </p>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                     </div>
+                </li>
+
+
+
+                    <li>
+                        <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                        <div class="timeline-panel-container-inverted">
+                            <div class ="timeline-panel">
+                                <div class="timeline-heading">
+                                                            <h3>Acycle v2.6 </h3>
+                                        <h4>MatLab RUNTIME 2020b</h4>
+                                        <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/> Jan. 18, 2023 </p>
+                                </div>
+                                <div class="timeline-body">
+                                    <ul>
+                                        <li>
+                                        <p>1. Recurrence Plot</p>
+                                        <p>2. Plot Pro</p>
+                                        <p>3. Chinese version 简体中文版</p>
+                                        <p>4. Traditional Chinese version (繁体中文版）</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                         </div>
+                    </li>
+
+                    
+                <li>
+                    <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                    <div class="timeline-panel-container">
+                        <div class ="timeline-panel">
+                            <div class="timeline-heading">
+                            <h3>Acycle v2.5</h3>
+                                    <h4>MatLab RUNTIME 2020b</h4>
+                                    <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/>Nov. 30, 2022</p>
+                            </div>
+                            <div class="timeline-body">
+                                <ul>
+                                    <li>
+                                    <p>1. Interpolation Pro</p>
+                                    <p>2. Image - Image Profile</p>
+				    <p>3. PCA </p>
+
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                     </div>
+                </li>
+
 
 
 
