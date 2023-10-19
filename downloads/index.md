@@ -4,8 +4,8 @@ title: Downloads
 --- 
 <section id ="matlab">
 <h2>Current version</h2>
-<p><b>The current version of Acycle is v2.8 </p>
-<p>Released 2023-10-19 </p></b>
+<p><b>The current version of Acycle is v2.8
+<p>Released 2023-10-19 </b>
 <br />
 
 <h2>v2.8 What's new</h2>
