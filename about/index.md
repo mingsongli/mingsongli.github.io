@@ -137,6 +137,30 @@ title: About
 
 
 
+                    <li>
+                        <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                        <div class="timeline-panel-container-inverted">
+                            <div class ="timeline-panel">
+                                <div class="timeline-heading">
+                                                            <h3>Acycle v2.8 </h3>
+                                        <h4>MatLab RUNTIME 2020b</h4>
+                                        <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/> Oct. 19, 2023 </p>
+                                </div>
+                                <div class="timeline-body">
+                                    <ul>
+                                        <li>
+                                        <p>1. Data transformations</p>
+                                        <p>2. Column manipulate</p>
+                                        <p>3. Moving Average - Fixed Bandwidth</p>
+                                        <p>4. Amplitude Modulation </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                         </div>
+                    </li>
+
+
                     
                 <li>
                     <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
