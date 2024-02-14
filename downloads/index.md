@@ -2,10 +2,10 @@
 layout: page
 title: Downloads
 --- 
-<section id ="matlab">
+<section id ="matlab1">
 <h2>Current version</h2>
-<p><b>The current version of Acycle is v2.8
-<p>Released 2023-10-19 </b>
+<p><b>The current version of Acycle is v2.8</b>
+<p><b>Released 2023-10-19 </b>
 <br />
 
 <h2>v2.8 What's new</h2>
@@ -35,9 +35,9 @@ title: Downloads
 <p>10. MTM + SWA method (NEW)</p>
 <p>11. Principal Component: language debug</p>
 <br />
-
 </section>
-<section id ="matlab">
+
+<section id ="matlab2">
         <h2>Acycle 2.8 MatLab version</h2>
         <br />
         <p> Option 1: <a href ="https://github.com/mingsongli/acycle/archive/master.zip"> Download ZIP via GitHub</a>.</p>
@@ -46,6 +46,7 @@ Name: Acycle2.8-MatLab.zip
 Expires: 2028-03-01 19:13" target="_blank" rel="noopener noreferrer"> Acycle2.8-MatLab.zip </a> @ disk.pkuedu.cn.</p>
 </section>
 <br />
+
 <section id ="standalone">
         <h2>Standalone versions</h2>
         <br />
@@ -54,7 +55,6 @@ Expires: 2028-03-01 19:13" target="_blank" rel="noopener noreferrer"> Acycle2.8-
         <h5><p><a href ="https://disk.pku.edu.cn/link/AA5FC15918FBF14EB68ECC638EABCB7D19
 Name: Acycle2.8-Mac-Green.zip
 Expires: 2028-03-01 19:15" target="_blank" rel="noopener noreferrer"> Acycle2.8-Mac-Green.zip</a> [via Dropbox <a href ="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/dropbox.png" alt= "Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href ="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt= "Baidu Cloud" class="rounded"></a>] <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" height="32" width="32"> <a href ="https://ssd.mathworks.com/supportfiles/downloads/R2020b/Release/5/deployment_files/installer/complete/maci64/MATLAB_Runtime_R2020b_Update_5_maci64.dmg.zip"> <img src="https://img.icons8.com/fluent/48/000000/matlab.png" height="32" width="32"> MatLab Runtime R2020b (9.9) Intel 64-bit for macOS</a> </p>
-</h5>
         <p>*: This software is a stand-alone program. It was tested in the Mac OS Ventura (13.4).</p> <p>**: <a href ="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"> MatLab runtime 2020b</a> (free) is essential for the Acycle stand-alone software version 2.8.</p>
         <br />
         <h3>Acycle v2.8 for Windows</h3>
@@ -62,11 +62,11 @@ Expires: 2028-03-01 19:15" target="_blank" rel="noopener noreferrer"> Acycle2.8-
         <h5><p><a href ="https://disk.pku.edu.cn/link/AA1933C349A7CF43429585884CB1F8C145
 Name: Acycle2.8-Win-Green.zip
 Expires: 2028-03-01 19:16" target="_blank" rel="noopener noreferrer"> Acycle2.8-Win-Green.zip</a> [via Dropbox <a href ="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt= "Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href ="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt= "Baidu Cloud" class="rounded"></a>]<p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" height="32" width="32"> <a href ="https://ssd.mathworks.com/supportfiles/downloads/R2020b/Release/5/deployment_files/installer/complete/win64/MATLAB_Runtime_R2020b_Update_5_win64.zip"> <img src="https://img.icons8.com/fluent/48/000000/matlab.png" height="32" width="32"> MatLab Runtime R2020b (9.9) 64-bit for Windows</a> </p>
-</h5>
 
 <p>*: This software is a stand-alone program. It was tested in Windows 10.</p>
 <p>**: <a href ="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"> MatLab runtime 2020b</a> (free) is essential for the Acycle stand-alone software version 2.8.</p>
-</section>
+
+
 <section id ="download">
 <br />
         <h2>Download Users' Guide</h2>
