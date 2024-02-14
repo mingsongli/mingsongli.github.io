@@ -41,8 +41,9 @@ title: Downloads
         <h2>Acycle 2.8 MatLab version</h2>
         <br />
         <p> Option 1: <a href ="https://github.com/mingsongli/acycle/archive/master.zip"> Download ZIP via GitHub</a>.</p>
-        <p> Option 2: <a href ="https://disk.pku.edu.cn:443/link/24BB93A6C1176A03B6EC3B14E5BC6330
-Valid Until: 2027-11-01 23:59" target="_blank" rel="noopener noreferrer"> Acycle2.8-MatLab.zip </a> @ disk.pkuedu.cn.</p>
+        <p> Option 2: <a href ="https://disk.pku.edu.cn/link/AA8CA5BCA0576649E881830B4C4E07DF5A
+Name: Acycle2.8-MatLab.zip
+Expires: 2028-03-01 19:13" target="_blank" rel="noopener noreferrer"> Acycle2.8-MatLab.zip </a> @ disk.pkuedu.cn.</p>
 </section>
 <br />
 <section id ="standalone">
@@ -50,14 +51,18 @@ Valid Until: 2027-11-01 23:59" target="_blank" rel="noopener noreferrer"> Acycle
         <br />
         <h3>Acycle v2.8 for macOS</h3>
         <br />
-        <h5><p><a href ="https://disk.pku.edu.cn:443/link/FE96C0D3179CC4FEA2667E0463BF15E9
-Valid Until: 2027-11-01 23:59" target="_blank" rel="noopener noreferrer"> Acycle2.8-Mac-Green.zip</a> [via Dropbox <a href ="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/dropbox.png" alt= "Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href ="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt= "Baidu Cloud" class="rounded"></a>] <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" height="32" width="32"> <a href ="https://ssd.mathworks.com/supportfiles/downloads/R2020b/Release/5/deployment_files/installer/complete/maci64/MATLAB_Runtime_R2020b_Update_5_maci64.dmg.zip"> <img src="https://img.icons8.com/fluent/48/000000/matlab.png" height="32" width="32"> MatLab Runtime R2020b (9.9) Intel 64-bit for macOS</a> </p></h5>
+        <h5><p><a href ="https://disk.pku.edu.cn/link/AA5FC15918FBF14EB68ECC638EABCB7D19
+Name: Acycle2.8-Mac-Green.zip
+Expires: 2028-03-01 19:15" target="_blank" rel="noopener noreferrer"> Acycle2.8-Mac-Green.zip</a> [via Dropbox <a href ="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/dropbox.png" alt= "Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href ="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt= "Baidu Cloud" class="rounded"></a>] <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" height="32" width="32"> <a href ="https://ssd.mathworks.com/supportfiles/downloads/R2020b/Release/5/deployment_files/installer/complete/maci64/MATLAB_Runtime_R2020b_Update_5_maci64.dmg.zip"> <img src="https://img.icons8.com/fluent/48/000000/matlab.png" height="32" width="32"> MatLab Runtime R2020b (9.9) Intel 64-bit for macOS</a> </p>
+</h5>
         <p>*: This software is a stand-alone program. It was tested in the Mac OS Ventura (13.4).</p> <p>**: <a href ="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"> MatLab runtime 2020b</a> (free) is essential for the Acycle stand-alone software version 2.8.</p>
         <br />
         <h3>Acycle v2.8 for Windows</h3>
         <br />
-        <h5><p><a href ="https://disk.pku.edu.cn:443/link/8DD60B480F73CA344436CE3B0CACB582
-Valid Until: 2027-11-01 23:59" target="_blank" rel="noopener noreferrer"> Acycle2.8-Win-Green.zip</a> [via Dropbox <a href ="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt= "Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href ="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt= "Baidu Cloud" class="rounded"></a>]<p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" height="32" width="32"> <a href ="https://ssd.mathworks.com/supportfiles/downloads/R2020b/Release/5/deployment_files/installer/complete/win64/MATLAB_Runtime_R2020b_Update_5_win64.zip"> <img src="https://img.icons8.com/fluent/48/000000/matlab.png" height="32" width="32"> MatLab Runtime R2020b (9.9) 64-bit for Windows</a> </p></h5>
+        <h5><p><a href ="https://disk.pku.edu.cn/link/AA1933C349A7CF43429585884CB1F8C145
+Name: Acycle2.8-Win-Green.zip
+Expires: 2028-03-01 19:16" target="_blank" rel="noopener noreferrer"> Acycle2.8-Win-Green.zip</a> [via Dropbox <a href ="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt= "Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href ="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt= "Baidu Cloud" class="rounded"></a>]<p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" height="32" width="32"> <a href ="https://ssd.mathworks.com/supportfiles/downloads/R2020b/Release/5/deployment_files/installer/complete/win64/MATLAB_Runtime_R2020b_Update_5_win64.zip"> <img src="https://img.icons8.com/fluent/48/000000/matlab.png" height="32" width="32"> MatLab Runtime R2020b (9.9) 64-bit for Windows</a> </p>
+</h5>
 
 <p>*: This software is a stand-alone program. It was tested in Windows 10.</p>
 <p>**: <a href ="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"> MatLab runtime 2020b</a> (free) is essential for the Acycle stand-alone software version 2.8.</p>
