@@ -40,8 +40,7 @@ title: Downloads
 <section id ="matlab2">
         <h2>Acycle 2.8 MatLab version</h2>
         <br />
-        <p> Option 1: <a href ="https://github.com/mingsongli/acycle/archive/master.zip"> Download ZIP via GitHub</a>.</p>
-        <p> Option 2: <a href ="https://disk.pku.edu.cn/link/AA8CA5BCA0576649E881830B4C4E07DF5A
+        <p> Option 1: <a href ="https://disk.pku.edu.cn/link/AA8CA5BCA0576649E881830B4C4E07DF5A
 Name: Acycle2.8-MatLab.zip
 Expires: 2028-03-01 19:13" target="_blank" rel="noopener noreferrer"> Acycle2.8-MatLab.zip </a> @ disk.pkuedu.cn.</p>
 </section>
