@@ -79,5 +79,8 @@ Expires: 2028-03-01 19:16" target="_blank" rel="noopener noreferrer"> Acycle2.8-
         <a href="/docs/Li-et-al-2019-Acycle-software.pdf" target="_blank" rel="noopener noreferrer"> Li et al., 2019 Computers & Geosciences </a>
         <br />
         <br />
-        <a href="https://www.sciengine.com/SCES/doi/10.1007/s11430-025-1848-7" target="_blank" rel="noopener noreferrer"> Li et al., 2025 Science China Earth Sciences </a>
+        <b>Li et al., 2025 Science China Earth Sciences</b> - "Acycle: Enhanced time-series analysis software for geoscience research and education"<br>
+        <a href="https://www.sciengine.com/SCES/doi/10.1007/s11430-025-1848-7" target="_blank" rel="noopener noreferrer">[View Paper]</a> | 
+        <a href="https://www.sciengine.com/SCES/doi/10.1007/s11430-025-1848-7/supplementary" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a><br>
+        <p style="font-size: 0.9em; margin-top: 5px;">This paper presents standardized recommendations for reporting data and parameters; following these recommendations will improve the reproducibility and reliability of research results.</p>
 </section>
