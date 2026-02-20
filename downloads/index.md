@@ -74,7 +74,10 @@ Expires: 2028-03-01 19:16" target="_blank" rel="noopener noreferrer"> Acycle2.8-
         <br />
         <p>更多详情: <a href="https://acycle.org/manual/" target="_blank" rel="noopener noreferrer">用户指南中文版</a>.</p>
         <br />
-        <h2>Download Acycle Paper </h2>
+        <h2>Download Acycle Papers </h2>
         <br />
         <a href="/docs/Li-et-al-2019-Acycle-software.pdf" target="_blank" rel="noopener noreferrer"> Li et al., 2019 Computers & Geosciences </a>
+        <br />
+        <br />
+        <a href="https://www.sciengine.com/SCES/doi/10.1007/s11430-025-1848-7" target="_blank" rel="noopener noreferrer"> Li et al., 2025 Science China Earth Sciences </a>
 </section>
