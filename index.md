@@ -18,7 +18,13 @@ title:
                          <img src="images/qrcode_for_gh_13cdd2188472_430.jpg" alt= "WeChat" class="rounded" height="200" width="200">     
                          <h4> WeChat Official Account <br> </h4>
                          <a href="https://twitter.com/MrMoonsli?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @MrMoonsli</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                                      <a href ="https://www.facebook.com/acycle.org"> Acycle Facebook Page</a>
+                         <a href ="https://www.facebook.com/acycle.org"> Acycle Facebook Page</a>
+                         <br />
+                         <br />
+                         <h2>Acycle v3.0 is now available</h2>
+                         <p>Acycle v3.0 is a major upgrade from v2.8. The release introduces a completely rebuilt code-based graphical interface that is easier for AI-assisted tools to inspect and invoke directly, COCO 2.0 with substantially enhanced COCO/eCOCO workflows, new statistical-analysis tools, improved EEMD/EMD output, native macOS shortcuts, and numerous corrections to recurrence, spectral, and wavelet analyses.</p>
+                         <p><strong>Important:</strong> The standalone edition of Acycle v3.0 requires <strong>MATLAB Runtime R2026a</strong> and is not compatible with MATLAB Runtime R2020b. Please install MATLAB Runtime R2026a before launching Acycle v3.0.</p>
+                         <p><a href="/downloads/"><strong>Download Acycle v3.0</strong></a></p>
 				</div>
 			</div>
 		</section>	

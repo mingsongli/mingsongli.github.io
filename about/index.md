@@ -53,8 +53,6 @@ title: About
                                             <p>Insolation  </p>
                                             <h3>, Peter Huybers </h3>
                                             <p>Insolation  </p>
-                                            <h3>, Stephen Meyers </h3>
-                                            <p>TimeOpt/eTimeOpt  </p>
                                             <h3>, Matthias Sinnesael </h3>
                                             <p>Spectral Moments  </p>
                                             <h3>, Nicolas Thibault </h3>
@@ -94,7 +92,7 @@ title: About
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                    <p>Feng Cheng, Anne-Christine Da Silva, Jaume Dinarès-Turell, Hewei Duan, Zheng Gong, Zhengtang Guo, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Lucas Lourens, Kunyuan Ma, Mathieu Martinez, James Ogg, Paul Olsen, Jeffrey Park, J. Fred Read, Chen Shen, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Yujing Wu, Deke Xu, Xu Yao, Qiyan Zhang, Haotian Zhang, Haoxun Zhang, Xiaoyu Zhang, Yang Zhang, Ze Zhang, Hanyu Zhu, Christian Zeeden</p>
+                    <p>Feng Cheng, Anne-Christine Da Silva, Jaume Dinarès-Turell, Hewei Duan, Zheng Gong, Zhengtang Guo, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Lucas Lourens, Kunyuan Ma, Mathieu Martinez, Stephen Meyers, James Ogg, Paul Olsen, Jeffrey Park, J. Fred Read, Chen Shen, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Zhixin Wang, Yujing Wu, Deke Xu, Xu Yao, Qiyan Zhang, Haotian Zhang, Haoxun Zhang, Xiaoyu Zhang, Yang Zhang, Ze Zhang, Hanyu Zhu, Christian Zeeden</p>
                     </div>
                 </div>
             </div>
@@ -135,6 +133,28 @@ title: About
                 </div>
                 <ul class="timeline">
 
+
+                    <li>
+                        <div class ="timeline-badge"><img src="https://img.icons8.com/ios-glyphs/30/000000/buy-upgrade.png"/></div>
+                        <div class="timeline-panel-container">
+                            <div class ="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h3>Acycle v3.0</h3>
+                                    <h4>MATLAB Runtime R2026a</h4>
+                                    <p class="text-muted"><img src="https://img.icons8.com/small/16/000000/clock.png"/> July 28, 2026</p>
+                                </div>
+                                <div class="timeline-body">
+                                    <ul>
+                                        <li>
+                                            <p>1. COCO 2.0</p>
+                                            <p>2. Univariate / Bivariate</p>
+                                            <p>3. Rebuilt GUI</p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
 
 
                     <li>
