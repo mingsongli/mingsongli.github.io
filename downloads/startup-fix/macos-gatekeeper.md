@@ -11,6 +11,8 @@ permalink: /downloads/startup-fix/macos-gatekeeper/
 
 ## English Instructions
 
+**Author:** 孙明道
+
 If macOS displays:
 
 > “Acycle_3_0” is damaged and can’t be opened. You should move it to the Trash.
@@ -66,6 +68,8 @@ Finally, launch Acycle again from the Applications folder. If the app name or ve
 ---
 
 ## 中文说明：在 Apple 芯片 Mac 上启动 Acycle
+
+**作者：** 孙明道
 
 ### Acycle 3.0.2 - macOS M Chip 启动修复
 

@@ -13,6 +13,8 @@ permalink: /downloads/startup-fix/macos-runtime-path/
 
 ## English Report
 
+**Author:** 张馨文
+
 ## Acycle
 
 **Version:** 3.0.2_AppleMChip_Runtime2026a
@@ -89,6 +91,8 @@ DYLD_LIBRARY_PATH=/Applications/MATLAB/MATLAB_Runtime/R2026a/runtime/maca64:/App
 ---
 
 ## 中文说明：Acycle macOS Apple 芯片启动问题报告
+
+**作者：** 张馨文
 
 ## Acycle
 

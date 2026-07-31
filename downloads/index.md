@@ -5,7 +5,7 @@ title: Downloads
 <section id="matlab1">
 <h2>Current version</h2>
 <p><b>The current version of Acycle is v3.0.2.</b></p>
-<p><b>Released July 28, 2026.</b></p>
+<p><b>Released July 31, 2026.</b></p>
 <p><strong>Important:</strong> The standalone edition of Acycle v3.0.2 requires <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><strong>MATLAB Runtime R2026a</strong></a> <strong>Update 4</strong>. It is not compatible with MATLAB Runtime R2020b.</p>
 <br />
 
@@ -55,8 +55,8 @@ title: Downloads
         <h2>Acycle 3.0.2 MATLAB version</h2>
         <br />
         <p>Option 1: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.2_MatLab.zip</a> @ disk.pku.edu.cn.</p>
-        <p>Option 2: Source code (zip/tar.gz): <a href="https://github.com/mingsongli/acycle/releases" target="_blank" rel="noopener noreferrer">https://github.com/mingsongli/acycle/releases</a>.</p>
         <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2029-08-31 14:47</p>
+        <p>Option 2: Source code (zip/tar.gz): <a href="https://github.com/mingsongli/acycle/releases" target="_blank" rel="noopener noreferrer">https://github.com/mingsongli/acycle/releases</a>.</p>
 </section>
 <br />
 

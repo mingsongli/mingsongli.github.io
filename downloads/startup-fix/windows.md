@@ -4,6 +4,17 @@ title: Acycle 3.0.2 - Windows Startup Fix
 permalink: /downloads/startup-fix/windows/
 ---
 
+## Content / 内容
+
+1. English: Acycle 3.0.2 - Windows Startup Fix
+2. 中文：Acycle 3.0.2 - Windows 启动修复
+
+---
+
+## English Instructions
+
+**Author:** 王之鑫
+
 ## Applies to
 
 - Windows 64-bit
@@ -68,7 +79,9 @@ Check Windows Security or third-party antivirus quarantine. Restore the official
 
 ---
 
-## Acycle 3.0.2 - Windows 启动修复
+## 中文说明：Acycle 3.0.2 - Windows 启动修复
+
+**作者：** 王之鑫
 
 ## 适用环境
 
