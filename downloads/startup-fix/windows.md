@@ -13,7 +13,7 @@ permalink: /downloads/startup-fix/windows/
 
 ## English Instructions
 
-**Author:** 王之鑫
+**Author:** Zhixin Wang
 
 ## Applies to
 

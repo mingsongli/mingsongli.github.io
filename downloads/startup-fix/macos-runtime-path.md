@@ -13,7 +13,7 @@ permalink: /downloads/startup-fix/macos-runtime-path/
 
 ## English Report
 
-**Author:** 张馨文
+**Author:** Xinwen Zhang
 
 ## Acycle
 

@@ -11,7 +11,7 @@ permalink: /downloads/startup-fix/macos-gatekeeper/
 
 ## English Instructions
 
-**Author:** 孙明道
+**Author:** Mingdao Sun
 
 If macOS displays:
 
