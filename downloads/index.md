@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Downloads
---- 
-<section id ="matlab1">
+---
+<section id="matlab1">
 <h2>Current version</h2>
-<p><b>The current version of Acycle is v3.0.</b></p>
+<p><b>The current version of Acycle is v3.0.2.</b></p>
 <p><b>Released July 28, 2026.</b></p>
-<p><strong>Important:</strong> The standalone edition of Acycle v3.0 requires <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><strong>MATLAB Runtime R2026a</strong></a>. It is not compatible with MATLAB Runtime R2020b.</p>
+<p><strong>Important:</strong> The standalone edition of Acycle v3.0.2 requires <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><strong>MATLAB Runtime R2026a</strong></a> <strong>Update 4</strong>. It is not compatible with MATLAB Runtime R2020b.</p>
 <br />
 
-<h2>v3.0 What's new</h2>
+<h2>v3.0.2 What's new</h2>
 
 <ol>
     <li>
@@ -51,37 +51,53 @@ title: Downloads
 <br />
 </section>
 
-
-<section id ="matlab2">
-        <h2>Acycle 3.0 MATLAB version</h2>
+<section id="matlab2">
+        <h2>Acycle 3.0.2 MATLAB version</h2>
         <br />
-        <p>Option 1: <a href="https://disk.pku.edu.cn/link/AAA07381DE3BE84E37A007820B4D4964FB" target="_blank" rel="noopener noreferrer">Acycle3MatLab.zip</a> @ disk.pku.edu.cn.</p>
-        <p>Expires: 2029-08-27 17:30</p>
+        <p>Option 1: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.2_MatLab.zip</a> @ disk.pku.edu.cn.</p>
+        <p>Option 2: Source code (zip/tar.gz): <a href="https://github.com/mingsongli/acycle/releases" target="_blank" rel="noopener noreferrer">https://github.com/mingsongli/acycle/releases</a>.</p>
+        <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2029-08-31 14:47</p>
 </section>
 <br />
 
-<section id ="standalone">
+<section id="standalone">
         <h2>Standalone versions</h2>
         <br />
-        <h3>Acycle v3.0 for macOS</h3>
+        <h3>Acycle v3.0.2 for macOS (M Chip)</h3>
         <br />
-        <p><a href="https://disk.pku.edu.cn/link/AAA5C4D9A70A564BEEA1DEBC2FC2094211" target="_blank" rel="noopener noreferrer">Acycle_3.0.1_AppleMChip.zip</a> (for Macs with Apple M-series chips only) [via Dropbox <a href ="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href ="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt="Baidu Cloud" class="rounded"></a>]</p>
-        <p>Expires: 2029-08-31 18:09</p>
-        <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" height="32" width="32"> <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" height="32" width="32"> MATLAB Runtime R2026a for macOS</a></p>
-        <p>*: This software is a stand-alone program. It was tested in the Mac OS Ventura (13.4).</p>
-        <p>**: <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer">MATLAB Runtime R2026a</a> (free) is required for the Acycle stand-alone software version 3.0. MATLAB Runtime R2020b is not compatible with Acycle v3.0.</p>
+        <p><a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.2_AppleMChip_Runtime2026a.zip</a> (for Macs with Apple M-series chips only) [via Dropbox <a href="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt="Baidu Cloud" class="rounded"></a>]</p>
+        <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2029-08-31 14:47</p>
+        <p><strong>Intel Chip is coming.</strong></p>
+        <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" alt="" height="32" width="32"> <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="" height="32" width="32"> MATLAB Runtime R2026a</a> Update 4 for macOS</p>
+        <p>*: This software is a stand-alone program. It was tested in macOS Sonoma Version 14.4.</p>
+        <p>**: <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer">MATLAB Runtime R2026a</a> Update 4 (free) is required for the Acycle stand-alone software version 3.0.2. MATLAB Runtime R2020b is not compatible with Acycle v3.0.2.</p>
         <br />
-        <h3>Acycle v3.0 for Windows</h3>
+        <h3>Acycle v3.0.2 for Windows</h3>
         <br />
-        <p><a href="https://disk.pku.edu.cn/link/AA7720700B2D2044BAA19F75BA2CA6A13D" target="_blank" rel="noopener noreferrer">Acycle_Windows_3_0.rar</a> [via Dropbox <a href ="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href ="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt="Baidu Cloud" class="rounded"></a>]</p>
-        <p>Expires: 2029-08-27 17:29</p>
-        <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" height="32" width="32"> <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" height="32" width="32"> MATLAB Runtime R2026a for Windows</a></p>
+        <p>Compressed package: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.2_Windows_R2026aUpdate4.zip</a> [via Dropbox <a href="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>, Baidu Cloud <a href="https://pan.baidu.com/s/14-xRzV_-BBrE6XfyR_71Nw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/24/000000/baidu-cloud.png" alt="Baidu Cloud" class="rounded"></a>]</p>
+        <p>Installer: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.2_Windows_R2026aUpdate4_Installer.zip</a></p>
+        <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2029-08-31 14:47</p>
+        <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" alt="" height="32" width="32"> <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="" height="32" width="32"> MATLAB Runtime R2026a</a> Update 4 for Windows</p>
         <p>*: This software is a stand-alone program. It was tested in Windows 10.</p>
-        <p>**: <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer">MATLAB Runtime R2026a</a> (free) is required for the Acycle stand-alone software version 3.0. MATLAB Runtime R2020b is not compatible with Acycle v3.0.</p>
+        <p>**: <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer">MATLAB Runtime R2026a</a> Update 4 (free) is required for the Acycle stand-alone software version 3.0.2. MATLAB Runtime R2020b is not compatible with Acycle v3.0.2.</p>
 </section>
 
+<section id="startup-fix">
+        <br />
+        <h2>Startup Fix</h2>
+        <br />
+        <h3>Windows</h3>
+        <p>If Acycle 3.0.2 does not open and the console reports a missing module or DLL, follow the repair instructions for MATLAB Runtime R2026a Update 4.</p>
+        <p><a href="/downloads/startup-fix/windows/" target="_blank" rel="noopener noreferrer">Windows Startup Fix (English / 中文)</a></p>
+        <br />
+        <h3>macOS</h3>
+        <p>1. If Acycle does not respond and Terminal reports that <code>libmwlaunchermain.dylib</code> cannot be loaded, see the diagnosis and temporary runtime-library-path workaround.</p>
+        <p><a href="/downloads/startup-fix/macos-runtime-path/" target="_blank" rel="noopener noreferrer">macOS Runtime Library Path Startup Issue Report (English / 中文)</a></p>
+        <p>2. If macOS reports that Acycle “is damaged and can’t be opened,” follow the Gatekeeper quarantine-removal instructions.</p>
+        <p><a href="/downloads/startup-fix/macos-gatekeeper/" target="_blank" rel="noopener noreferrer">macOS Gatekeeper Startup Fix (English / 中文)</a></p>
+</section>
 
-<section id ="download">
+<section id="download">
 <br />
         <h2>Download Users' Guide</h2>
         <br />
@@ -89,13 +105,16 @@ title: Downloads
         <br />
         <p>更多详情: <a href="https://acycle.org/manual/" target="_blank" rel="noopener noreferrer">用户指南中文版</a>.</p>
         <br />
-        <h2>Download Acycle Papers </h2>
+        <h2>Download Acycle Papers</h2>
         <br />
-        <a href="/docs/Li-et-al-2019-Acycle-software.pdf" target="_blank" rel="noopener noreferrer"> Li et al., 2019 Computers & Geosciences </a>
+        <a href="/docs/Li-et-al-2019-Acycle-software.pdf" target="_blank" rel="noopener noreferrer">Li et al., 2019 Computers &amp; Geosciences</a>
         <br />
         <br />
-        <b>Li et al., 2025 Science China Earth Sciences</b> - "Acycle: Enhanced time-series analysis software for geoscience research and education"<br>
-        <a href="https://doi.org/10.1007/s11430-025-1848-7" target="_blank" rel="noopener noreferrer">[View Paper]</a> | 
-        <a href="https://www.sciengine.com/cfs/files/files/fs/2019610391851565056" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a><br>
+        <a href="https://doi.org/10.1007/s11430-025-1848-7" target="_blank" rel="noopener noreferrer">Li et al., 2025 Science China Earth Sciences</a>
+        <br />
+        “Acycle: Enhanced time-series analysis software for geoscience research and education”
+        <br />
+        <a href="https://www.sciengine.com/cfs/files/files/fs/2019610391851565056" target="_blank" rel="noopener noreferrer">[Supplementary Materials]</a>
+        <br />
         <p style="font-size: 0.9em; margin-top: 5px;">This paper presents standardized recommendations for reporting data and parameters; following these recommendations will improve the reproducibility and reliability of research results. The supplementary materials include a demonstration case study and an Excel file for parameter documentation.</p>
 </section>
