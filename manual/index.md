@@ -10,10 +10,15 @@ title: Manuals
                 <h3>Users' Guide</h3>
             </div>
             <div class = "container">
-                <p><h5> <a href ="/docs/Acycle_Users_Guide.pdf"> Here </a> </h5></p>
-                <p><h5> <a href ="/docs/Acycle_Users_Guide_Chinese.pdf"> Acycle用户指南中文版 </a> </h5></p>
-                <p><h5> or:  Acycle's "Help" menu - "Manual" </h5></p>
-                <p><h5> or:    /doc/Acycle_Users_Guide.pdf  (MatLab version)</h5></p>
+                <h5><a href="https://github.com/mingsongli/acycleDoc/blob/main/Acycle_Users_Guide.pdf"
+                       target="_blank" rel="noopener noreferrer">Acycle Users' Guide (English)</a></h5>
+                <h5><a href="https://github.com/mingsongli/acycleDoc/blob/main/Acycle%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97.pdf"
+                       target="_blank" rel="noopener noreferrer">Acycle用户指南（中文版）</a></h5>
+                <h5>Repository and downloadable DOCX/PDF files:
+                    <a href="https://github.com/mingsongli/acycleDoc"
+                       target="_blank" rel="noopener noreferrer">github.com/mingsongli/acycleDoc</a>
+                </h5>
+                <h5>Also available from Acycle's "Help" menu → "Manual".</h5>
             </div>
 </section>
 <section id = "guide">
