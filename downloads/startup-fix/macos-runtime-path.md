@@ -27,7 +27,7 @@ MATLAB Runtime R2026a Update 4 (installed separately)
 
 ## Problem Description
 
-After downloading the Acycle3.0.2_AppleMChip_Runtime2026a.app version from Baidu Netdisk and placing it in the Applications folder, double-clicking the application icon produces no response and the application cannot start normally.
+After downloading the Acycle3.0.2_AppleMChip_Runtime2026a.app version and placing it in the Applications folder, double-clicking the application icon produces no response and the application cannot start normally.
 
 Prerequisite: Acycle_3_0.app can be opened normally by double-clicking.
 
@@ -106,7 +106,7 @@ MATLAB Runtime R2026a Update 4（单独安装）
 
 ## 问题描述
 
-从百度网盘下载 Acycle3.0.2_AppleMChip_Runtime2026a.app，并将其放入“应用程序”文件夹后，双击应用程序图标没有任何响应，程序无法正常启动。
+下载 Acycle3.0.2_AppleMChip_Runtime2026a.app，并将其放入“应用程序”文件夹后，双击应用程序图标没有任何响应，程序无法正常启动。
 
 前提：Acycle_3_0.app 可以通过双击正常打开。
 

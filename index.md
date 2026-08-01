@@ -21,10 +21,10 @@ title:
                          <a href ="https://www.facebook.com/acycle.org"> Acycle Facebook Page</a>
                          <br />
                          <br />
-                         <h2>Acycle v3.0 is now available</h2>
-                         <p>Acycle v3.0 is a major upgrade from v2.8. The release introduces a completely rebuilt code-based graphical interface that is easier for AI-assisted tools to inspect and invoke directly, COCO 2.0 with substantially enhanced COCO/eCOCO workflows, new statistical-analysis tools, improved EEMD/EMD output, native macOS shortcuts, and numerous corrections to recurrence, spectral, and wavelet analyses.</p>
-                         <p><strong>Important:</strong> The standalone edition of Acycle v3.0 requires <strong>MATLAB Runtime R2026a</strong> and is not compatible with MATLAB Runtime R2020b. Please install MATLAB Runtime R2026a before launching Acycle v3.0.</p>
-                         <p><a href="/downloads/"><strong>Download Acycle v3.0</strong></a></p>
+                         <h2>Acycle v3.0.3 is now available</h2>
+                         <p>Acycle v3.0.3 is available for MATLAB and macOS. It improves cross-platform folder and file-list handling, makes refresh behavior safer throughout the graphical interface, and strengthens COCO/eCOCO startup and result saving. The Windows standalone version remains v3.0.2.</p>
+                         <p><strong>Important:</strong> The macOS v3.0.3 and Windows v3.0.2 standalone editions require <strong>MATLAB Runtime R2026a Update 4</strong> and are not compatible with MATLAB Runtime R2020b.</p>
+                         <p><a href="/downloads/"><strong>Download Acycle</strong></a></p>
 				</div>
 			</div>
 		</section>	

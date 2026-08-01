@@ -15,7 +15,7 @@ permalink: /downloads/startup-fix/macos-gatekeeper/
 
 If macOS displays:
 
-> “Acycle_3_0” is damaged and can’t be opened. You should move it to the Trash.
+> “Acycle3_0_3” is damaged and can’t be opened. You should move it to the Trash.
 
 The message may be caused by the macOS Gatekeeper quarantine attribute rather than actual file corruption. Proceed only when Acycle was downloaded from an official or trusted source.
 
@@ -24,7 +24,7 @@ The message may be caused by the macOS Gatekeeper quarantine attribute rather th
 Fully extract the downloaded archive, then move:
 
 ```text
-Acycle_3_0.app
+Acycle3_0_3.app
 ```
 
 to:
@@ -40,7 +40,7 @@ Do not run the app directly from a ZIP archive, the Downloads folder, or a disk 
 Open Terminal and run:
 
 ```shell
-xattr -dr com.apple.quarantine "/Applications/Acycle_3_0.app"
+xattr -dr com.apple.quarantine "/Applications/Acycle3_0_3.app"
 ```
 
 Press Return, then reopen Acycle.
@@ -51,14 +51,14 @@ To avoid typing the path incorrectly, enter:
 xattr -dr com.apple.quarantine
 ```
 
-Leave a space at the end, drag `Acycle_3_0.app` from Finder into the Terminal window, and press Return.
+Leave a space at the end, drag `Acycle3_0_3.app` from Finder into the Terminal window, and press Return.
 
 ### 3. If Terminal reports “Permission denied”
 
 Run:
 
 ```shell
-sudo xattr -dr com.apple.quarantine "/Applications/Acycle_3_0.app"
+sudo xattr -dr com.apple.quarantine "/Applications/Acycle3_0_3.app"
 ```
 
 Enter your Mac login password and press Return. No characters will appear while the password is being typed; this is normal.
@@ -71,17 +71,17 @@ Finally, launch Acycle again from the Applications folder. If the app name or ve
 
 **作者：** 孙明道
 
-### Acycle 3.0.2 - macOS M Chip 启动修复
+### Acycle 3.0.3 - macOS M Chip 启动修复
 
 ### 适用环境
 
 - Apple M Chip
-- Acycle 3.0.2
+- Acycle 3.0.3
 - MATLAB Runtime R2026a Update 4
 
 如果 macOS 提示：
 
-> “Acycle_3_0”已损坏，无法打开。你应该将它移到废纸篓。
+> “Acycle3_0_3”已损坏，无法打开。你应该将它移到废纸篓。
 
 这通常可能是 macOS 的安全隔离机制导致的，并不一定表示程序文件真的损坏。请确认 Acycle 来自官方或可信来源，再按以下步骤操作。
 
@@ -90,7 +90,7 @@ Finally, launch Acycle again from the Applications folder. If the app name or ve
 先完整解压下载文件，然后把：
 
 ```text
-Acycle_3_0.app
+Acycle3_0_3.app
 ```
 
 拖入：
@@ -106,7 +106,7 @@ Acycle_3_0.app
 打开 Terminal（终端），输入：
 
 ```shell
-xattr -dr com.apple.quarantine "/Applications/Acycle_3_0.app"
+xattr -dr com.apple.quarantine "/Applications/Acycle3_0_3.app"
 ```
 
 按回车后，重新打开 Acycle。
@@ -117,14 +117,14 @@ xattr -dr com.apple.quarantine "/Applications/Acycle_3_0.app"
 xattr -dr com.apple.quarantine
 ```
 
-注意末尾保留一个空格，然后把 `Acycle_3_0.app` 从 Finder 拖入终端窗口，再按回车。
+注意末尾保留一个空格，然后把 `Acycle3_0_3.app` 从 Finder 拖入终端窗口，再按回车。
 
 ### 3. 如果提示权限不足
 
 运行：
 
 ```shell
-sudo xattr -dr com.apple.quarantine "/Applications/Acycle_3_0.app"
+sudo xattr -dr com.apple.quarantine "/Applications/Acycle3_0_3.app"
 ```
 
 输入 Mac 登录密码并按回车。输入密码时终端不会显示字符，这是正常现象。
