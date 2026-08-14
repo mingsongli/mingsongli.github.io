@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Acycle 3.0.2 - Windows Startup Fix
+title: Acycle 3.1.1 - Windows Startup Fix
 permalink: /downloads/startup-fix/windows/
 ---
 
 ## Content / 内容
 
-1. English: Acycle 3.0.2 - Windows Startup Fix
-2. 中文：Acycle 3.0.2 - Windows 启动修复
+1. English: Acycle 3.1.1 - Windows Startup Fix
+2. 中文：Acycle 3.1.1 - Windows 启动修复
 
 ---
 
@@ -18,7 +18,7 @@ permalink: /downloads/startup-fix/windows/
 ## Applies to
 
 - Windows 64-bit
-- Acycle 3.0.2
+- Acycle 3.1.1
 - MATLAB Runtime R2026a Update 4
 
 Use this fix if Acycle does not open and the black console shows messages such as:
@@ -79,14 +79,14 @@ Check Windows Security or third-party antivirus quarantine. Restore the official
 
 ---
 
-## 中文说明：Acycle 3.0.2 - Windows 启动修复
+## 中文说明：Acycle 3.1.1 - Windows 启动修复
 
 **作者：** 王之鑫
 
 ## 适用环境
 
 - 64 位 Windows
-- Acycle 3.0.2
+- Acycle 3.1.1
 - MATLAB Runtime R2026a Update 4
 
 如果 Acycle 无法打开，黑色控制台出现以下信息，可以使用本修复：

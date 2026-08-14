@@ -4,9 +4,7 @@ title: Downloads
 ---
 <section id="matlab1">
 <h2>Current versions</h2>
-<p><b>The current MATLAB version of Acycle is v3.1.1.</b></p>
-<p><b>The macOS (Apple M Chip) standalone version remains v3.0.3.</b></p>
-<p><b>The Windows standalone version remains v3.0.2.</b></p>
+<p><b>The current MATLAB, macOS (Apple M Chip), and Windows versions of Acycle are v3.1.1.</b></p>
 <p><b>Acycle v3.1.1 was released August 13, 2026.</b></p>
 <p><strong>Important:</strong> The standalone editions listed below require <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><strong>MATLAB Runtime R2026a</strong></a> <strong>Update 4</strong>. They are not compatible with MATLAB Runtime R2020b.</p>
 <br />
@@ -53,23 +51,23 @@ title: Downloads
 <section id="standalone">
         <h2>Standalone versions</h2>
         <br />
-        <h3>Acycle v3.0.3 for macOS (M Chip)</h3>
+        <h3>Acycle v3.1.1 for macOS (Apple M Chip)</h3>
         <br />
-        <p><a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.3_AppleMChip_Runtime2026a.zip</a> (for Macs with Apple M-series chips only) [via Dropbox <a href="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>]</p>
+        <p><a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.1.1_AppleMChip_Runtime2026a.zip</a> (for Macs with Apple M-series chips only) [via Dropbox <a href="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>]</p>
         <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2039-08-31 14:47</p>
         <p><strong>Intel Chip is coming.</strong></p>
         <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" alt="" height="32" width="32"> <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="" height="32" width="32"> MATLAB Runtime R2026a</a> Update 4 for macOS</p>
         <p>*: This software is a stand-alone program. It was tested in macOS Sonoma Version 14.4.</p>
-        <p>**: <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer">MATLAB Runtime R2026a</a> Update 4 (free) is required for the Acycle stand-alone software version 3.0.3. MATLAB Runtime R2020b is not compatible with Acycle v3.0.3.</p>
+        <p>**: <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer">MATLAB Runtime R2026a</a> Update 4 (free) is required for the Acycle stand-alone software version 3.1.1. MATLAB Runtime R2020b is not compatible with Acycle v3.1.1.</p>
         <br />
-        <h3>Acycle v3.0.2 for Windows</h3>
+        <h3>Acycle v3.1.1 for Windows</h3>
         <br />
-        <p>Compressed package: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.2_Windows_R2026aUpdate4.zip</a> [via Dropbox <a href="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>]</p>
-        <p>Installer: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.2_Windows_R2026aUpdate4_Installer.zip</a></p>
+        <p>Compressed package: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.1.1_Windows_R2026aUpdate4.zip</a> [via Dropbox <a href="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>]</p>
+        <p>Installer: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.1.1_Windows_R2026aUpdate4_Installer.zip</a></p>
         <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2039-08-31 14:47</p>
         <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" alt="" height="32" width="32"> <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="" height="32" width="32"> MATLAB Runtime R2026a</a> Update 4 for Windows</p>
         <p>*: This software is a stand-alone program. It was tested in Windows 10.</p>
-        <p>**: <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer">MATLAB Runtime R2026a</a> Update 4 (free) is required for the Acycle stand-alone software version 3.0.2. MATLAB Runtime R2020b is not compatible with Acycle v3.0.2.</p>
+        <p>**: <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer">MATLAB Runtime R2026a</a> Update 4 (free) is required for the Acycle stand-alone software version 3.1.1. MATLAB Runtime R2020b is not compatible with Acycle v3.1.1.</p>
 </section>
 
 <section id="startup-fix">
@@ -77,12 +75,12 @@ title: Downloads
         <h2>Startup Fix</h2>
         <br />
         <h3>Windows</h3>
-        <p>If Acycle 3.0.2 does not open and the console reports a missing module or DLL, follow the repair instructions for MATLAB Runtime R2026a Update 4.</p>
+        <p>If Acycle 3.1.1 does not open and the console reports a missing module or DLL, follow the repair instructions for MATLAB Runtime R2026a Update 4.</p>
         <p><a href="/downloads/startup-fix/windows/" target="_blank" rel="noopener noreferrer">Windows Startup Fix (English / 中文)</a></p>
         <br />
         <h3>macOS</h3>
         <p>1. If Acycle does not respond and Terminal reports that <code>libmwlaunchermain.dylib</code> cannot be loaded, see the diagnosis and temporary runtime-library-path workaround.</p>
-        <p><a href="/downloads/startup-fix/macos-runtime-path/" target="_blank" rel="noopener noreferrer">macOS Runtime Library Path Startup Issue Report (English / 中文)</a></p>
+        <p><a href="/downloads/startup-fix/macos-runtime-path/" target="_blank" rel="noopener noreferrer">Historical macOS Runtime Library Path Startup Issue Report for v3.0.2 (English / 中文)</a></p>
         <p>2. If macOS reports that Acycle “is damaged and can’t be opened,” follow the Gatekeeper quarantine-removal instructions.</p>
         <p><a href="/downloads/startup-fix/macos-gatekeeper/" target="_blank" rel="noopener noreferrer">macOS Gatekeeper Startup Fix (English / 中文)</a></p>
 </section>
