@@ -21,8 +21,8 @@ title:
                          <a href ="https://www.facebook.com/acycle.org"> Acycle Facebook Page</a>
                          <br />
                          <br />
-                         <h2>Acycle v3.0.3 is now available</h2>
-                         <p>Acycle v3.0.3 is available for MATLAB and macOS. It improves cross-platform folder and file-list handling, makes refresh behavior safer throughout the graphical interface, and strengthens COCO/eCOCO startup and result saving. The Windows standalone version remains v3.0.2.</p>
+                         <h2>Acycle v3.1.1 is now available</h2>
+                         <p>Acycle v3.1.1 is available for MATLAB from GitHub and disk.pku.edu.cn. It restores EMD/EEMD, expands reusable programmatic analysis workflows, and fixes Spectral Analysis, DYNOT, evolutionary spectral displays, and statistical GUI regressions. The standalone editions remain v3.0.3 for macOS (Apple M Chip) and v3.0.2 for Windows.</p>
                          <p><strong>Important:</strong> The macOS v3.0.3 and Windows v3.0.2 standalone editions require <strong>MATLAB Runtime R2026a Update 4</strong> and are not compatible with MATLAB Runtime R2020b.</p>
                          <p><a href="/downloads/"><strong>Download Acycle</strong></a></p>
 				</div>

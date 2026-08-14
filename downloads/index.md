@@ -4,46 +4,49 @@ title: Downloads
 ---
 <section id="matlab1">
 <h2>Current versions</h2>
-<p><b>The current MATLAB and macOS versions of Acycle are v3.0.3.</b></p>
+<p><b>The current MATLAB version of Acycle is v3.1.1.</b></p>
+<p><b>The macOS (Apple M Chip) standalone version remains v3.0.3.</b></p>
 <p><b>The Windows standalone version remains v3.0.2.</b></p>
-<p><b>Acycle v3.0.3 was released August 1, 2026.</b></p>
+<p><b>Acycle v3.1.1 was released August 13, 2026.</b></p>
 <p><strong>Important:</strong> The standalone editions listed below require <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><strong>MATLAB Runtime R2026a</strong></a> <strong>Update 4</strong>. They are not compatible with MATLAB Runtime R2020b.</p>
 <br />
 
-<h2>v3.0.3 What's new</h2>
+<h2>v3.1.1 What's new</h2>
 
 <ol>
     <li>
-        <p><b>FIXED: Cross-platform folder and file-list handling.</b></p>
-        <p>Each user's current data folder is now stored in the user's Acycle settings. File lists are rebuilt safely, preventing stale or mismatched selections after analysis outputs are saved.</p>
+        <p><b>RESTORED: Empirical Mode Decomposition tools.</b></p>
+        <p>EMD and EEMD are again available from the Timeseries menu. Their numerical core can also be used independently of the desktop GUI for programmatic and batch workflows.</p>
     </li>
     <li>
-        <p><b>IMPROVED: Refresh behavior throughout Acycle.</b></p>
-        <p>Manual refresh clears the current selection, while automatic refreshes preserve a valid selection by file name. Spectral, wavelet, filtering, recurrence, correlation, interpolation, transformation, age-model, and other affected workflows now use the same safe refresh process.</p>
+        <p><b>NEW: Reusable programmatic analysis interfaces.</b></p>
+        <p>Major filtering, interpolation, spectral, statistical, age-model, and time-series operations now provide validated numerical cores for scripts, batch workflows, automated testing, and future tool integration.</p>
     </li>
     <li>
-        <p><b>IMPROVED: COCO/eCOCO startup and depth-unit handling.</b></p>
-        <p>The window now opens in COCO mode by default. If the main-window unit remains <code>unit</code>, Acycle treats it as metres after a non-blocking warning so the analysis can continue.</p>
+        <p><b>FIXED: Spectral Analysis numerical and interface regressions.</b></p>
+        <p>MTM confidence levels, physical Nyquist frequency, frequency and period coordinates, and exact-NFFT zero padding are corrected. The SWA confidence selector, v2.8 colors and line styles, and several macOS layout and validation behaviors are also restored.</p>
     </li>
     <li>
-        <p><b>FIXED: COCO/eCOCO result saving.</b></p>
-        <p>Result windows are protected while data and figures are saved, preventing incomplete exports if a window is closed too early. COCO/eCOCO saves numerical results, FIG files, and vector PDF files only, without bitmap images.</p>
+        <p><b>FIXED: DYNOT and Power Decomposition compatibility.</b></p>
+        <p>Power Decomposition again preserves the target-band union, frequency clipping, window, and FFT behavior required by DYNOT. DYNOT confidence intervals retain the true median center, settings persist correctly, and the progress window now closes cleanly.</p>
     </li>
     <li>
-        <p><b>TESTED: File-list, GUI-refresh, and output-saving regressions.</b></p>
-        <p>Automated tests and end-to-end MATLAB R2026a GUI checks cover working-directory storage, selection handling, refresh behavior, and COCO/eCOCO output saving with irregularly sampled data.</p>
+        <p><b>FIXED: Evolutionary spectral-analysis and statistical displays.</b></p>
+        <p>Evolutionary FFT, periodogram, Lomb-Scargle, and MTM views retain the intended grids, limits, directions, logarithmic coordinates, and 3-D behavior. One-sample t-test visualization and the chi-square goodness-of-fit window title are also corrected.</p>
     </li>
 </ol>
+
+<p><b>Special thanks to Zhenglei Wu for valuable testing and debugging.</b></p>
 
 <br />
 </section>
 
 <section id="matlab2">
-        <h2>Acycle 3.0.3 MATLAB version</h2>
+        <h2>Acycle 3.1.1 MATLAB version</h2>
         <br />
-        <p>Option 1: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.3_MatLab.zip</a> @ disk.pku.edu.cn.</p>
-        <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2029-08-31 14:47</p>
-        <p>Option 2: Source code (zip/tar.gz): <a href="https://github.com/mingsongli/acycle/releases/tag/v3.0.3" target="_blank" rel="noopener noreferrer">Acycle v3.0.3 on GitHub</a>.</p>
+        <p>Option 1: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.1.1_MatLab.zip</a> @ disk.pku.edu.cn.</p>
+        <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2039-08-31 14:47</p>
+        <p>Option 2: Source code: <a href="https://github.com/mingsongli/acycle/archive/refs/tags/v3.1.1.zip" target="_blank" rel="noopener noreferrer">zip</a> / <a href="https://github.com/mingsongli/acycle/archive/refs/tags/v3.1.1.tar.gz" target="_blank" rel="noopener noreferrer">tar.gz</a> (<a href="https://github.com/mingsongli/acycle/tree/v3.1.1" target="_blank" rel="noopener noreferrer">Acycle v3.1.1 on GitHub</a>).</p>
 </section>
 <br />
 
@@ -53,7 +56,7 @@ title: Downloads
         <h3>Acycle v3.0.3 for macOS (M Chip)</h3>
         <br />
         <p><a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.3_AppleMChip_Runtime2026a.zip</a> (for Macs with Apple M-series chips only) [via Dropbox <a href="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>]</p>
-        <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2029-08-31 14:47</p>
+        <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2039-08-31 14:47</p>
         <p><strong>Intel Chip is coming.</strong></p>
         <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" alt="" height="32" width="32"> <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="" height="32" width="32"> MATLAB Runtime R2026a</a> Update 4 for macOS</p>
         <p>*: This software is a stand-alone program. It was tested in macOS Sonoma Version 14.4.</p>
@@ -63,7 +66,7 @@ title: Downloads
         <br />
         <p>Compressed package: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.2_Windows_R2026aUpdate4.zip</a> [via Dropbox <a href="https://www.dropbox.com/sh/t53vjs539gmixnm/AAC0BqTR0U5xghKwuVc1Iwbma?dl=0" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/dropbox.png" alt="Dropbox" class="rounded" height="32" width="32"></a>]</p>
         <p>Installer: <a href="https://disk.pku.edu.cn/link/AA8E19661D535045438208545141E64EFF" target="_blank" rel="noopener noreferrer">Acycle3.0.2_Windows_R2026aUpdate4_Installer.zip</a></p>
-        <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2029-08-31 14:47</p>
+        <p><b>Folder Name:</b> Acycle<br /><b>Expires:</b> 2039-08-31 14:47</p>
         <p><img src="https://img.icons8.com/material/24/000000/xbox-cross.png" alt="" height="32" width="32"> <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="" height="32" width="32"> MATLAB Runtime R2026a</a> Update 4 for Windows</p>
         <p>*: This software is a stand-alone program. It was tested in Windows 10.</p>
         <p>**: <a href="https://www.mathworks.com/products/compiler/matlab-runtime.html" target="_blank" rel="noopener noreferrer">MATLAB Runtime R2026a</a> Update 4 (free) is required for the Acycle stand-alone software version 3.0.2. MATLAB Runtime R2020b is not compatible with Acycle v3.0.2.</p>
