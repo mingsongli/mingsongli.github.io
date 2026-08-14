@@ -41,9 +41,9 @@ title: About
 						</div>
 					</div>
                                 <div class="row">
-                                            <h3>Linda Hinnov</h3>
+                                            <h3>Linda A. Hinnov</h3>
                                             <p>co-author</p>
-                                            <h3>, Lee Kump</h3>
+                                            <h3>, Lee R. Kump</h3>
                                             <p>co-author</p>
                                             <h3>, Jacques Laskar </h3>
                                             <p>Astronomical Solutions  </p>
@@ -55,13 +55,13 @@ title: About
                                             <p>Insolation  </p>
                                             <h3>, Matthias Sinnesael </h3>
                                             <p>Spectral Moments  </p>
-                                            <h3>, Nicolas Thibault </h3>
+                                            <h3>, Nicolas R. Thibault </h3>
                                             <p>Dynamic Filtering  </p>
                                             <h3>, Giovanni Rizzi </h3>
                                             <p>Dynamic Filtering  </p>
                                             <h3>, Christopher Torrence </h3>
                                             <p>Wavelet  </p>
-                                            <h3>, Gilbert Compo </h3>
+                                            <h3>, Gilbert P. Compo </h3>
                                             <p>Wavelet  </p>
                                             <h3>, Yonggang Liu </h3>
                                             <p>Wavelet  </p>
@@ -71,7 +71,7 @@ title: About
                                             <p>Multitaper Adaptive Weighting, Harmonic F-Test  </p>
                                         <h3>, Eric Ruggieri </h3>
                                         <p>Bayesian Change Point  </p>
-					<h3>, Graham Weedon </h3>
+					<h3>, Graham P. Weedon </h3>
                                         <p>SWA  </p>
 					<h3>, Bryan C. Lougheed </h3>
                                         <p>Undatable  </p>
@@ -92,7 +92,8 @@ title: About
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                    <p>Feng Cheng, Anne-Christine Da Silva, Jaume Dinarès-Turell, Hewei Duan, Zheng Gong, Zhengtang Guo, Yanan Fang, Marco Franceschi, Daniel R. Franco, Frits Hilgen, Xiaoni Hu, Dorothée Husson, Arsenio Muñoz Jiménez, Ilja Kocken, Lee R. Kump, Dongyang Liu, Lucas Lourens, Kunyuan Ma, Mathieu Martinez, Stephen Meyers, James Ogg, Paul Olsen, Jeffrey Park, J. Fred Read, Chen Shen, Victor A. Piedrahita Velez, Chuanyue Wang, Meng Wang, Zhixin Wang, Yujing Wu, Deke Xu, Xu Yao, Qiyan Zhang, Haotian Zhang, Haoxun Zhang, Xiaoyu Zhang, Yang Zhang, Ze Zhang, Hanyu Zhu, Christian Zeeden</p>
+                    <p>We gratefully acknowledge the following colleagues for suggestions, testing, feedback, bug reports, documentation, and other support through Acycle v3.1.1:</p>
+                    <p>Anne-Christine Da Silva, Arsenio Muñoz Jiménez, Chen Shen, Christian Zeeden, Chuanyue Wang, Daniel R. Franco, David A. Hodell, Deke Xu, Dongyang Liu, Dorothée Husson, Feng Cheng, Frits Hilgen, Haotian Zhang, Haoxun Zhang, Hanyu Zhu, Hewei Duan, Ilja Kocken, J. Fred Read, James Ogg, Jaume Dinarès-Turell, Kunyuan Ma, Lucas Lourens, Marco Franceschi, Masayuki Ikeda, Mathieu Martinez, Meng Wang, Mengyao Du, Michael Schulz, Mingdao Sun, Paul Olsen, Qiyan Zhang, Stephen Meyers, Victor A. Piedrahita Velez, Xiaoni Hu, Xiaoyu Zhang, Xu Yao, Y Bin, Yan Zhao (赵艳), Yanan Fang, Yang (Wendy) Zhang, Yujing Wu, Ze Zhang, Zheng Gong, Zhengtang Guo, Zhenglei Wu, Zhixin Wang</p>
                     </div>
                 </div>
             </div>
